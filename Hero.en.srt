@@ -1,51 +1,48 @@
 ﻿1
 00:02:10,547 --> 00:02:14,248
-<i> I was orphaned at a young age</i> 
- <i> and was never given a name.</i>
+I was orphaned at a young age
+ and was never given a name.
 
 2
 00:02:14,250 --> 00:02:16,350
-<i> People simply</i>             
-     <i> called me Nameless.</i>
+People simply called me Nameless.
 
 3
 00:02:16,352 --> 00:02:19,487
-<i> With no family name to</i>     
-    <i> live up to, I devoted</i>      
-    <i> myself to the sword.</i>
+With no family name to live up to,
+  I devoted myself to the sword.
 
 4
 00:02:19,489 --> 00:02:23,642
-<i> I spent ten years perfecting</i>   
-<i> unique skills as a swordsman.</i>
+I spent ten years perfecting
+unique skills as a swordsman.
 
 5
 00:02:23,644 --> 00:02:26,145
-<i> The King of Qin has</i>        
-    <i> summoned me to court,</i>
+The King of Qin has summoned me to court,
 
 6
 00:02:26,147 --> 00:02:29,481
-<i> for what I have accomplished</i>  
- <i> has astonished the kingdom.</i>
+for what I have accomplished
+ has astonished the kingdom.
 
 7
 00:02:36,490 --> 00:02:38,573
-<i> (man gives forward command)</i>
+(Man gives forward command)
 
 8
 00:02:46,967 --> 00:02:48,900
-<i> (man gives command to stop)</i>
+(Man gives command to stop)
 
 9
 00:03:03,884 --> 00:03:06,517
-By order of his majesty,     
-   we have traveled overnight
+By order of his majesty, we
+  have traveled overnight
 
 10
 00:03:06,519 --> 00:03:08,486
-to bring the warrior to     
-    see you, Prime Minister.
+to bring the warrior to see you,
+      Prime Minister.
 
 11
 00:03:29,009 --> 00:03:33,411
@@ -53,59 +50,56 @@ Sky, Snow and Broken Sword.
 
 12
 00:03:33,413 --> 00:03:35,646
-For ten years these three    
+For ten years these three
    assassins from Zhao
 
 13
 00:03:35,648 --> 00:03:38,549
-have repeatedly plotted     
-    to kill his majesty,
+have repeatedly plotted
+  to kill his majesty,
 
 14
 00:03:38,551 --> 00:03:43,088
-so he has not known a single  
+so he has not known a single
   peaceful night's sleep.
 
 15
 00:03:43,090 --> 00:03:46,691
-Today we discover that a hero  
- from our great kingdom of Qin
+Today we discover that a hero
+from our great kingdom of Qin
 
 16
 00:03:46,693 --> 00:03:49,060
-has single-handedly       
-      wiped out the enemy.
+has single-handedly wiped out the enemy.
 
 17
 00:03:49,062 --> 00:03:53,698
-From now on his majesty can    
- once more sleep without fear!
+From now on his majesty can once more
+       sleep without fear!
 
 18
 00:03:53,700 --> 00:03:56,768
-<i> (all)</i> His majesty's courtiers 
-  congratulate him.
+(all) His majesty's courtiers
+     congratulate him.
 
 19
 00:03:56,770 --> 00:04:01,089
-Heaven has sent a great warrior 
+Heaven has sent a great warrior
 to vanquish the assassins!
 
 20
 00:04:14,455 --> 00:04:17,355
-By his majesty's command,    
+By his majesty's command,
    summon the warrior!
 
 21
 00:04:53,861 --> 00:04:57,428
-<i> (man)</i> When you enter the      
-  palace, always remain one     
-  hundred paces from the throne
+(man) When you enter the palace, always
+remain one hundred paces from the throne
 
 22
 00:04:57,430 --> 00:05:00,132
-or you will be killed      
-     without question.
+or you will be killed without question.
 
 23
 00:05:00,134 --> 00:05:02,234
@@ -113,44 +107,41 @@ Please do not forget!
 
 24
 00:05:30,331 --> 00:05:32,364
-<i> (King of Qin)</i> For ten years,
+(King of Qin) For ten years,
 
 25
 00:05:32,366 --> 00:05:35,300
-no one's approached within      
-one hundred paces of the throne.
+no one has approached within one hundred
+        paces of the throne.
 
 26
 00:05:35,302 --> 00:05:38,937
-Do you know why?                
-     <i> (Nameless)</i> Assassins      
-      were everywhere.
+- Do you know why?
+- (Nameless) Assassins were everywhere.
 
 27
 00:05:38,939 --> 00:05:42,874
-Correct. As long as          
-   there are assassins,         
-   I cannot remove my armor.
+Correct. As long as there are assassins,
+     I cannot remove my armor.
 
 28
 00:05:42,876 --> 00:05:46,345
-Now that you have rooted out  
+Now that you have rooted out
   this evil on our behalf,
 
 29
 00:05:46,347 --> 00:05:48,680
-what do you desire       
-       as a reward?
+what do you desire as a reward?
 
 30
 00:05:48,682 --> 00:05:51,783
-To rid great Qin of its enemies 
+To rid great Qin of its enemies
 is my duty. I desire no reward.
 
 31
 00:05:51,785 --> 00:05:55,537
-In accordance with Qin law,    
- you must be properly rewarded.
+In accordance with Qin law,
+you must be properly rewarded.
 
 32
 00:06:00,093 --> 00:06:04,128
@@ -158,8 +149,8 @@ Sky's silver spear
 
 33
 00:06:04,130 --> 00:06:09,501
-has wounded untold numbers   
-   of our brave Qin warriors.
+has wounded untold numbers
+of our brave Qin warriors.
 
 34
 00:06:09,503 --> 00:06:11,069
@@ -167,52 +158,47 @@ Pronounce my edict!
 
 35
 00:06:11,071 --> 00:06:14,372
-By order of his majesty, he     
-who vanquishes the assassin Sky
+By order of his majesty, he who
+  vanquishes the assassin Sky
 
 36
 00:06:14,374 --> 00:06:16,625
-will be awarded 1000 pieces   
-  of gold and authority over    
-  1000 households.
+will be awarded 1000 pieces of gold
+and authority over 1000 households.
 
 37
 00:06:16,627 --> 00:06:20,662
-Advance within 20 paces     
-    of the throne and drink     
-    with his majesty!
+Advance within 20 paces of the throne
+    and drink with his majesty!
 
 38
 00:06:35,729 --> 00:06:39,664
-According to my informants,   
-  you are a citizen of Qin.
+According to my informants,
+ you are a citizen of Qin.
 
 39
 00:06:39,666 --> 00:06:42,450
-Your humble servant Nameless,  
- Prefect of Lan Meng district.
+Your humble servant Nameless,
+Prefect of Lan Meng district.
 
 40
 00:06:42,452 --> 00:06:45,787
-A mere local Prefect! With    
-  authority over no more than   
-  ten square miles!
+A mere local Prefect! With authority over
+    no more than ten square miles!
 
 41
 00:06:45,789 --> 00:06:49,057
-This is the lowest rank of   
-   office in our kingdom.
+This is the lowest rank of
+  office in our kingdom.
 
 42
 00:06:49,059 --> 00:06:53,311
-What enabled you to overcome  
-  the three deadly assassins    
-  from Zhao?
+What enabled you to overcome the
+three deadly assassins from Zhao?
 
 43
 00:06:53,313 --> 00:06:55,330
-I dealt with them        
-       one at a time.
+I dealt with them one at a time.
 
 44
 00:06:55,332 --> 00:06:57,299
@@ -220,69 +206,63 @@ Tell me in detail.
 
 45
 00:06:57,301 --> 00:06:59,801
-Perhaps your majesty has    
-    heard that Broken Sword
+Perhaps your majesty has heard
+     that Broken Sword
 
 46
 00:06:59,803 --> 00:07:02,788
-and Snow were lovers?           
-                  Indeed I have.
+- and Snow were lovers?
+- Indeed I have.
 
 47
 00:07:02,790 --> 00:07:06,158
-And was your majesty aware that 
-they had not spoken to each     
-other for three years?
+And was your majesty aware that they had
+not spoken to each other for three years?
 
 48
 00:07:06,160 --> 00:07:08,643
-Three years without words?   
-   Why was that?
+Three years without words?
+     Why was that?
 
 49
 00:07:08,645 --> 00:07:12,380
-Snow had spent one night    
-    with Sky as lovers.
+Snow had spent one night
+  with Sky as lovers.
 
 50
 00:07:12,382 --> 00:07:14,800
-Broken Sword took        
-       this to heart.
+Broken Sword took this to heart.
 
 51
 00:07:14,802 --> 00:07:17,469
-Why have I not           
-       heard about this?
+Why have I not heard about this?
 
 52
 00:07:17,471 --> 00:07:20,588
-It took your servant much      
- effort to uncover this secret.
+It took your servant much effort
+   to uncover this secret.
 
 53
 00:07:22,476 --> 00:07:24,542
-To create a rift between    
-    Snow and Broken Sword,
+To create a rift between
+ Snow and Broken Sword,
 
 54
 00:07:24,544 --> 00:07:26,478
-I had first to          
-        dispose of Sky.
+I had first to dispose of Sky.
 
 55
 00:07:26,480 --> 00:07:30,982
-Mm. I am beginning to      
-     fathom your strategy.
+Mm. I am beginning to
+fathom your strategy.
 
 56
 00:07:30,984 --> 00:07:32,700
-Your Majesty is         
-        most perceptive.
+Your Majesty is most perceptive.
 
 57
 00:07:32,702 --> 00:07:35,169
-What did you use        
-        to defeat Sky?
+What did you use to defeat Sky?
 
 58
 00:07:35,171 --> 00:07:37,005
@@ -290,31 +270,26 @@ The sword.
 
 59
 00:07:37,007 --> 00:07:44,129
-<i> (Nameless) Within Lan Meng it</i>  
-<i> is my responsibility to arrest</i> 
-<i> criminals.</i>
+(Nameless) Within Lan Meng it is my
+responsibility to arrest criminals.
 
 60
 00:07:44,131 --> 00:07:47,499
-<i> On the fifth day of the sixth</i> 
- <i> month Sky appeared in a chess</i> 
- <i> house.</i>
+On the fifth day of the sixth month
+  Sky appeared in a chess house.
 
 61
 00:07:47,501 --> 00:07:53,070
-<i> I had heard that he was a lover</i>
-<i> of chess and music, and was</i>    
-<i> a frequent visitor.</i>
+I had heard that he was a lover of chess
+ and music, and was a frequent visitor.
 
 62
 00:08:11,024 --> 00:08:13,692
-The seven elite guards     
-     from Qin Court...
+The seven elite guards from Qin Court...
 
 63
 00:08:13,694 --> 00:08:16,862
-We have been trailing      
-     you for days.
+We have been trailing you for days.
 
 64
 00:08:16,864 --> 00:08:18,546
@@ -322,22 +297,19 @@ You are under arrest!
 
 65
 00:08:18,548 --> 00:08:21,148
-Reveal your weapon         
-     and identify yourself!
+Reveal your weapon and identify yourself!
 
 66
 00:09:57,497 --> 00:09:59,681
-<i> (Nameless)</i> Halt!
+(Nameless) Halt!
 
 67
 00:10:07,808 --> 00:10:10,775
-The local Prefect.         
-     What can I do for you?
+The local Prefect. What can I do for you?
 
 68
 00:10:10,777 --> 00:10:12,677
-This region is           
-       under my control!
+This region is under my control!
 
 69
 00:10:12,679 --> 00:10:14,212
@@ -345,56 +317,54 @@ And?
 
 70
 00:10:14,214 --> 00:10:18,182
-You are a wanted criminal!   
-   I am here to arrest you!
+You are a wanted criminal!
+ I am here to arrest you!
 
 71
 00:11:37,531 --> 00:11:39,898
-<i> (swords clanging)</i>
+(Swords clanging)
 
 72
 00:11:53,947 --> 00:11:57,849
-Sir, would you be kind enough  
- to play us another tune?
+Sir, would you be kind enough
+  to play us another tune?
 
 73
 00:12:08,061 --> 00:12:11,562
-<i> (starts playing)</i>
+(Starts playing)
 
 74
 00:12:22,943 --> 00:12:27,946
-<i> (Nameless) Martial arts</i>     
-   <i> and music share the same</i>    
-   <i> principles.</i>
+(Nameless) Martial arts and music
+   share the same principles.
 
 75
 00:12:27,948 --> 00:12:31,950
-<i> Both wrestle with complex</i>    
-  <i> chords and rare melodies.</i>
+Both wrestle with complex chords
+     and rare melodies.
 
 76
 00:12:31,952 --> 00:12:36,303
-<i> We stood facing each other</i>   
-  <i> for a long time</i>
+We stood facing each other
+    for a long time
 
 77
 00:12:36,305 --> 00:12:38,472
-<i> neither of us made a move,</i>
+neither of us made a move,
 
 78
 00:12:38,474 --> 00:12:42,927
-<i> while our combat unfolded</i>     
- <i> in the depths of our minds.</i>
+while our combat unfolded in
+  the depths of our minds.
 
 79
 00:15:31,464 --> 00:15:33,380
-How swift your         
-         sword must be!
+How swift your sword must be!
 
 80
 00:15:36,486 --> 00:15:40,354
-I prided myself in knowing   
-   every corner of our land.
+I prided myself in knowing
+ every corner of our land.
 
 81
 00:15:40,356 --> 00:15:42,656
@@ -402,9 +372,8 @@ Yet I was unaware that
 
 82
 00:15:42,658 --> 00:15:46,226
-within the small district    
-   of Lan Meng there is such    
-   a talent like you.
+within the small district of Lan Meng
+  there is such a talent like you.
 
 83
 00:15:50,850 --> 00:15:53,217
@@ -420,41 +389,35 @@ By edict of his Majesty:
 
 86
 00:15:58,324 --> 00:16:02,193
-the assassins Broken Sword    
-  and Flying Snow have always   
-  worked as partners.
+the assassins Broken Sword and Flying Snow
+   have always worked as partners.
 
 87
 00:16:02,195 --> 00:16:05,229
-He who eliminates        
-       either one of them
+He who eliminates either one of them
 
 88
 00:16:05,231 --> 00:16:08,166
-is awarded 10,000 pieces     
-   of gold and authority over   
-   5,000 households.
+is awarded 10,000 pieces of gold and
+  authority over 5,000 households.
 
 89
 00:16:08,168 --> 00:16:12,336
-Advance within ten paces      
-  and drink with his majesty!
+Advance within ten paces and
+  drink with his majesty!
 
 90
 00:16:21,514 --> 00:16:24,949
-Three years ago Snow        
-    and Broken Sword stormed    
-    our palace together.
+Three years ago Snow and Broken Sword
+   stormed our palace together.
 
 91
 00:16:24,951 --> 00:16:30,120
-3,000 soldiers were        
-     unable to resist them.
+3,000 soldiers were unable to resist them.
 
 92
 00:16:30,122 --> 00:16:34,359
-I have since had            
-    this great hall emptied,
+I have since had this great hall emptied,
 
 93
 00:16:34,361 --> 00:16:37,912
@@ -462,9 +425,8 @@ so there is nowhere to hide!
 
 94
 00:16:37,914 --> 00:16:40,264
-Are you saying that your    
-    sword was swifter than      
-    theirs combined?
+Are you saying that your sword was
+  swifter than theirs combined?
 
 95
 00:16:40,266 --> 00:16:41,548
@@ -472,38 +434,34 @@ No.
 
 96
 00:16:44,537 --> 00:16:46,470
-So how did you manage      
-     to overcome them?
+So how did you manage to overcome them?
 
 97
 00:16:54,430 --> 00:16:58,850
-<i> (Nameless) I was disguised</i>    
- <i> as a citizen of Zhao and went</i> 
- <i> searching for them there.</i>
+I was disguised as a citizen of Zhao
+ and went searching for them there.
 
 98
 00:16:58,852 --> 00:17:06,757
-<i> It was rumored they were hiding</i>
-<i> in a small calligraphy school.</i>
+It was rumored they were hiding
+in a small calligraphy school.
 
 99
 00:17:06,759 --> 00:17:10,461
-<i> I arrived as your Majesty's</i>  
-  <i> troops approached.</i>
+I arrived as your Majesty's
+   troops approached.
 
 100
 00:17:10,463 --> 00:17:13,197
-<i> People fled in terror.</i>
+People fled in terror.
 
 101
 00:17:13,199 --> 00:17:16,034
-<i> Only the students</i>            
-  <i> and their master remained.</i>
+Only the students and their master remained.
 
 102
 00:17:16,036 --> 00:17:19,270
-Why have you come        
-       at such a time?
+Why have you come at such a time?
 
 103
 00:17:19,272 --> 00:17:21,472
@@ -511,24 +469,21 @@ Who are you?
 
 104
 00:17:21,474 --> 00:17:24,242
-I am from a small        
-       province in Zhao.
+I am from a small province in Zhao.
 
 105
 00:17:24,244 --> 00:17:28,262
-My father's dying wish was   
-   to acquire a scroll from     
-   your prestigious school.
+My father's dying wish was to acquire
+a scroll from your prestigious school.
 
 106
 00:17:28,264 --> 00:17:33,066
-I fear this may be            
-  the last day of our school.
+I fear this may be the last day of our school.
 
 107
 00:17:33,068 --> 00:17:35,819
-My honorable guest, whose    
-   calligraphy do you seek?
+My honorable guest, whose
+calligraphy do you seek?
 
 108
 00:17:35,821 --> 00:17:37,955
@@ -536,29 +491,25 @@ Master Broken Sword's.
 
 109
 00:17:37,957 --> 00:17:40,875
-<i> Broken Sword's power was</i>     
-  <i> immediately apparent to me.</i>
+Broken Sword's power was
+immediately apparent to me.
 
 110
 00:17:40,877 --> 00:17:44,812
-<i> Rumor had it that his</i>        
-  <i> martial arts skills were</i>     
-  <i> rooted in his calligraphy.</i>
+Rumor had it that his martial arts skills
+    were rooted in his calligraphy.
 
 111
 00:17:44,814 --> 00:17:47,081
-<i> In order to discover</i>      
-     <i> the swordsman,</i>
+In order to discover the swordsman,
 
 112
 00:17:47,083 --> 00:17:52,086
-<i> I had first to study</i>      
-     <i> the calligrapher.</i>
+I had first to study the calligrapher.
 
 113
 00:17:52,088 --> 00:17:53,571
-Which character
-                 do you seek?
+Which character do you seek?
 
 114
 00:17:53,573 --> 00:17:56,073
@@ -566,13 +517,11 @@ Which character
 
 115
 00:17:58,111 --> 00:18:01,679
-My honored guest         
-       is fond of swords?
+My honored guest is fond of swords?
 
 116
 00:18:01,681 --> 00:18:05,483
-I am merely fulfilling
-          my father's last wish.
+I am merely fulfilling my father's last wish.
 
 117
 00:18:14,294 --> 00:18:16,694
@@ -584,56 +533,51 @@ Eight feet.
 
 119
 00:18:18,098 --> 00:18:21,299
-A scroll of that size      
-     requires red ink.
+A scroll of that size requires red ink.
 
 120
 00:18:21,301 --> 00:18:25,519
-Master wishes to borrow some  
-  red ink from the mistress.
+Master wishes to borrow some
+ red ink from the mistress.
 
 121
 00:18:29,742 --> 00:18:33,377
-Master wishes to                
-borrow some red ink.
+Master wishes to borrow some red ink.
 
 122
 00:18:39,119 --> 00:18:41,619
-Has mistress             
-       heard my request?
+Has mistress heard my request?
 
 123
 00:18:41,621 --> 00:18:44,188
-Master wishes to          
-      borrow some red ink.
+Master wishes to borrow some red ink.
 
 124
 00:18:46,459 --> 00:18:48,526
-Tell him to            
-         come himself.
+Tell him to come himself.
 
 125
 00:19:02,675 --> 00:19:05,192
-Your student respectfully    
-   requests some red ink.
+Your student respectfully
+ requests some red ink.
 
 126
 00:19:33,156 --> 00:19:38,292
-<i> Broken Sword had not even</i>   
-   <i> started on the scroll</i>
+Broken Sword had not even
+  started on the scroll
 
 127
 00:19:38,294 --> 00:19:40,911
-<i> when your Majesty's troops</i>   
-  <i> arrived at the city gates.</i>
+when your Majesty's troops
+arrived at the city gates.
 
 128
 00:19:46,802 --> 00:19:48,836
-<i> (man shouts out command)</i>
+(Man shouts out command)
 
 129
 00:20:07,573 --> 00:20:09,907
-<i> (man shouts out command)</i>
+(Man shouts out command)
 
 130
 00:20:27,142 --> 00:20:28,876
@@ -645,36 +589,35 @@ Draw!
 
 132
 00:20:53,286 --> 00:20:56,219
-<i> (Nameless) Your majesty's army</i> 
-<i> has never lost a war</i>
+(Nameless) Your majesty's
+army has never lost a war
 
 133
 00:20:56,221 --> 00:21:00,624
-<i> because they never</i>            
- <i> underestimate their enemy.</i>    
- <i> Their tactics are brilliant,</i>
+because they never underestimate their
+ enemy. Their tactics are brilliant,
 
 134
 00:21:00,626 --> 00:21:04,511
-<i> and the archers are peerless</i>  
- <i> in their range and accuracy.</i>
+and the archers are peerless
+in their range and accuracy.
 
 135
 00:21:04,513 --> 00:21:10,267
-<i> Wherever they venture their</i>  
-  <i> reputation precedes them.</i>
+Wherever they venture their
+ reputation precedes them.
 
 136
 00:21:20,680 --> 00:21:22,647
-<i> (man gives command)</i>
+(Man gives command)
 
 137
 00:21:22,649 --> 00:21:25,565
-<i> (soldiers)</i> Storm! Storm! Storm!
+(Soldiers) Storm! Storm! Storm!
 
 138
 00:21:47,507 --> 00:21:49,923
-<i> (students screaming)</i>
+(Students screaming)
 
 139
 00:22:08,361 --> 00:22:11,662
@@ -682,18 +625,17 @@ You must all remember
 
 140
 00:22:11,664 --> 00:22:14,365
-the arrows of Qin        
-       may be powerful.
+the arrows of Qin may be powerful.
 
 141
 00:22:14,367 --> 00:22:18,369
-They may penetrate our cities  
- and destroy our kingdom.
+They may penetrate our cities
+  and destroy our kingdom.
 
 142
 00:22:18,371 --> 00:22:21,422
-But they can never annihilate  
- our written words!
+But they can never annihilate
+    our written words!
 
 143
 00:22:21,424 --> 00:22:23,757
@@ -701,12 +643,12 @@ Today
 
 144
 00:22:23,759 --> 00:22:28,579
-you will all learn            
-  the true spirit of our art.
+you will all learn the
+true spirit of our art.
 
 145
 00:22:28,581 --> 00:22:31,732
-<i> (soldiers chanting)</i>
+(Soldiers chanting)
 
 146
 00:22:55,541 --> 00:22:58,375
@@ -714,34 +656,30 @@ Storm! Storm! Storm!
 
 147
 00:23:18,231 --> 00:23:20,998
-The Zhao people, did       
-     they really not move?
+The Zhao people, did they really not move?
 
 148
 00:23:21,000 --> 00:23:23,234
-People from Zhao are           
- particularly strong in spirit.
+People from Zhao are particularly
+     strong in spirit.
 
 149
 00:23:23,236 --> 00:23:24,635
-You asked for              
-     the character "Sword."
+You asked for the character "Sword."
 
 150
 00:23:24,637 --> 00:23:26,103
-Why was it              
-        difficult to do?
+Why was it difficult to do?
 
 151
 00:23:26,105 --> 00:23:29,073
-There are normally 19 ways   
-   of writing this character.
+There are normally 19 ways
+of writing this character.
 
 152
 00:23:29,075 --> 00:23:33,677
-What I requested from      
-     Broken Sword was           
-     the 20th variation.
+What I requested from Broken Sword
+    was the 20th variation.
 
 153
 00:23:33,679 --> 00:23:35,462
@@ -749,50 +687,43 @@ Calligraphy and swordplay
 
 154
 00:23:35,464 --> 00:23:38,098
-both rely on merging the power 
- of the wrist with the spirit   
- in the heart.
+both rely on merging the power of the wrist
+     with the spirit in the heart.
 
 155
 00:23:38,100 --> 00:23:42,169
-This 20th variation would    
-   reveal the essence of his    
-   swordsmanship.
+This 20th variation would reveal
+the essence of his swordsmanship.
 
 156
 00:23:42,171 --> 00:23:45,639
-To think that one character   
-  can be written 19 different   
-  ways!
+To think that one character can
+ be written 19 different ways!
 
 157
 00:23:45,641 --> 00:23:50,243
-How can people communicate    
-  when they do not understand   
-  each other?
+How can people communicate when they
+   do not understand each other?
 
 158
 00:23:50,245 --> 00:23:54,498
-Once I have conquered the six  
- Kingdoms and suppressed all    
- other rebellious states,
+Once I have conquered the six Kingdoms and
+ suppressed all other rebellious states,
 
 159
 00:23:54,500 --> 00:23:58,619
-I shall rid the country        
- of these hopeless confusions,
+I shall rid the country of
+these hopeless confusions,
 
 160
 00:23:58,621 --> 00:24:02,155
-keep one unified language for  
- the whole land. Wouldn't that  
- be something?
+keep one unified language for the whole land.
+     Wouldn't that be something?
 
 161
 00:24:02,157 --> 00:24:04,475
-Is your majesty not stopping  
-  after defeating the six       
-  Kingdoms?
+Is your majesty not stopping after
+   defeating the six Kingdoms?
 
 162
 00:24:04,477 --> 00:24:06,643
@@ -800,38 +731,34 @@ The six Kingdoms are nothing!
 
 163
 00:24:06,645 --> 00:24:09,446
-I intend to lead our army     
-  to every corner of this land
+I intend to lead our army to
+ every corner of this land
 
 164
 00:24:09,448 --> 00:24:12,566
-until we have established     
-  a vast and powerful empire!
+until we have established a vast
+    and powerful empire!
 
 165
 00:24:47,653 --> 00:24:49,854
-You must be mistress      
-      Flying Snow.
+You must be mistress Flying Snow.
 
 166
 00:24:49,856 --> 00:24:53,223
-Why are you leaving?
-I am going to                   
-fend off the arrows.
+- Why are you leaving?
+- I am going to fend off the arrows.
 
 167
 00:24:53,225 --> 00:24:55,726
-You are not needed.       
-      Please retire.
+You are not needed. Please retire.
 
 168
 00:24:55,728 --> 00:24:59,163
-The archers of Qin       
-       are legendary.
+The archers of Qin are legendary.
 
 169
 00:24:59,165 --> 00:25:01,148
-Mistress Snow may not be able  
+Mistress Snow may not be able
  to repel them on her own.
 
 170
@@ -840,18 +767,15 @@ Storm! Storm! Storm!
 
 171
 00:27:10,813 --> 00:27:12,913
-<i> (Mistress Snow)</i> You were
-        quite brilliant.
+(Mistress Snow) You were quite brilliant.
 
 172
 00:27:12,915 --> 00:27:15,198
-Mistress Snow is                
-far superior.
+Mistress Snow is far superior.
 
 173
 00:27:15,200 --> 00:27:18,785
-You have not come         
-      for the calligraphy.
+You have not come for the calligraphy.
 
 174
 00:27:18,787 --> 00:27:20,304
@@ -859,90 +783,79 @@ Who are you?
 
 175
 00:27:20,306 --> 00:27:25,241
-I have brought something    
-    to show you.
+I have brought something to show you.
 
 176
 00:27:25,243 --> 00:27:27,711
-Please meet me in           
-    the library at midnight.
+Please meet me in the library at midnight.
 
 177
 00:27:35,537 --> 00:27:38,572
-Beautiful calligraphy.          
-            Beautiful swordplay.
+- Beautiful calligraphy.
+- Beautiful swordplay.
 
 178
 00:27:38,574 --> 00:27:41,075
-But you have not seen      
-     me use my sword.
+But you have not seen me use my sword.
 
 179
 00:27:41,077 --> 00:27:43,994
-Without your sword this     
-    scroll would not exist.
+Without your sword this
+scroll would not exist.
 
 180
 00:27:43,996 --> 00:27:46,229
-Please meet me in           
-    the library at midnight.
+Please meet me in the library at midnight.
 
 181
 00:27:46,231 --> 00:27:49,700
-I have something        
-        to show you.
+I have something to show you.
 
 182
 00:27:49,702 --> 00:27:53,236
-<i> While several hundred</i>     
-     <i> thousand Qin troops</i>
+While several hundred thousand Qin troops
 
 183
 00:27:53,238 --> 00:27:57,041
-<i> were preparing for</i>        
-     <i> the next onslaught,</i>
+were preparing for the next onslaught,
 
 184
 00:27:57,043 --> 00:27:59,376
-<i> I spent the night</i>            
-  <i> contemplating the scroll,</i>
+I spent the night contemplating the scroll,
 
 185
 00:27:59,378 --> 00:28:03,263
-<i> hoping to discover the secret</i>  
-<i> behind Broken Sword's skills.</i>
+hoping to discover the secret
+behind Broken Sword's skills.
 
 186
 00:28:12,907 --> 00:28:16,543
-You say this calligraphy
-        contains the mystery of 
-        swordplay,
+You say this calligraphy contains
+   the mystery of swordplay,
 
 187
 00:28:16,545 --> 00:28:21,148
-but I cannot see      
-          anything unusual here.
+but I cannot see anything unusual here.
 
 188
 00:28:21,150 --> 00:28:24,351
-The brush and the sword         
-are fundamentally connected.
+The brush and the sword are
+  fundamentally connected.
 
 189
 00:28:24,353 --> 00:28:27,587
-Their mystery is only           
-revealed to those who can       
-perceive the connection.
+Their mystery is only revealed to those
+   who can perceive the connection.
 
 190
 00:28:27,589 --> 00:28:30,974
-And you can?                    
-         Not entirely.
+- And you can?
+- Not entirely.
 
 191
 00:28:30,976 --> 00:28:34,978
-Then how were you able to    
-   challenge the two of them?
+Then how were you able to
+challenge the two of them?
 
 192
 00:28:45,925 --> 00:28:48,458
@@ -954,53 +867,48 @@ Yes.
 
 194
 00:28:51,897 --> 00:28:55,432
-Who are you?             
-       Why have you come?
+Who are you? Why have you come?
 
 195
 00:28:55,434 --> 00:29:00,737
-I am a citizen of Qin.          
-I have a message from Sky.      
-                          Speak.
+- I am a citizen of Qin. I have a message from Sky.
+- Speak.
 
 196
 00:29:00,739 --> 00:29:05,108
-Sky said he had always lived  
-  his life without burden or    
-  responsibility.
+Sky said he had always lived his life
+  without burden or responsibility.
 
 197
 00:29:05,110 --> 00:29:07,945
-Only one person had ever    
-    touched his heart.
+Only one person had ever touched his heart.
 
 198
 00:29:07,947 --> 00:29:10,513
-Who?                    
-             Flying Snow.
+- Who?
+- Flying Snow.
 
 199
 00:29:21,693 --> 00:29:25,728
-Sky said he was certain       
-  Snow would avenge his death.
+Sky said he was certain Snow
+  would avenge his death.
 
 200
 00:29:34,923 --> 00:29:38,758
-If you agree to a duel,     
-    meet me at the Qin army     
-    encampment tomorrow.
+If you agree to a duel, meet me at
+the Qin army encampment tomorrow.
 
 201
 00:31:11,786 --> 00:31:14,287
-<i> (ripping)</i>
+(Ripping)
 
 202
 00:31:14,289 --> 00:31:17,223
-<i> (moaning)</i>
+(Moaning)
 
 203
 00:31:25,317 --> 00:31:28,518
-<i> (giggling/heavy breathing)</i>
+(Giggling/heavy breathing)
 
 204
 00:31:43,385 --> 00:31:45,718
@@ -1016,13 +924,11 @@ I know you saw us!
 
 207
 00:32:24,325 --> 00:32:27,627
-I deliberately wanted      
-     you to see us!
+I deliberately wanted you to see us!
 
 208
 00:32:29,031 --> 00:32:32,766
-You are no longer        
-       in my heart!
+You are no longer in my heart!
 
 209
 00:32:39,959 --> 00:32:42,525
@@ -1030,7 +936,7 @@ Agh!
 
 210
 00:32:56,809 --> 00:32:59,909
-<i> (moans)</i>
+(Moans)
 
 211
 00:34:05,010 --> 00:34:07,677
@@ -1038,8 +944,7 @@ We are both very foolish.
 
 212
 00:35:02,451 --> 00:35:05,318
-I am not going           
-       to fight with you.
+I am not going to fight with you.
 
 213
 00:35:05,320 --> 00:35:06,336
@@ -1047,8 +952,8 @@ Please leave.
 
 214
 00:35:09,874 --> 00:35:13,176
-I am going to kill you     
-     and avenge my master!
+I am going to kill you
+and avenge my master!
 
 215
 00:35:13,178 --> 00:35:15,729
@@ -1080,8 +985,7 @@ Yaa-aaagh!
 
 222
 00:36:11,970 --> 00:36:15,505
-Since you want to die,     
-     I shall assist you.
+Since you want to die, I shall assist you.
 
 223
 00:36:17,158 --> 00:36:18,674
@@ -1093,7 +997,7 @@ Aah!
 
 225
 00:36:44,136 --> 00:36:47,404
-<i> (wind whistles)</i>
+(Wind whistles)
 
 226
 00:37:34,119 --> 00:37:35,585
@@ -1101,7 +1005,7 @@ Yaaagh!
 
 227
 00:37:53,538 --> 00:37:55,288
-<i> (sword tears)</i>
+(Sword tears)
 
 228
 00:38:08,954 --> 00:38:10,353
@@ -1113,27 +1017,26 @@ What are you laughing at?
 
 230
 00:38:40,852 --> 00:38:44,788
-What you did last night -     
-  it was unbelievably stupid.
+What you did last night was
+   unbelievably stupid.
 
 231
 00:39:25,897 --> 00:39:30,099
-<i> (Nameless) When we fought,</i>   
-  <i> I could see that my plan</i>     
-  <i> had worked.</i>
+(Nameless) When we fought, I could
+  see that my plan had worked.
 
 232
 00:39:30,101 --> 00:39:33,235
-<i> She was emotional and agitated,</i>
-<i> unable to focus.</i>
+She was emotional and agitated,
+     unable to focus.
 
 233
 00:39:33,237 --> 00:39:36,005
-<i> I defeated her easily.</i>
+I defeated her easily.
 
 234
 00:39:49,037 --> 00:39:53,005
-Who would have thought that   
+Who would have thought that
   Broken Sword and Snow
 
 235
@@ -1142,30 +1045,28 @@ were so emotionally fragile?
 
 236
 00:39:55,326 --> 00:39:58,845
-<i> (fluttering)</i>
+(Fluttering)
 
 237
 00:40:12,577 --> 00:40:17,580
-You are saying that you won by  
-setting them against each other?
-                 Yes.
+- You are saying that you won by setting
+     them against each other?
+- Yes.
 
 238
 00:40:17,582 --> 00:40:22,419
-And the reason they became   
-   enemies was because they     
-   were jealous?
+And the reason they became enemies
+  was because they were jealous?
 
 239
 00:40:22,421 --> 00:40:26,505
-Yes.                    
-              Your story appears
-              to make sense,
+- Yes.
+- Your story appears to make sense,
 
 240
 00:40:26,507 --> 00:40:31,160
-but in my opinion you have   
-   underestimated one person.
+but in my opinion you have
+underestimated one person.
 
 241
 00:40:31,162 --> 00:40:33,129
@@ -1178,37 +1079,34 @@ Me.
 243
 00:40:34,966 --> 00:40:39,368
 Would you like to know what kind
-of impression they made on me?
+ of impression they made on me?
 
 244
 00:40:39,370 --> 00:40:43,923
-Three years ago, I had once   
-  fought them face to face.
+Three years ago, I had once
+ fought them face to face.
 
 245
 00:40:43,925 --> 00:40:48,060
-I found them both            
-   honorable and exceptional,
+I found them both honorable
+    and exceptional,
 
 246
 00:40:48,062 --> 00:40:50,045
-hardly the narrow-minded    
-    people you say.
+hardly the narrow-minded people you say.
 
 247
 00:40:50,047 --> 00:40:53,283
-That is why Snow and Sky    
-    did not have an affair.
+That is why Snow and Sky
+did not have an affair.
 
 248
 00:40:53,285 --> 00:40:55,251
-Snow and Broken Sword      
-     were not enemies.
+Snow and Broken Sword were not enemies.
 
 249
 00:40:55,253 --> 00:40:58,053
-In other words, your       
-     entire story is a lie!
+In other words, your entire story is a lie!
 
 250
 00:41:01,293 --> 00:41:04,193
@@ -1216,8 +1114,7 @@ Only one thing was true.
 
 251
 00:41:06,097 --> 00:41:09,632
-Sky must have            
-       known one of you.
+Sky must have known one of you.
 
 252
 00:41:09,634 --> 00:41:10,683
@@ -1229,12 +1126,11 @@ You.
 
 254
 00:41:14,139 --> 00:41:18,858
-I suspect you             
-      and Sky were allies.
+I suspect you and Sky were allies.
 
 255
 00:41:18,860 --> 00:41:21,860
-You were able to defeat him   
+You were able to defeat him
   for one reason only.
 
 256
@@ -1247,127 +1143,109 @@ He lost to you deliberately!
 
 258
 00:41:32,023 --> 00:41:35,758
-<i> (King of Qin) In order to</i>   
-   <i> assassinate me the two</i>      
-   <i> of you staged a fight,</i>
+(King of Qin) In order to assassinate me
+   the two of you staged a fight,
 
 259
 00:41:35,760 --> 00:41:38,495
-<i> using my guards</i>        
-        <i> as witnesses.</i>
+using my guards as witnesses.
 
 260
 00:41:38,497 --> 00:41:40,864
-<i> Laying this trap</i>         
-      <i> was not difficult.</i>
+Laying this trap was not difficult.
 
 261
 00:41:40,866 --> 00:41:45,735
-<i> The hard part was in</i>        
-   <i> persuading Sky to place</i>     
-   <i> his life in your hands.</i>
+The hard part was in persuading Sky
+ to place his life in your hands.
 
 262
 00:41:45,737 --> 00:41:49,172
-<i> Your sword may be swift,</i>       
-<i> but not enough to defeat Sky.</i>
+Your sword may be swift, but
+  not enough to defeat Sky.
 
 263
 00:41:49,174 --> 00:41:51,724
-<i> Yet he willingly fell</i>     
-     <i> under your blade.</i>
+Yet he willingly fell under your blade.
 
 264
 00:41:51,726 --> 00:41:54,544
-<i> What courage,</i>           
-       <i> what gallantry!</i>
+What courage, what gallantry!
 
 265
 00:41:54,546 --> 00:41:57,880
-<i> So Sky became your</i>       
-      <i> first accomplice.</i>
+So Sky became your first accomplice.
 
 266
 00:42:00,352 --> 00:42:05,187
-Sky was a proud man, who    
-    regarded himself without    
-    equal in this land.
+Sky was a proud man, who regarded himself
+     without equal in this land.
 
 267
 00:42:05,189 --> 00:42:09,491
-What made him think that    
-    you would succeed where     
-    he had failed?
+What made him think that you would
+   succeed where he had failed?
 
 268
 00:42:10,745 --> 00:42:14,313
-Unless, in order         
-       to assassinate me,
+Unless, in order to assassinate me,
 
 269
 00:42:14,315 --> 00:42:17,466
-you had spent the last ten    
-  years honing a unique skill,
+you had spent the last ten years
+    honing a unique skill,
 
 270
 00:42:17,468 --> 00:42:20,686
-a lethal maneuver           
-    that no one can counter?
+a lethal maneuver that no one can counter?
 
 271
 00:42:30,064 --> 00:42:34,133
-Having defeated Sky, you     
-   could already come within    
-   20 paces of the throne.
+Having defeated Sky, you could already
+ come within 20 paces of the throne.
 
 272
 00:42:34,135 --> 00:42:37,270
-Why did you need Broken Sword  
- and Snow as well?
+Why did you need Broken Sword
+     and Snow as well?
 
 273
 00:42:37,272 --> 00:42:43,342
-I suspect you have to be    
-    within ten paces of your    
-    target to be effective.
+I suspect you have to be within ten paces
+   of your target to be effective.
 
 274
 00:42:43,344 --> 00:42:50,049
-So, you required one more    
-   accomplice to help you       
-   advance another ten paces!
+So, you required one more accomplice
+to help you advance another ten paces!
 
 275
 00:42:52,353 --> 00:42:56,855
-<i> I believe that even though</i>   
-  <i> Broken Sword and Snow</i>        
-  <i> had never met Sky,</i>
+I believe that even though Broken Sword
+    and Snow had never met Sky,
 
 276
 00:42:56,857 --> 00:43:01,427
-<i> they understood at once why</i>  
-  <i> he had agreed to your plan.</i>
+they understood at once why
+he had agreed to your plan.
 
 277
 00:43:13,425 --> 00:43:17,276
-How far am I from        
-       the bookshelves?
+How far am I from the bookshelves?
 
 278
 00:43:17,278 --> 00:43:20,563
-About ten paces.                
-     Good. Ten paces it is.
+- About ten paces.
+- Good. Ten paces it is.
 
 279
 00:44:04,743 --> 00:44:09,178
-I only need one of you       
-   to help me. Please decide    
-   between yourselves.
+I only need one of you to help me.
+Please decide between yourselves.
 
 280
 00:44:09,180 --> 00:44:11,714
-Tomorrow morning, at        
-    the Qin army encampment.
+Tomorrow morning, at the Qin army encampment.
 
 281
 00:44:24,145 --> 00:44:27,079
@@ -1379,17 +1257,17 @@ Yes.
 
 283
 00:44:28,516 --> 00:44:31,517
-Sky was one of the greatest   
+Sky was one of the greatest
   warriors of our times.
 
 284
 00:44:31,519 --> 00:44:33,920
-Yet he was willing to        
-   give his life to this man.
+Yet he was willing to give
+  his life to this man.
 
 285
 00:44:33,922 --> 00:44:38,324
-That is why he has the ability 
+That is why he has the ability
  to assassinate Qin's king.
 
 286
@@ -1410,37 +1288,32 @@ Agh!
 
 290
 00:45:52,283 --> 00:45:54,150
-You are one step                
-ahead of me.
+You are one step ahead of me.
 
 291
 00:45:57,138 --> 00:45:59,138
-<i> (moans)</i>
+(Moans)
 
 292
 00:46:14,772 --> 00:46:17,189
-I fear I have inflicted     
-    too deep a wound.
+I fear I have inflicted too deep a wound.
 
 293
 00:46:17,191 --> 00:46:21,144
-I should have been              
-the one to go.
+I should have been the one to go.
 
 294
 00:46:21,146 --> 00:46:23,846
-I want you to
-                   go on living.
+I want you to go on living.
 
 295
 00:46:23,848 --> 00:46:27,984
-If you died,                    
-how could I live?
+If you died, how could I live?
 
 296
 00:46:27,986 --> 00:46:33,789
 Promise me you will live
-        well when I have gone.
+ well when I have gone.
 
 297
 00:46:41,883 --> 00:46:43,816
@@ -1453,7 +1326,7 @@ I will.
 299
 00:47:05,423 --> 00:47:08,390
 Moon will soon be here
-          to take care of you.
+ to take care of you.
 
 300
 00:47:11,162 --> 00:47:13,245
@@ -1461,47 +1334,47 @@ I should go.
 
 301
 00:48:32,744 --> 00:48:34,576
-<i> (man shouts out command)</i>
+(Man shouts out command)
 
 302
 00:48:44,672 --> 00:48:47,506
-Your servant Nameless,      
+Your servant Nameless,
     the Prefect of Lan Meng.
 
 303
 00:48:47,508 --> 00:48:51,110
-I have come to Zhao to catch  
-  this assassin. Please let me  
+I have come to Zhao to catch
+  this assassin. Please let me
   fight her alone.
 
 304
 00:48:51,112 --> 00:48:53,478
-This is a dangerous criminal  
+This is a dangerous criminal
   wanted by his majesty.
 
 305
 00:48:53,480 --> 00:48:56,281
-Now that she has been found,  
+Now that she has been found,
   it is my duty to arrest her.
 
 306
 00:48:56,283 --> 00:49:00,485
-I have a prior agreement with   
+I have a prior agreement with
 the assassin to fight her alone.
 
 307
 00:49:00,487 --> 00:49:04,106
-If I am unable to succeed,    
+If I am unable to succeed,
   please feel free to step in.
 
 308
 00:49:04,108 --> 00:49:06,024
-Please grant me            
+Please grant me
      permission to proceed.
 
 309
 00:49:19,289 --> 00:49:21,389
-<i> (wind howls)</i>
+ (wind howls)
 
 310
 00:49:48,052 --> 00:49:50,336
@@ -1509,7 +1382,7 @@ Unsheathe your sword!
 
 311
 00:50:18,899 --> 00:50:22,017
-<i> (chanting)</i>
+ (chanting)
 
 312
 00:50:23,287 --> 00:50:24,920
@@ -1517,16 +1390,16 @@ Make your move now!
 
 313
 00:50:24,922 --> 00:50:27,790
-<i> (chanting)</i>
+ (chanting)
 
 314
 00:50:29,560 --> 00:50:32,695
-I die willingly for our cause. 
+I die willingly for our cause.
  Please make your move!
 
 315
 00:50:34,982 --> 00:50:37,566
-<i> (chanting continues)</i>
+ (chanting continues)
 
 316
 00:51:30,922 --> 00:51:33,255
@@ -1534,58 +1407,58 @@ How swift your sword is!
 
 317
 00:51:42,232 --> 00:51:43,749
-<i> (Snow exhaling)</i>
+ (Snow exhaling)
 
 318
 00:51:45,086 --> 00:51:47,202
-<i> (wind whistles)</i>
+ (wind whistles)
 
 319
 00:52:25,843 --> 00:52:28,544
-<i> (birds singing)</i>
+ (birds singing)
 
 320
 00:52:36,154 --> 00:52:40,156
-<i> (King of Qin) I suspect</i>    
-    <i> you had a battle with</i>      
-    <i> Broken Sword as well.</i>
+ (King of Qin) I suspect
+     you had a battle with
+     Broken Sword as well.
 
 321
 00:52:40,158 --> 00:52:42,158
-<i> Like the fight between</i>     
-    <i> you and Sky,</i>
+ Like the fight between
+     you and Sky,
 
 322
 00:52:42,160 --> 00:52:45,761
-<i> you and Broken Sword fought</i>   
- <i> in the depth of your minds.</i>
+ you and Broken Sword fought
+  in the depth of your minds.
 
 323
 00:52:45,763 --> 00:52:47,896
-<i> Except neither of you</i>        
-  <i> wanted to harm the other,</i>
+ Except neither of you
+   wanted to harm the other,
 
 324
 00:52:47,898 --> 00:52:52,668
-<i> but were content to go through</i> 
-<i> the honorable motions.</i>
+ but were content to go through
+ the honorable motions.
 
 325
 00:52:52,670 --> 00:52:56,037
-<i> This was also</i>            
-      <i> a tribute to Snow.</i>
+ This was also
+       a tribute to Snow.
 
 326
 00:52:56,039 --> 00:52:58,106
-<i> (yelping)</i>
+ (yelping)
 
 327
 00:54:30,501 --> 00:54:32,417
-<i> (gasps)</i>
+ (gasps)
 
 328
 00:56:02,276 --> 00:56:05,077
-Master asked me to        
+Master asked me to
       give you his sword.
 
 329
@@ -1594,59 +1467,59 @@ Why has he done this?
 
 330
 00:56:10,434 --> 00:56:14,203
-Master and Snow will always be 
+Master and Snow will always be
  together in life or in death,
 
 331
 00:56:14,205 --> 00:56:17,706
-and their swords          
+and their swords
       will never be apart.
 
 332
 00:56:27,651 --> 00:56:32,887
-Master asked me to give     
-    you his sword to help       
+Master asked me to give
+    you his sword to help
     assassinate Qin's king.
 
 333
 00:57:03,954 --> 00:57:08,824
-<i> (King of Qin) Sky, Broken Sword</i>
-<i> and Snow gave themselves in</i>    
-<i> different ways,</i>
+ (King of Qin) Sky, Broken Sword
+ and Snow gave themselves in
+ different ways,
 
 334
 00:57:08,826 --> 00:57:10,792
-<i> in order that you could come</i>  
- <i> within ten paces of me.</i>
+ in order that you could come
+  within ten paces of me.
 
 335
 00:57:10,794 --> 00:57:14,363
-All three were willing to     
+All three were willing to
   entrust their lives to you.
 
 336
 00:57:14,365 --> 00:57:17,232
-Surely one can ask        
+Surely one can ask
       no more of a friend.
 
 337
 00:57:17,234 --> 00:57:22,003
-That is why you are the most    
+That is why you are the most
 dangerous assassin of them all!
 
 338
 00:57:33,951 --> 00:57:35,651
-How did your Majesty      
+How did your Majesty
       figure this out?
 
 339
 00:57:35,653 --> 00:57:39,387
-The candle flames        
+The candle flames
        in front of me
 
 340
 00:57:39,389 --> 00:57:41,372
-can sense your           
+can sense your
        murderous intent.
 
 341
@@ -1655,32 +1528,32 @@ The three of them, and you,
 
 342
 00:57:50,568 --> 00:57:53,802
-were all willing to       
+were all willing to
       die for your cause.
 
 343
 00:57:53,804 --> 00:57:56,204
-I am ashamed to say I cannot  
+I am ashamed to say I cannot
   measure up to your courage!
 
 344
 00:57:56,206 --> 00:58:00,492
-Your Majesty has           
+Your Majesty has
      seen through our plan.
 
 345
 00:58:00,494 --> 00:58:04,096
-I have only just        
+I have only just
         worked it out.
 
 346
 00:58:04,098 --> 00:58:07,882
-Why else would I have allowed  
+Why else would I have allowed
  you to come this close?
 
 347
 00:58:09,987 --> 00:58:13,105
-A man from Qin would never    
+A man from Qin would never
   try to kill me. Who are you?
 
 348
@@ -1689,23 +1562,23 @@ I am a man of Zhao.
 
 349
 00:58:16,042 --> 00:58:18,776
-My family was killed      
+My family was killed
       by the Qin army.
 
 350
 00:58:18,778 --> 00:58:22,013
-Orphaned, I was taken in    
+Orphaned, I was taken in
     by a family here in Qin.
 
 351
 00:58:22,015 --> 00:58:26,050
-Ten years ago I discovered     
- my real identity, and decided  
+Ten years ago I discovered
+ my real identity, and decided
  to assassinate you.
 
 352
 00:58:26,052 --> 00:58:29,738
-So you are here on       
+So you are here on
        behalf of Zhao.
 
 353
@@ -1714,38 +1587,38 @@ I understand now.
 
 354
 00:58:34,110 --> 00:58:37,946
-I presume you have          
+I presume you have
     perfected a lethal move?
 
 355
 00:58:37,948 --> 00:58:41,383
-Just as your Majesty suggests, 
+Just as your Majesty suggests,
  there is indeed such a move.
 
 356
 00:58:41,385 --> 00:58:44,720
 And what is it?
-Within ten paces                
+Within ten paces
 I cannot fail.
 
 357
 00:58:44,722 --> 00:58:48,790
-Within ten paces?         
+Within ten paces?
       I congratulate you!
 
 358
 00:58:48,792 --> 00:58:52,293
-My guards are outside      
+My guards are outside
      a hundred paces away,
 
 359
 00:58:52,295 --> 00:58:55,864
-while you are only       
+while you are only
        ten paces from me.
 
 360
 00:58:55,866 --> 00:59:00,969
-It would seem that I shall   
+It would seem that I shall
    not escape my fate today.
 
 361
@@ -1754,7 +1627,7 @@ And yet you hesitate?
 
 362
 00:59:10,381 --> 00:59:14,048
-Your majesty is         
+Your majesty is
         most perceptive.
 
 363
@@ -1763,79 +1636,79 @@ However,
 
 364
 00:59:16,186 --> 00:59:18,436
-you have also               
+you have also
     underestimated somebody.
 
 365
 00:59:18,438 --> 00:59:21,873
-Who?         
+Who?
       Broken Sword.
 
 366
 00:59:29,116 --> 00:59:31,182
-<i> It was imperative</i>          
-    <i> that I proved to them,</i>
+ It was imperative
+     that I proved to them,
 
 367
 00:59:31,184 --> 00:59:34,519
-<i> that my sword was not only</i>     
-<i> swift, but perfectly accurate.</i>
+ that my sword was not only
+ swift, but perfectly accurate.
 
 368
 01:00:19,316 --> 01:00:23,018
-Within ten paces I can strike  
+Within ten paces I can strike
  with surgical precision.
 
 369
 01:00:23,020 --> 01:00:27,239
-The sword will enter         
-   and exit the body,           
+The sword will enter
+   and exit the body,
    avoiding all vital organs,
 
 370
 01:00:27,241 --> 01:00:28,957
-so the wound is deep      
+so the wound is deep
       but not fatal.
 
 371
 01:00:28,959 --> 01:00:33,411
-I respectfully request one of   
+I respectfully request one of
 you to take such a blow from me
 
 372
 01:00:33,413 --> 01:00:34,946
-in order to deceive       
+in order to deceive
       Qin's king.
 
 373
 01:00:37,084 --> 01:00:40,718
-To take such a blow from you  
+To take such a blow from you
   asks a great deal of us.
 
 374
 01:00:40,720 --> 01:00:43,839
-How is Sky now?   
+How is Sky now?
     Almost fully recovered.
 
 375
 01:00:43,841 --> 01:00:46,391
-He certainly had faith     
+He certainly had faith
      in your skills.
 
 376
 01:00:46,393 --> 01:00:50,896
-The security around          
-   the king is impenetrable.    
+The security around
+   the king is impenetrable.
    This is the only way.
 
 377
 01:00:50,898 --> 01:00:54,465
-The imperial guards         
+The imperial guards
     are not worth a mention.
 
 378
 01:00:54,467 --> 01:00:57,719
-The King of Qin should       
+The King of Qin should
    have died three years ago.
 
 379
@@ -1844,22 +1717,22 @@ What happened?
 
 380
 01:01:00,674 --> 01:01:03,207
-I did not go            
+I did not go
         through with it.
 
 381
 01:01:08,165 --> 01:01:10,198
-The King of Qin           
+The King of Qin
       must not be killed.
 
 382
 01:01:10,200 --> 01:01:12,701
-Broken Sword said that?  
+Broken Sword said that?
     Yes.
 
 383
 01:01:12,703 --> 01:01:15,403
-Why?         
+Why?
 I asked the same question.
 
 384
@@ -1868,7 +1741,7 @@ What was his answer?
 
 385
 01:01:16,940 --> 01:01:20,892
-He was unwilling            
+He was unwilling
     to explain on that day.
 
 386
@@ -1877,7 +1750,7 @@ Sky, Snow, Broken Sword.
 
 387
 01:01:23,430 --> 01:01:28,266
-Of the three, only           
+Of the three, only
    Broken Sword was my match.
 
 388
@@ -1894,33 +1767,33 @@ worried me greatly.
 
 391
 01:01:35,859 --> 01:01:39,311
-As long as I am alive       
-    I shall prevent you from    
+As long as I am alive
+    I shall prevent you from
     assassinating the king.
 
 392
 01:01:42,282 --> 01:01:45,884
-I am willing          
+I am willing
           to help you.
 
 393
 01:01:45,886 --> 01:01:50,454
-Three years ago somebody      
+Three years ago somebody
   wasted a golden opportunity.
 
 394
 01:01:50,456 --> 01:01:53,291
-This time, we          
+This time, we
          must not fail.
 
 395
 01:01:53,293 --> 01:01:57,112
-Tomorrow morning, I shall meet 
+Tomorrow morning, I shall meet
  you at the Qin encampment.
 
 396
 01:02:01,318 --> 01:02:04,469
-I would like to         
+I would like to
         ask a favor.
 
 397
@@ -1937,28 +1810,28 @@ What are you waiting for?
 
 400
 01:02:27,260 --> 01:02:31,596
-<i> Although I had</i>            
-     <i> agreed to help Snow,</i>
+ Although I had
+      agreed to help Snow,
 
 401
 01:02:31,598 --> 01:02:34,065
-<i> it did not seem honorable</i>   
-   <i> to attack Broken Sword.</i>
+ it did not seem honorable
+    to attack Broken Sword.
 
 402
 01:02:34,067 --> 01:02:36,067
-<i> I found myself unable</i>     
-     <i> to make a move,</i>
+ I found myself unable
+      to make a move,
 
 403
 01:02:36,069 --> 01:02:39,070
-<i> although we both knew that</i>
+ although we both knew that
 
 404
 01:02:39,072 --> 01:02:43,341
-<i> if we did not stop</i>           
-  <i> Broken Sword, we would</i>       
-  <i> have no chance of success.</i>
+ if we did not stop
+   Broken Sword, we would
+   have no chance of success.
 
 405
 01:03:05,849 --> 01:03:07,599
@@ -1974,7 +1847,7 @@ Moon, stop!
 
 408
 01:04:34,538 --> 01:04:37,305
-You are no match for him!    
+You are no match for him!
    Let it go!
 
 409
@@ -1983,44 +1856,44 @@ I knew you would do this.
 
 410
 01:05:05,117 --> 01:05:07,269
-Now you cannot          
+Now you cannot
         stand in my way.
 
 411
 01:05:07,271 --> 01:05:10,321
-Even wounded I can       
+Even wounded I can
        still stop you.
 
 412
 01:05:11,874 --> 01:05:13,658
-In that case I shall      
+In that case I shall
       have to kill you.
 
 413
 01:05:19,549 --> 01:05:22,117
-I worry I may have          
+I worry I may have
     wounded him too deeply.
 
 414
 01:05:22,119 --> 01:05:27,255
-With mistress' medicine,    
-    Master should be out of     
+With mistress' medicine,
+    Master should be out of
     danger in a day.
 
 415
 01:05:27,257 --> 01:05:29,457
-Have you delivered       
+Have you delivered
        the medicine yet?
 
 416
 01:05:29,459 --> 01:05:32,327
-I tended Master's        
+I tended Master's
        wound myself.
 
 417
 01:05:32,329 --> 01:05:37,515
-After the duel today,       
-    take my sword and follow    
+After the duel today,
+    take my sword and follow
     the Qin army into court.
 
 418
@@ -2029,13 +1902,13 @@ I will.
 
 419
 01:05:38,752 --> 01:05:42,687
-The Qin guards will not     
+The Qin guards will not
     ill-treat a servant.
 
 420
 01:05:42,689 --> 01:05:47,025
-If the assassination is     
-    successful, return with     
+If the assassination is
+    successful, return with
     a red flag.
 
 421
@@ -2044,28 +1917,28 @@ If it fails, a yellow one.
 
 422
 01:05:49,495 --> 01:05:53,331
-If mistress meets with      
-    misfortune at the duel,     
+If mistress meets with
+    misfortune at the duel,
     what would be the point?
 
 423
 01:05:56,536 --> 01:06:01,239
-When I look down from        
-   heaven the red flag will     
+When I look down from
+   heaven the red flag will
    bring a smile to my lips.
 
 424
 01:06:08,966 --> 01:06:11,632
-<i> (yelping)</i>
+ (yelping)
 
 425
 01:06:50,573 --> 01:06:54,242
-<i> (Broken Sword)</i> How is Snow?
+ (Broken Sword) How is Snow?
 She is recovering.
 
 426
 01:06:57,530 --> 01:06:59,714
-I am here without        
+I am here without
        her knowledge.
 
 427
@@ -2075,12 +1948,12 @@ here you would try to stop me.
 
 428
 01:07:02,736 --> 01:07:04,853
-Abandon your plan           
+Abandon your plan
     to assassinate the king.
 
 429
 01:07:04,855 --> 01:07:06,454
-Do you know             
+Do you know
         I am from Zhao?
 
 430
@@ -2089,7 +1962,7 @@ So am I.
 
 431
 01:07:07,941 --> 01:07:09,790
-Does Qin intend         
+Does Qin intend
         to destroy Zhao?
 
 432
@@ -2098,19 +1971,19 @@ Yes.
 
 433
 01:07:11,127 --> 01:07:14,746
-Is the King of Qin              
-an enemy of Zhao?               
+Is the King of Qin
+an enemy of Zhao?
                        Yes.
 
 434
 01:07:14,748 --> 01:07:18,315
-Then whom do you speak for?   
-  How can you call yourself     
+Then whom do you speak for?
+  How can you call yourself
   a man of Zhao?
 
 435
 01:07:22,221 --> 01:07:27,024
-Snow asked me               
+Snow asked me
     the same question once.
 
 436
@@ -2120,142 +1993,142 @@ with no home to call my own.
 
 437
 01:07:36,136 --> 01:07:39,270
-<i> She was the daughter of</i>       
- <i> the great general Zhao Zhen,</i>
+ She was the daughter of
+  the great general Zhao Zhen,
 
 438
 01:07:39,272 --> 01:07:41,939
-<i> who lost his life during</i>    
-   <i> a battle against Qin.</i>
+ who lost his life during
+    a battle against Qin.
 
 439
 01:07:41,941 --> 01:07:44,608
-<i> Snow inherited his sword.</i>
+ Snow inherited his sword.
 
 440
 01:07:44,610 --> 01:07:51,316
-<i> She had vowed to avenge her</i>  
-  <i> father's death. I wanted to</i>  
-  <i> help her.</i>
+ She had vowed to avenge her
+   father's death. I wanted to
+   help her.
 
 441
 01:07:51,318 --> 01:07:54,652
-<i> Calligraphy and swordplay share</i>
-<i> the same source and principles.</i>
+ Calligraphy and swordplay share
+ the same source and principles.
 
 442
 01:07:54,654 --> 01:07:56,855
-<i> So we practiced calligraphy</i>  
-  <i> every day,</i>
+ So we practiced calligraphy
+   every day,
 
 443
 01:07:56,857 --> 01:08:01,076
-<i> in the hope that it would</i>   
-   <i> refine our skills,</i>          
-   <i> and increase our power.</i>
+ in the hope that it would
+    refine our skills,
+    and increase our power.
 
 444
 01:08:01,078 --> 01:08:04,245
-<i> Snow knew I had been</i>         
-  <i> rootless since childhood,</i>
+ Snow knew I had been
+   rootless since childhood,
 
 445
 01:08:04,247 --> 01:08:06,314
-<i> living nowhere</i>          
-       <i> and everywhere.</i>
+ living nowhere
+        and everywhere.
 
 446
 01:08:06,316 --> 01:08:09,684
-<i> She often said to me,</i>     
-     <i> once we had succeeded</i>     
-     <i> in killing the king,</i>
+ She often said to me,
+      once we had succeeded
+      in killing the king,
 
 447
 01:08:09,686 --> 01:08:11,419
-<i> she would take me</i>        
-      <i> back to her home.</i>
+ she would take me
+       back to her home.
 
 448
 01:08:11,421 --> 01:08:15,840
-<i> She said no swords existed</i>   
-  <i> there, and no swordsmen.</i>
+ She said no swords existed
+   there, and no swordsmen.
 
 449
 01:08:15,842 --> 01:08:19,477
-<i> There would only be</i>      
-      <i> a man and a woman.</i>
+ There would only be
+       a man and a woman.
 
 450
 01:08:39,031 --> 01:08:41,783
-<i> The truth of calligraphy has</i>  
- <i> to be intuitively grasped.</i>
+ The truth of calligraphy has
+  to be intuitively grasped.
 
 451
 01:08:41,785 --> 01:08:44,118
-<i> It is the same</i>          
-       <i> with swordplay.</i>
+ It is the same
+        with swordplay.
 
 452
 01:08:44,120 --> 01:08:46,721
-<i> Both seek to return</i>         
-   <i> to a state of simplicity</i>
+ Both seek to return
+    to a state of simplicity
 
 453
 01:08:46,723 --> 01:08:50,191
-<i> Gradually, I began</i>       
-      <i> to understand.</i>
+ Gradually, I began
+       to understand.
 
 454
 01:08:55,281 --> 01:08:58,215
-<i> Three years ago, I reached</i>   
-  <i> the peak of my training.</i>
+ Three years ago, I reached
+   the peak of my training.
 
 455
 01:08:58,217 --> 01:09:00,485
-<i> Snow felt it was time</i>          
-<i> to attempt the assassination.</i>
+ Snow felt it was time
+ to attempt the assassination.
 
 456
 01:09:00,487 --> 01:09:03,620
-<i> Together we stormed</i>      
-      <i> the palace.</i>
+ Together we stormed
+       the palace.
 
 457
 01:09:26,880 --> 01:09:29,246
-<i> (both yelling)</i>
+ (both yelling)
 
 458
 01:13:04,496 --> 01:13:08,716
-<i> (Broken Sword) Snow asked</i>     
- <i> me</i>                            
- <i> why did I not go through with</i> 
- <i> our plan.</i>
+ (Broken Sword) Snow asked
+  me
+  why did I not go through with
+  our plan.
 
 459
 01:13:08,718 --> 01:13:11,218
-<i> I told her the King of Qin</i>   
-  <i> must not be killed.</i>
+ I told her the King of Qin
+   must not be killed.
 
 460
 01:13:11,220 --> 01:13:15,189
-<i> This was something I had</i>    
-   <i> come to realize through</i>     
-   <i> studying calligraphy.</i>
+ This was something I had
+    come to realize through
+    studying calligraphy.
 
 461
 01:13:15,191 --> 01:13:19,827
-<i> Because I spared the king,</i>    
- <i> Snow turned her back on me.</i>
+ Because I spared the king,
+  Snow turned her back on me.
 
 462
 01:13:25,467 --> 01:13:28,385
 Please abort
-                    your plan.  
+                    your plan.
        No.
 
 463
 01:13:28,387 --> 01:13:30,838
-Was all your training motivated 
+Was all your training motivated
 by hatred and revenge?
 
 464
@@ -2264,13 +2137,13 @@ That's right.
 
 465
 01:13:33,343 --> 01:13:38,412
-For ten years, I worked     
-    relentlessly without        
+For ten years, I worked
+    relentlessly without
     a moment's rest.
 
 466
 01:13:38,414 --> 01:13:40,214
-What will it take        
+What will it take
        to dissuade you?
 
 467
@@ -2279,7 +2152,7 @@ You will have to kill me.
 
 468
 01:13:41,934 --> 01:13:44,018
-So you are determined      
+So you are determined
      to go ahead?
 
 469
@@ -2288,12 +2161,12 @@ Yes.
 
 470
 01:13:45,788 --> 01:13:50,975
-In that case, I shall make   
+In that case, I shall make
    you a gift of two words.
 
 471
 01:14:27,730 --> 01:14:30,531
-These words reflect       
+These words reflect
       what is in my heart.
 
 472
@@ -2302,13 +2175,13 @@ Please think again.
 
 473
 01:14:40,944 --> 01:14:44,312
-Moon, give my sword        
+Moon, give my sword
      to the nameless hero.
 
 474
 01:14:44,314 --> 01:14:47,998
-Just as Snow and I will       
-  always be together, our       
+Just as Snow and I will
+  always be together, our
   swords will never be apart.
 
 475
@@ -2317,34 +2190,34 @@ Master Nameless,
 
 476
 01:15:04,533 --> 01:15:09,586
-even though I am only       
-    a lowly servant, please     
+even though I am only
+    a lowly servant, please
     permit me a few words.
 
 477
 01:15:09,588 --> 01:15:12,656
-I have served my master     
+I have served my master
     since I was eight.
 
 478
 01:15:12,658 --> 01:15:18,062
-From him I learnt           
-    the martial arts and how    
+From him I learnt
+    the martial arts and how
     to live with principles.
 
 479
 01:15:18,064 --> 01:15:23,868
-My master is never wrong.       
+My master is never wrong.
 What he wrote must be important.
 
 480
 01:15:23,870 --> 01:15:29,356
-Master Nameless, please        
+Master Nameless, please
  consider his advice carefully.
 
 481
 01:15:42,037 --> 01:15:46,523
-Which two words             
+Which two words
     did Broken Sword write?
 
 482
@@ -2357,57 +2230,57 @@ Which two words
 
 484
 01:15:50,196 --> 01:15:53,897
-Broken Sword said           
-    for years there has         
+Broken Sword said
+    for years there has
     been continuous warfare,
 
 485
 01:15:53,899 --> 01:15:55,733
-causing huge suffering     
+causing huge suffering
      to the people.
 
 486
 01:15:55,735 --> 01:15:59,904
-Only your majesty has       
-    the power to bring peace    
+Only your majesty has
+    the power to bring peace
     by uniting our land.
 
 487
 01:16:01,424 --> 01:16:04,825
-He hoped that for the sake   
+He hoped that for the sake
    of the greater good,
 
 488
 01:16:04,827 --> 01:16:07,194
-I would abandon my plan     
+I would abandon my plan
     to kill you.
 
 489
 01:16:07,196 --> 01:16:11,498
-Broken Sword also said,        
+Broken Sword also said,
  "One person's pain is nothing
 
 490
 01:16:11,500 --> 01:16:14,735
-when compared to           
+when compared to
      the suffering of all."
 
 491
 01:16:14,737 --> 01:16:21,725
-The conflict between Zhao     
-  and Qin is nothing when       
+The conflict between Zhao
+  and Qin is nothing when
   compared with peace for all.
 
 492
 01:16:24,580 --> 01:16:29,766
-Who would have thought      
-    an assassin would           
+Who would have thought
+    an assassin would
     understand me the best!
 
 493
 01:16:35,324 --> 01:16:39,093
-Alone in my position,      
-     I have endured endless     
+Alone in my position,
+     I have endured endless
      criticism,
 
 494
@@ -2416,17 +2289,17 @@ endless attempts on my life.
 
 495
 01:16:40,930 --> 01:16:43,697
-No one has ever grasped what  
+No one has ever grasped what
   I have been trying to do.
 
 496
 01:16:43,699 --> 01:16:49,569
-Even my own court           
+Even my own court
     regards me as a tyrant.
 
 497
 01:16:52,474 --> 01:16:55,209
-And yet, Broken Sword,     
+And yet, Broken Sword,
      a man I barely knew
 
 498
@@ -2443,7 +2316,7 @@ I want to know that
 
 501
 01:17:18,801 --> 01:17:22,152
-without a sword, how do     
+without a sword, how do
     you intend to kill me?
 
 502
@@ -2452,17 +2325,17 @@ By taking yours.
 
 503
 01:17:37,286 --> 01:17:42,189
-For ten years this sword has    
+For ten years this sword has
 accompanied me to every battle.
 
 504
 01:17:42,191 --> 01:17:45,325
-To have been understood        
+To have been understood
  by a man such as Broken Sword
 
 505
 01:17:45,327 --> 01:17:48,028
-allows me to face death     
+allows me to face death
     without fear or regret.
 
 506
@@ -2475,34 +2348,34 @@ guide your decision!
 
 508
 01:19:50,619 --> 01:19:53,020
-I have just come         
+I have just come
        to a realization!
 
 509
 01:19:53,022 --> 01:19:56,556
-This scroll by Broken Sword   
-  contains no secrets of his    
+This scroll by Broken Sword
+  contains no secrets of his
   swordsmanship.
 
 510
 01:19:56,558 --> 01:19:59,593
-What this reveals is      
+What this reveals is
       his highest ideal.
 
 511
 01:19:59,595 --> 01:20:06,616
-In the first stage, man and     
+In the first stage, man and
 sword become one and each other.
 
 512
 01:20:06,618 --> 01:20:09,303
-Here, even a blade of grass     
+Here, even a blade of grass
 can be used as a lethal weapon.
 
 513
 01:20:09,305 --> 01:20:14,825
-In the next stage, the sword  
-  resides not in the hand,      
+In the next stage, the sword
+  resides not in the hand,
   but in the heart.
 
 514
@@ -2511,7 +2384,7 @@ Even without a weapon,
 
 515
 01:20:17,213 --> 01:20:20,180
-the warrior can slay his      
+the warrior can slay his
   enemy from a hundred paces.
 
 516
@@ -2520,17 +2393,17 @@ But the ultimate ideal is
 
 517
 01:20:22,485 --> 01:20:27,204
-when the sword disappears    
+when the sword disappears
    altogether.
 
 518
 01:20:27,206 --> 01:20:30,958
-The warrior embraces      
+The warrior embraces
       all around him.
 
 519
 01:20:30,960 --> 01:20:33,726
-The desire to kill       
+The desire to kill
        no longer exists.
 
 520
@@ -2539,36 +2412,36 @@ Only peace remains.
 
 521
 01:20:54,984 --> 01:20:56,916
-<i> (clanging of sword)</i>
+ (clanging of sword)
 
 522
 01:21:01,523 --> 01:21:06,893
-Your Majesty, I have now    
+Your Majesty, I have now
     completed my mission.
 
 523
 01:21:09,098 --> 01:21:14,701
-Because of my decision     
+Because of my decision
      today many will die,
 
 524
 01:21:14,703 --> 01:21:19,506
-and your Majesty         
+and your Majesty
        will go on living.
 
 525
 01:21:19,508 --> 01:21:23,543
-A dead man begs you       
+A dead man begs you
       never to forget
 
 526
 01:21:23,545 --> 01:21:27,347
-the ultimate ideal       
+the ultimate ideal
        for a warrior.
 
 527
 01:23:29,021 --> 01:23:30,421
-Nameless came within       
+Nameless came within
      ten paces of the king.
 
 528
@@ -2577,12 +2450,12 @@ He could not have failed.
 
 529
 01:23:34,060 --> 01:23:36,527
-There can be only        
+There can be only
        one explanation.
 
 530
 01:23:36,529 --> 01:23:39,846
-He must have given       
+He must have given
        up willingly.
 
 531
@@ -2603,7 +2476,7 @@ Which two words?
 
 535
 01:23:50,859 --> 01:23:52,859
-Is that all there        
+Is that all there
        is in your heart?
 
 536
@@ -2624,27 +2497,27 @@ Draw your sword!
 
 540
 01:24:10,412 --> 01:24:13,397
-You have killed Nameless,    
+You have killed Nameless,
    betrayed Sky,
 
 541
 01:24:13,399 --> 01:24:16,233
-and destroyed Zhao.       
+and destroyed Zhao.
       Draw your sword!
 
 542
 01:24:20,122 --> 01:24:25,492
-When we first met, you asked  
+When we first met, you asked
   me to draw my sword then.
 
 543
 01:24:28,714 --> 01:24:30,197
-Is the sword            
+Is the sword
         the only answer?
 
 544
 01:24:30,199 --> 01:24:32,415
-I just want you           
+I just want you
       to draw your sword.
 
 545
@@ -2653,21 +2526,21 @@ Yaaagh!
 
 546
 01:25:39,968 --> 01:25:41,901
-<i> (gasping)</i>
+ (gasping)
 
 547
 01:25:55,551 --> 01:25:57,484
-Why did you not         
+Why did you not
         defend yourself?
 
 548
 01:25:58,587 --> 01:26:00,537
-So you would              
+So you would
       finally believe me.
 
 549
 01:26:08,346 --> 01:26:11,048
-I have always wanted      
+I have always wanted
       to go home with you.
 
 550
@@ -2676,17 +2549,17 @@ That will not happen now.
 
 551
 01:26:22,660 --> 01:26:26,246
-On your own, you must take   
+On your own, you must take
    good care of yourself.
 
 552
 01:26:38,059 --> 01:26:40,827
-Why didn't you 
+Why didn't you
                  block my sword?
 
 553
 01:26:49,003 --> 01:26:51,454
-Why didn't   
+Why didn't
                    you block it?
 
 554
@@ -2699,7 +2572,7 @@ No more struggle.
 
 556
 01:28:23,966 --> 01:28:28,568
-I shall take you                
+I shall take you
 home now...
 
 557
@@ -2712,12 +2585,12 @@ Agh!
 
 559
 01:29:03,288 --> 01:29:05,621
-<i> (screams)</i>
+ (screams)
 
 560
 01:29:38,340 --> 01:29:42,476
-<i> (soldiers)</i> Your Majesty,    
-    permission to execute?      
+ (soldiers) Your Majesty,
+    permission to execute?
     Permission to execute?
 
 561
@@ -2726,8 +2599,8 @@ Permission to execute?
 
 562
 01:29:44,980 --> 01:29:48,631
-Your Majesty, permission to   
-  execute? Your Majesty,        
+Your Majesty, permission to
+  execute? Your Majesty,
   permission to execute?
 
 563
@@ -2736,7 +2609,7 @@ Permission to execution?
 
 564
 01:29:55,724 --> 01:29:57,974
-<i> (man shouts command)</i>
+ (man shouts command)
 
 565
 01:30:09,554 --> 01:30:12,906
@@ -2744,7 +2617,7 @@ He conspired to assassinate.
 
 566
 01:30:12,908 --> 01:30:16,076
-This man cannot be trusted!   
+This man cannot be trusted!
   He tried to kill you!
 
 567
@@ -2757,35 +2630,34 @@ This is the sacred law of Qin!
 
 569
 01:30:22,918 --> 01:30:29,356
-If your Majesty is to unite   
-  the land, this man has to be  
+If your Majesty is to unite
+  the land, this man has to be
   made an example of!
 
 570
 01:30:29,358 --> 01:30:34,261
-Your Majesty, execute him!   
-   Your Majesty, execute him!   
+Your Majesty, execute him!
+   Your Majesty, execute him!
    Your Majesty, execute him!
 
 571
 01:30:37,065 --> 01:30:42,402
-Your Majesty, execute him!   
-   Your Majesty, execute him!   
+Your Majesty, execute him!
+   Your Majesty, execute him!
    Your Majesty, execute him!
 
 572
 01:30:50,328 --> 01:30:51,845
-<i> (soldiers chant)</i>
+ (soldiers chant)
 
 573
 01:32:12,894 --> 01:32:16,663
-<i> (chanting)</i>
+ (chanting)
 
 574
 01:32:20,535 --> 01:32:24,637
-<i> (chanting continues)</i>
+ (chanting continues)
 
 575
 01:32:28,226 --> 01:32:31,393
-<i> (chanting continues)</i>
-
+ (chanting continues)
