@@ -2135,7 +2135,7 @@ Which two words did Broken Sword write?
 
 482
 01:15:46,525 --> 01:15:48,175
-天下 ("All under heaven")
+天下
 
 483
 01:15:48,177 --> 01:15:50,194
