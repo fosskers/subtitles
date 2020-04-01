@@ -25,7 +25,7 @@ Let's go.
 7
 00:01:33,727 --> 00:01:37,425
 Soon this place, too, will be
-consumed by the toxic jungle.
+consumed by the Toxic Forest.
 
 8
 00:01:46,540 --> 00:01:48,338
@@ -38,7 +38,7 @@ industrialized civilization.
 
 10
 00:01:51,645 --> 00:01:53,613
-A toxic jungle now spreads,
+A Toxic Forest now spreads,
 
 11
 00:01:53,780 --> 00:01:57,375
@@ -258,7 +258,7 @@ What an amazing Ohm.
 
 62
 00:10:12,312 --> 00:10:14,303
-Ohm, go back to the jungle.
+Ohm, go back to the Forest.
 
 63
 00:10:14,681 --> 00:10:16,581
@@ -295,7 +295,7 @@ Ohm, wake up.
 
 71
 00:11:10,370 --> 00:11:12,361
-You need to go back to your jungle.
+You need to go back to your Forest.
 
 72
 00:11:19,212 --> 00:11:21,203
@@ -311,7 +311,7 @@ Unbelievable.
 
 75
 00:11:43,169 --> 00:11:45,194
-It's going back to the jungle.
+It's going back to the Forest.
 
 76
 00:11:45,371 --> 00:11:49,968
@@ -390,7 +390,7 @@ He's quite spirited.
 92
 00:13:09,555 --> 00:13:12,286
 Apparently, he didn't inhale
-too much of the jungle's poison.
+too much of the Forest's poison.
 
 93
 00:13:12,458 --> 00:13:15,052
@@ -503,7 +503,7 @@ King Jihl?
 
 119
 00:14:24,630 --> 00:14:28,294
-So the jungle's poisons
+So the Forest's poisons
 are taking their toll.
 
 120
@@ -513,7 +513,7 @@ Yes.
 121
 00:14:29,635 --> 00:14:33,299
 Father says it's the fate of all
-of us who live near the jungle.
+of us who live near the Forest.
 
 122
 00:14:33,973 --> 00:14:36,499
@@ -721,11 +721,11 @@ who's strong like the Princess,
 168
 00:17:44,463 --> 00:17:46,761
 but not for one who likes
-to play in the toxic jungle.
+to play in the Toxic Forest.
 
 169
 00:17:47,133 --> 00:17:49,659
-But, Mito, the jungle is where
+But, Mito, the Forest is where
 I found the Ohm shell.
 
 170
@@ -808,7 +808,7 @@ Mmm, things are grim.
 187
 00:18:50,830 --> 00:18:54,698
 I found two more kingdoms to the south
-that have been consumed by the jungle.
+that have been consumed by the Forest.
 
 188
 00:18:54,867 --> 00:18:58,132
@@ -836,7 +836,7 @@ the wind from the sea
 
 193
 00:19:09,915 --> 00:19:12,475
-to protect us from the jungle's poisons.
+to protect us from the Forest's poisons.
 
 194
 00:19:12,652 --> 00:19:15,622
@@ -945,7 +945,7 @@ The only goal I seek, Obaba,
 217
 00:20:23,823 --> 00:20:26,918
 is to understand the mysteries
-of the toxic jungle.
+of the Toxic Forest.
 
 218
 00:20:27,693 --> 00:20:31,687
@@ -1061,7 +1061,7 @@ an emergency landing.
 244
 00:22:32,952 --> 00:22:34,681
 - Help me launch, Gol.
--What?
+- What?
 
 245
 00:22:34,954 --> 00:22:36,786
@@ -1090,7 +1090,7 @@ Teto, hold on.
 251
 00:23:15,861 --> 00:23:17,761
 Oh, no, they must have
-landed in the jungle
+landed in the Forest
 
 252
 00:23:17,930 --> 00:23:19,489
@@ -1254,7 +1254,7 @@ MAN 3: Get your guns!
 290
 00:25:55,621 --> 00:25:58,181
 Don't shoot!
-You'll enrage every insect in the jungle!
+You'll enrage every insect in the Forest!
 
 291
 00:25:58,557 --> 00:25:59,786
@@ -1294,7 +1294,7 @@ Easy, Princess.
 299
 00:26:25,584 --> 00:26:28,281
 You need to return to
-your jungle. Understand?
+your Forest. Understand?
 
 300
 00:26:28,654 --> 00:26:31,624
@@ -1351,7 +1351,7 @@ would have happened
 
 312
 00:27:09,061 --> 00:27:11,689
-if the insects in the jungle
+if the insects in the Forest
 would've come to its aid.
 
 313
@@ -1789,7 +1789,7 @@ MAN: Secure the room.
 410
 00:35:11,576 --> 00:35:13,408
 - It's the Princess.
--The Princess.
+- The Princess.
 
 411
 00:35:13,778 --> 00:35:15,712
@@ -1829,7 +1829,7 @@ and build a world of prosperity.
 
 419
 00:35:35,734 --> 00:35:37,668
-You now live at the edge of the jungle,
+You now live at the edge of the Forest,
 
 420
 00:35:38,503 --> 00:35:39,732
@@ -1841,13 +1841,13 @@ Follow us, and join our enterprise.
 
 422
 00:35:42,641 --> 00:35:44,735
-We shall put the toxic jungle
+We shall put the Toxic Forest
 to the torch
 
 423
 00:35:44,909 --> 00:35:47,708
 - and resurrect this land together.
-- MAN 1: Burn the toxic jungle?
+- MAN 1: Burn the Toxic Forest?
 
 424
 00:35:47,879 --> 00:35:49,210
@@ -1875,7 +1875,7 @@ I guarantee that those who join me
 429
 00:35:59,824 --> 00:36:05,456
 will live without fear of the insects
-or the jungle's poisons ever again.
+or the Forest's poisons ever again.
 
 430
 00:36:07,532 --> 00:36:10,160
@@ -1883,7 +1883,7 @@ OBABA: Stop! Stop, I say!
 
 431
 00:36:12,537 --> 00:36:14,869
-You must not touch the toxic jungle.
+You must not touch the Toxic Forest.
 
 432
 00:36:15,473 --> 00:36:16,907
@@ -1899,7 +1899,7 @@ No, let her speak.
 
 435
 00:36:21,246 --> 00:36:25,808
-Since the origin of the toxic jungle,
+Since the origin of the Toxic Forest,
 1,000 years ago,
 
 436
@@ -1914,7 +1914,7 @@ did nothing but enrage the Ohm,
 438
 00:36:33,892 --> 00:36:36,827
 and swarms of them
-spilled from the jungle
+spilled from the Forest
 
 439
 00:36:37,195 --> 00:36:40,187
@@ -1949,7 +1949,7 @@ Then spores took root in their corpses,
 446
 00:37:04,689 --> 00:37:08,717
 and the land soon
-became part of the toxic jungle.
+became part of the Toxic Forest.
 
 447
 00:37:08,893 --> 00:37:11,692
@@ -2267,7 +2267,7 @@ The air is pure in here.
 
 519
 00:41:42,600 --> 00:41:46,195
-But I know these plants from the jungle.
+But I know these plants from the Forest.
 These are some of the most lethal.
 
 520
@@ -2289,7 +2289,7 @@ I found that, with clean water and soil,
 
 524
 00:41:59,050 --> 00:42:02,111
-the plants from the toxic jungle
+the plants from the Toxic Forest
 aren't poisonous.
 
 525
@@ -2368,7 +2368,7 @@ We gathered these for you.
 542
 00:43:34,312 --> 00:43:36,713
 - Chiko nuts.
--You can take them on your trip.
+- You can take them on your trip.
 
 543
 00:43:38,282 --> 00:43:39,977
@@ -2447,7 +2447,7 @@ Now, be good while I'm gone.
 
 561
 00:44:14,952 --> 00:44:15,919
--We will.
+- We will.
 - Okay.
 
 562
@@ -2461,7 +2461,7 @@ ALL: Bye, Princess!
 564
 00:44:33,137 --> 00:44:34,969
 - Good luck!
--Take care of the Princess!
+- Take care of the Princess!
 
 565
 00:44:35,139 --> 00:44:36,072
@@ -2513,7 +2513,7 @@ charged with poisonous gas. (GASPS)
 
 576
 00:46:15,139 --> 00:46:16,334
--What?
+- What?
 - MAN: Hey, sit down.
 
 577
@@ -2572,8 +2572,8 @@ They can't steer!
 
 589
 00:47:09,226 --> 00:47:11,422
--Where's our fighter plane?
--These are some flimsy ships.
+- Where's our fighter plane?
+- These are some flimsy ships.
 
 590
 00:47:20,137 --> 00:47:22,435
@@ -2622,7 +2622,7 @@ Princess!
 
 601
 00:48:47,324 --> 00:48:49,418
--This way, Mito.
+- This way, Mito.
 - (MITO GROANING)
 
 602
@@ -2632,7 +2632,7 @@ Princess, where are you going?
 603
 00:48:57,368 --> 00:48:59,268
 - Let's try the gunship.
--What?
+- What?
 
 604
 00:49:01,338 --> 00:49:02,897
@@ -2744,7 +2744,7 @@ We can't be towed.
 
 629
 00:50:53,350 --> 00:50:56,718
-I don't want to land in the jungle.
+I don't want to land in the Forest.
 The insects will eat us alive!
 
 630
@@ -2772,7 +2772,7 @@ Mito, cut the rear engine.
 
 635
 00:51:09,700 --> 00:51:11,634
--What?
+- What?
 - Just do as I say. Hurry!
 
 636
@@ -2854,12 +2854,12 @@ MAN 2: Princess!
 653
 00:53:14,324 --> 00:53:15,723
 - Is everyone okay?
--ALL:Yeah.
+- ALL:Yeah.
 
 654
 00:53:16,226 --> 00:53:18,558
 - KUSHANA: Don't move.
--You.
+- You.
 
 655
 00:53:22,566 --> 00:53:23,863
@@ -2881,7 +2881,7 @@ now, just because you saved me.
 
 659
 00:53:32,976 --> 00:53:34,876
-Listen, you don't understand the jungle.
+Listen, you don't understand the Forest.
 
 660
 00:53:36,880 --> 00:53:40,180
@@ -2900,7 +2900,7 @@ from all your ships
 
 663
 00:53:46,724 --> 00:53:48,715
-crashing into their jungle.
+crashing into their Forest.
 
 664
 00:53:48,892 --> 00:53:50,553
@@ -2910,7 +2910,7 @@ crashing into their jungle.
 665
 00:54:00,237 --> 00:54:02,934
 The giant dragonflies
-are the sentries of the jungle.
+are the sentries of the Forest.
 
 666
 00:54:03,307 --> 00:54:05,503
@@ -3041,7 +3041,7 @@ What's going on?
 
 695
 00:57:28,078 --> 00:57:30,809
--Their eyes are red with rage!
+- Their eyes are red with rage!
 - (ALLYELL)
 
 696
@@ -3117,8 +3117,8 @@ No... Ah!
 
 713
 00:59:26,563 --> 00:59:29,055
--Who are you?
--You've done far too much killing.
+- Who are you?
+- You've done far too much killing.
 
 714
 00:59:29,232 --> 00:59:32,293
@@ -3329,12 +3329,12 @@ You're not going to believe this.
 
 764
 01:04:51,020 --> 01:04:53,182
-We're actually beneath the toxic jungle.
+We're actually beneath the Toxic Forest.
 
 765
 01:04:53,356 --> 01:04:54,881
-- Beneath the jungle?
--Yeah.
+- Beneath the Forest?
+- Yeah.
 
 766
 01:04:55,058 --> 01:04:57,322
@@ -3365,7 +3365,7 @@ I couldn't believe it, either.
 772
 01:05:09,339 --> 01:05:12,274
 I never dreamed
-the toxic jungle could be like this.
+the Toxic Forest could be like this.
 
 773
 01:05:19,215 --> 01:05:20,376
@@ -3486,7 +3486,7 @@ that's good for you tastes so bad?
 
 800
 01:08:57,834 --> 01:08:59,859
-What's the origin of the jungle?
+What's the origin of the Forest?
 
 801
 01:09:00,236 --> 01:09:03,137
@@ -3495,7 +3495,7 @@ thinking about strange things.
 
 802
 01:09:03,606 --> 01:09:06,507
-The trees of the toxic jungle
+The trees of the Toxic Forest
 must have evolved
 
 803
@@ -3544,7 +3544,7 @@ have to find a way
 
 812
 01:09:38,808 --> 01:09:40,606
-to stop this toxic jungle from spreading.
+to stop this Toxic Forest from spreading.
 
 813
 01:09:41,210 --> 01:09:43,838
@@ -3582,7 +3582,7 @@ KUROTOWA: Fine, fine.
 820
 01:10:23,986 --> 01:10:26,284
 - Everything going smoothly?
--Yes, sir.
+- Yes, sir.
 
 821
 01:10:26,556 --> 01:10:28,684
@@ -3803,7 +3803,7 @@ The insects must be stopped.
 869
 01:13:34,810 --> 01:13:37,905
 You must revive the warrior and use it
-to destroy them and their jungle.
+to destroy them and their Forest.
 
 870
 01:13:39,515 --> 01:13:41,643
@@ -3826,22 +3826,22 @@ as it was meant to be.
 874
 01:13:51,961 --> 01:13:53,986
 - Emergency!
--You gotta give us the password.
+- You gotta give us the password.
 
 875
 01:13:54,163 --> 01:13:55,961
--I'mina humy!
--Wind?
+- I'mina humy!
+- Wind?
 
 876
 01:13:56,132 --> 01:13:57,793
--Valley!
+- Valley!
 - Okay.
 
 877
 01:13:57,967 --> 01:14:00,834
 - Some of the spores survived!
--What? In the valley?
+- What? In the valley?
 
 878
 01:14:01,003 --> 01:14:04,166
@@ -3896,7 +3896,7 @@ Yes, sir.
 889
 01:14:30,066 --> 01:14:32,933
 - Sir, the ship is ready.
--Try not to fail this time.
+- Try not to fail this time.
 
 890
 01:14:33,102 --> 01:14:35,434
@@ -3906,7 +3906,7 @@ left in Pejite
 891
 01:14:35,604 --> 01:14:36,901
 - and bring them to the valley.
--Yes, sir.
+- Yes, sir.
 
 892
 01:14:37,540 --> 01:14:38,564
@@ -4002,7 +4002,7 @@ We must burn it down.
 
 914
 01:15:34,663 --> 01:15:39,533
-If we hesitate, the toxic jungle
+If we hesitate, the Toxic Forest
 will engulf the entire valley.
 
 915
@@ -4012,7 +4012,7 @@ Isn't there some other way?
 916
 01:15:42,304 --> 01:15:46,241
 This forest has protected the valley
-from the jungle's poisons for 300 years.
+from the Forest's poisons for 300 years.
 
 917
 01:15:46,609 --> 01:15:49,510
@@ -4035,7 +4035,7 @@ Everything looks the same to me.
 921
 01:16:20,943 --> 01:16:22,934
 NAUSICAA: The insects
-have left the jungle.
+have left the Forest.
 
 922
 01:16:26,082 --> 01:16:29,848
@@ -4065,7 +4065,7 @@ ASBEL: The insects. They're all dead.
 
 928
 01:17:09,291 --> 01:17:11,282
--We've got to get to Pejite.
+- We've got to get to Pejite.
 - Be careful.
 
 929
@@ -4131,7 +4131,7 @@ Don't worry. We can rebuild it.
 
 943
 01:18:57,132 --> 01:18:59,362
-And if the jungle starts to spread here,
+And if the Forest starts to spread here,
 we'll burn it off.
 
 944
@@ -4186,7 +4186,7 @@ and she saved my life.
 955
 01:19:26,128 --> 01:19:27,391
 - (MEN GASP)
--The Valley of the Wind?
+- The Valley of the Wind?
 
 956
 01:19:27,763 --> 01:19:29,424
@@ -4290,7 +4290,7 @@ bad to you now, Princess,
 978
 01:20:36,565 --> 01:20:39,330
 but once we have the warrior, we'll burn
-the jungle, and take back the Earth.
+the Forest, and take back the Earth.
 
 979
 01:20:39,501 --> 01:20:42,334
@@ -4327,8 +4327,7 @@ And you plan to burn the trees down?
 
 986
 01:20:57,886 --> 01:21:00,150
-You must not burn down
-the toxic jungle!
+You must not burn down the Toxic Forest!
 
 987
 01:21:00,322 --> 01:21:02,552
@@ -4350,7 +4349,7 @@ Don't you understand?
 
 991
 01:21:08,597 --> 01:21:10,429
-Asbel, tell them how the jungle evolved,
+Asbel, tell them how the Forest evolved,
 
 992
 01:21:10,599 --> 01:21:13,933
@@ -4424,7 +4423,7 @@ Just rescue the soldiers with the tanks.
 
 1008
 01:22:23,705 --> 01:22:24,570
--Yes, sir.
+- Yes, sir.
 - Let's go.
 
 1009
@@ -4788,7 +4787,7 @@ get out of these clouds and fight back!
 1091
 01:27:08,724 --> 01:27:10,556
 - Oh!
--They expected this.
+- They expected this.
 
 1092
 01:27:19,568 --> 01:27:21,468
@@ -5007,8 +5006,8 @@ Are they ever going to budge?
 
 1139
 01:31:28,817 --> 01:31:31,047
--They're waiting for their princess.
--The princess?
+- They're waiting for their princess.
+- The princess?
 
 1140
 01:31:31,219 --> 01:31:34,780
@@ -5064,7 +5063,7 @@ What?
 1151
 01:31:56,111 --> 01:32:00,173
 I want to see if she can make it back
-alive from the middle of the jungle.
+alive from the middle of the Forest.
 
 1152
 01:32:00,548 --> 01:32:04,075
@@ -5124,7 +5123,7 @@ are the hands of a hard worker.
 1164
 01:32:42,190 --> 01:32:45,057
 How can you be so foolish?
-The jungle is killing you,
+The Forest is killing you,
 
 1165
 01:32:45,226 --> 01:32:46,853
@@ -5132,7 +5131,7 @@ yet you want to live in harmony with it?
 
 1166
 01:32:47,629 --> 01:32:49,222
-You plan to burn down the jungle,
+You plan to burn down the Forest,
 
 1167
 01:32:49,597 --> 01:32:52,225
@@ -5171,7 +5170,7 @@ Sir. Do we have any orders yet, sir?
 1174
 01:33:14,189 --> 01:33:16,157
 - Just shut up.
--Yes, sir.
+- Yes, sir.
 
 1175
 01:33:20,261 --> 01:33:21,626
@@ -5214,8 +5213,8 @@ Gol, what's wrong?
 
 1184
 01:33:51,292 --> 01:33:54,159
--The wind has died.
--There's no wind?
+- The wind has died.
+- There's no wind?
 
 1185
 01:33:55,263 --> 01:33:58,096
@@ -5254,7 +5253,7 @@ The wind has stopped blowing.
 1193
 01:34:30,298 --> 01:34:34,201
 - Obaba, what's making my ears hurt?
--It's in the air.
+- It's in the air.
 
 1194
 01:34:34,369 --> 01:34:37,634
@@ -5267,7 +5266,7 @@ We're close.
 
 1196
 01:34:54,222 --> 01:34:57,192
-We've cleared the jungle.
+We've cleared the Forest.
 Three minutes to the Acid Lake.
 
 1197
@@ -5294,7 +5293,7 @@ Look at them all.
 
 1202
 01:35:33,261 --> 01:35:35,787
-Every Ohm in the jungle
+Every Ohm in the Forest
 is headed straight for the valley.
 
 1203
@@ -5410,7 +5409,7 @@ Your Highness.
 
 1228
 01:37:43,324 --> 01:37:45,349
--What's the range?
+- What's the range?
 - Approximately 20 leagues.
 
 1229
@@ -5454,7 +5453,7 @@ MAN: Infantry, move out!
 
 1238
 01:38:21,262 --> 01:38:23,594
--Won't you go in?
+- Won't you go in?
 - I'm staying right here.
 
 1239
@@ -5489,8 +5488,8 @@ Your Highness!
 
 1246
 01:39:03,404 --> 01:39:05,304
--What happened to the Princess?
--Yeah, where is she?
+- What happened to the Princess?
+- Yeah, where is she?
 
 1247
 01:39:05,473 --> 01:39:07,032
@@ -5503,7 +5502,7 @@ A herd of Ohm is coming this way.
 
 1249
 01:39:09,577 --> 01:39:11,409
--They're what?
+- They're what?
 - ALL: The Ohm?
 
 1250
@@ -5525,7 +5524,7 @@ Everybody, get to high ground. Hurry!
 
 1254
 01:39:21,055 --> 01:39:22,921
--The Ohm!
+- The Ohm!
 - Come on!
 
 1255
@@ -5558,7 +5557,7 @@ Don't panic. Just keep moving forward.
 1261
 01:39:45,580 --> 01:39:46,513
 - Hurry!
--There's still time.
+- There's still time.
 
 1262
 01:39:47,114 --> 01:39:49,481
@@ -5566,7 +5565,7 @@ But, Mito, we're going to die anyway.
 
 1263
 01:39:49,650 --> 01:39:52,051
--We should die in the valley.
+- We should die in the valley.
 - No.
 
 1264
@@ -5767,7 +5766,7 @@ the Ohm with their fire.
 
 1308
 01:44:58,626 --> 01:45:00,822
--We're gonna live.
+- We're gonna live.
 - Come on. Let's get out of here.
 
 1309
@@ -5830,8 +5829,8 @@ we can only wait and see.
 
 1322
 01:45:41,068 --> 01:45:43,662
--They don't even flinch.
--I think we should retreat, sir.
+- They don't even flinch.
+- I think we should retreat, sir.
 
 1323
 01:45:43,838 --> 01:45:46,773
@@ -5974,7 +5973,7 @@ on a monster like that.
 1354
 01:48:36,010 --> 01:48:38,945
 - It's the Princess!
--The Princess is back!
+- The Princess is back!
 
 1355
 01:48:48,856 --> 01:48:50,620
