@@ -76,8 +76,8 @@ Something's wrong.
 
 17
 00:01:49,543 --> 00:01:51,409
--The birds have gone.
--The animals too.
+- The birds have gone.
+- The animals too.
 
 18
 00:01:51,511 --> 00:01:53,445
@@ -172,7 +172,7 @@ please leave us in peace!
 
 38
 00:05:08,675 --> 00:05:10,973
--The monster!
+- The monster!
 - Come on!
 
 39
@@ -237,7 +237,7 @@ Are you all right?
 52
 00:06:29,789 --> 00:06:33,521
 - Kaya, don't touch it. This wound is evil.
--The prince has been hurt.
+- The prince has been hurt.
 
 53
 00:06:33,627 --> 00:06:35,755
@@ -344,7 +344,7 @@ into a demon monster.
 76
 00:08:20,133 --> 00:08:22,830
 - Prince Ashitaka?
--Yes?
+- Yes?
 
 77
 00:08:22,936 --> 00:08:25,564
@@ -448,8 +448,8 @@ to lift the curse.
 
 98
 00:09:41,247 --> 00:09:43,011
--You understand?
--Yes.
+- You understand?
+- Yes.
 
 99
 00:09:44,751 --> 00:09:47,584
@@ -569,7 +569,7 @@ Come back here, you coward!
 124
 00:13:07,253 --> 00:13:09,312
 - (LAUGHS)
--They're unarmed! Move in!
+- They're unarmed! Move in!
 
 125
 00:13:10,823 --> 00:13:12,348
@@ -800,7 +800,7 @@ those villagers.
 174
 00:16:13,306 --> 00:16:15,468
 - But then...
--You lost it. That's life.
+- You lost it. That's life.
 
 175
 00:16:15,608 --> 00:16:17,975
@@ -950,8 +950,8 @@ for humans.
 
 206
 00:18:05,284 --> 00:18:08,447
--To enter there is certain death.
--The Spirit of the Forest?
+- To enter there is certain death.
+- The Spirit of the Forest?
 
 207
 00:18:08,521 --> 00:18:10,785
@@ -1019,7 +1019,7 @@ them to come within range!
 
 221
 00:20:00,599 --> 00:20:02,761
--They're getting away!
+- They're getting away!
 - Fire!
 
 222
@@ -1570,7 +1570,7 @@ WOMAN 2:There he is!
 
 342
 00:30:23,855 --> 00:30:26,381
--This is unbelievable.
+- This is unbelievable.
 - Where are the others, Koroku?
 
 343
@@ -1655,8 +1655,8 @@ with two badly injured men,
 
 360
 00:31:26,985 --> 00:31:29,249
--You're alive!
--Toki, my love!
+- You're alive!
+- Toki, my love!
 
 361
 00:31:29,654 --> 00:31:32,089
@@ -1675,7 +1675,7 @@ all banged up and mangled?
 364
 00:31:36,194 --> 00:31:39,027
 - But, my little flower...
--You scared me half to death.
+- You scared me half to death.
 
 365
 00:31:39,131 --> 00:31:42,157
@@ -1856,12 +1856,12 @@ He is handsome.
 
 403
 00:33:38,116 --> 00:33:40,346
--Yeah, not bad.
+- Yeah, not bad.
 - But he's so young!
 
 404
 00:33:40,485 --> 00:33:43,477
--That never stopped you before.
+- That never stopped you before.
 - (WOMEN LAUGHING)
 
 405
@@ -1920,7 +1920,7 @@ too much trouble, ladies,
 
 416
 00:34:10,081 --> 00:34:12,778
--You would?
+- You would?
 - We'll have to work in makeup tonight.
 
 417
@@ -2113,8 +2113,8 @@ Let's have a rest.
 
 458
 00:36:44,936 --> 00:36:47,462
--You may tell the others.
--Yes, ma'am.
+- You may tell the others.
+- Yes, ma'am.
 
 459
 00:36:47,572 --> 00:36:49,540
@@ -2640,7 +2640,7 @@ and the men don't bother us!
 569
 00:45:05,169 --> 00:45:07,695
 - Can't you stay a little longer?
--You can stay and work here.
+- You can stay and work here.
 
 570
 00:45:07,772 --> 00:45:11,231
@@ -2733,7 +2733,7 @@ Everyone defends Iron Town!
 
 590
 00:46:35,926 --> 00:46:37,792
--Toki, she's on the roof.
+- Toki, she's on the roof.
 - (GASPING)
 
 591
@@ -2749,7 +2749,7 @@ we can't let those fires go out.
 593
 00:46:43,200 --> 00:46:45,032
 - Is she alone?
--Yes.
+- Yes.
 
 594
 00:46:45,136 --> 00:46:47,036
@@ -2878,7 +2878,7 @@ What?
 
 622
 00:48:30,207 --> 00:48:32,175
--Take aim where she falls.
+- Take aim where she falls.
 - Right.
 
 623
@@ -2962,7 +2962,7 @@ Oh! What the devil was that?
 641
 00:49:59,396 --> 00:50:01,626
 - Begone!
--Yes, sir!
+- Yes, sir!
 
 642
 00:50:01,765 --> 00:50:03,255
@@ -3130,7 +3130,7 @@ How can he still be walking?
 678
 00:52:11,695 --> 00:52:13,857
 - Is she all right?
--Yes, milady's safe, sir.
+- Yes, milady's safe, sir.
 
 679
 00:52:14,198 --> 00:52:15,461
@@ -3475,7 +3475,7 @@ I'll stay here and deal with the human.
 754
 00:57:27,978 --> 00:57:30,845
 - What about the elk?
--Yes.
+- Yes.
 
 755
 00:57:31,915 --> 00:57:34,145
@@ -3618,7 +3618,7 @@ Look! See there? It's happening.
 
 786
 01:03:40,984 --> 01:03:43,976
--Take a look, Master Jigo.
+- Take a look, Master Jigo.
 - What is it?
 
 787
@@ -3645,7 +3645,7 @@ for months to get all the way up here.
 
 792
 01:04:14,284 --> 01:04:16,810
--That one's Okkoto!
+- That one's Okkoto!
 - Can't be.
 
 793
@@ -3747,7 +3747,7 @@ I had the strangest dream.
 
 815
 01:06:37,160 --> 01:06:39,959
--There was a golden creature.
+- There was a golden creature.
 - Eat this.
 
 816
@@ -4139,7 +4139,7 @@ We have to get back to Irontown!
 
 903
 01:13:50,726 --> 01:13:51,818
--There they are!
+- There they are!
 - Where?
 
 904
@@ -4148,7 +4148,7 @@ Coming around the pass.
 
 905
 01:13:58,534 --> 01:14:01,697
--The hunters are ready, sir.
+- The hunters are ready, sir.
 - Excellent. Well done, my boy.
 
 906
@@ -4291,7 +4291,7 @@ you want it!
 935
 01:15:29,125 --> 01:15:31,116
 - Well, you won't get it!
--The brazen impudence!
+- The brazen impudence!
 
 936
 01:15:31,260 --> 01:15:33,490
@@ -4371,7 +4371,7 @@ From the Emperor himself.
 
 953
 01:16:19,108 --> 01:16:21,736
--That's nice. Who's he?
+- That's nice. Who's he?
 - Is he supposed to be important?
 
 954
@@ -4386,7 +4386,7 @@ Yes! They're really something.
 956
 01:16:26,182 --> 01:16:28,310
 - (CHUCKLES)
--Thank you.
+- Thank you.
 
 957
 01:16:28,617 --> 01:16:29,914
@@ -4490,7 +4490,7 @@ Those men are no ordinary hunters.
 
 979
 01:17:49,798 --> 01:17:51,698
--They're killers.
+- They're killers.
 - Killers?
 
 980
@@ -4564,7 +4564,7 @@ I'll be right at her side, protecting her.
 
 995
 01:18:31,006 --> 01:18:33,236
--That's what we're afraid of.
+- That's what we're afraid of.
 - What?
 
 996
@@ -4928,7 +4928,7 @@ the boars out of the forest.
 1077
 01:25:27,689 --> 01:25:31,148
 - No.
--The humans are planning something.
+- The humans are planning something.
 
 1078
 01:25:31,526 --> 01:25:34,086
@@ -5114,7 +5114,7 @@ He's knocking them away.
 
 1120
 01:29:49,150 --> 01:29:51,619
--Toki, come and look.
+- Toki, come and look.
 - It can't be.
 
 1121
@@ -5125,12 +5125,12 @@ He's knocking them away.
 1122
 01:29:54,022 --> 01:29:56,753
 - Ashitaka!
--Toki!
+- Toki!
 
 1123
 01:29:57,425 --> 01:29:59,860
 - Are you all right?
--TOKI: We're all right.
+- TOKI: We're all right.
 
 1124
 01:30:00,695 --> 01:30:03,392
@@ -5143,7 +5143,7 @@ while our men were away.
 
 1126
 01:30:04,833 --> 01:30:07,461
--Thought we'd just roll over.
+- Thought we'd just roll over.
 -WOMAN 1: But we showed them!
 
 1127
@@ -5375,7 +5375,7 @@ have fallen back to the inner wall.
 1178
 01:34:43,311 --> 01:34:46,246
 - We haven't got a lot of time.
--Those samurai bastards.
+- Those samurai bastards.
 
 1179
 01:34:46,347 --> 01:34:48,941
@@ -5406,7 +5406,7 @@ The rest of you, keep digging!
 1185
 01:35:00,328 --> 01:35:03,730
 - Wait! What about Iron Town?
--That's right! It's our home!
+- That's right! It's our home!
 
 1186
 01:35:03,865 --> 01:35:06,266
@@ -5421,7 +5421,7 @@ We haven't a moment to lose.
 1188
 01:35:08,469 --> 01:35:12,030
 - Send a message to Lady Eboshil
--The forest is too big!
+- The forest is too big!
 
 1189
 01:35:12,373 --> 01:35:14,137
@@ -5528,7 +5528,7 @@ Take it easy. I'm trying to get you out.
 1212
 01:36:53,975 --> 01:36:55,909
 - (GROWLING CONTINUES)
--There's a wolf over here!
+- There's a wolf over here!
 
 1213
 01:36:55,977 --> 01:36:59,242
@@ -5568,7 +5568,7 @@ or saving your town?
 
 1221
 01:37:21,202 --> 01:37:23,330
--Those darts are poison.
+- Those darts are poison.
 - (GRUNTS)
 
 1222
@@ -5577,7 +5577,7 @@ or saving your town?
 
 1223
 01:37:28,509 --> 01:37:30,841
--That's enough now!
+- That's enough now!
 - (GRUNTS)
 
 1224
@@ -5652,7 +5652,7 @@ Straight ahead. Today we finish this.
 1239
 01:38:41,616 --> 01:38:44,449
 - Sir.
--Yes? Ah, have you spotted them?
+- Yes? Ah, have you spotted them?
 
 1240
 01:38:44,952 --> 01:38:46,215
@@ -5753,7 +5753,7 @@ I can't smell it.
 
 1262
 01:39:54,322 --> 01:39:58,384
--You did this!
+- You did this!
 - Because of you, the forest will die!
 
 1263
@@ -5789,7 +5789,7 @@ What do you mean,
 
 1270
 01:40:17,278 --> 01:40:19,440
--They're coming!
+- They're coming!
 - It's the end for us!
 
 1271
@@ -5798,7 +5798,7 @@ What do you mean,
 
 1272
 01:40:38,566 --> 01:40:40,728
--They're warriors.
+- They're warriors.
 - (SNIFFING)
 
 1273
@@ -6524,7 +6524,7 @@ to get to the island!
 1438
 01:54:37,871 --> 01:54:40,602
 - Island? I can't swim!
--Then walk along the bottom.
+- Then walk along the bottom.
 
 1439
 01:54:45,979 --> 01:54:47,378
@@ -6666,12 +6666,12 @@ It's calling him to us!
 1471
 01:58:02,542 --> 01:58:04,408
 - (TAPPING CONTINUES)
--There you go.
+- There you go.
 
 1472
 01:58:04,511 --> 01:58:06,809
 - It shouldn't jam anymore.
--Thanks.
+- Thanks.
 
 1473
 01:58:07,347 --> 01:58:10,408
@@ -6744,7 +6744,7 @@ Everybody, hold your positions!
 
 1488
 01:59:12,579 --> 01:59:15,412
--Toki, it's coming right at us.
+- Toki, it's coming right at us.
 - Run! We've gotta go!
 
 1489
@@ -6793,7 +6793,7 @@ before he kills us all. Hurry!
 1498
 01:59:55,355 --> 01:59:57,653
 - We'll never get out now!
--That's enough!
+- That's enough!
 
 1499
 01:59:58,258 --> 02:00:00,454
@@ -7011,7 +7011,7 @@ Well, I think it's over.
 1547
 02:03:57,864 --> 02:04:00,492
 - (SHOUTING)
--The men! The men are back!
+- The men! The men are back!
 
 1548
 02:04:00,934 --> 02:04:04,427
