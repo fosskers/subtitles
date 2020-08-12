@@ -2844,2402 +2844,2363 @@ He's hit the rear guard!
 私はペジテ攻略を命令された
 
 689
-01:13:03,880 --> 01:13:05,814
-Once its existence is known,
+01:13:03,880 --> 01:13:06,014
+やつの実在が知られた以上
 
 690
-01:13:05,982 --> 01:13:09,680
-all the remaining kingdoms
-will send their armies here to claim it.
+01:13:06,082 --> 01:13:09,280
+列国は次々とこの地に
+大軍を送り込むだろう
 
 691
-01:13:10,953 --> 01:13:14,048
-You really only have
-one choice, Lord Yupa.
+01:13:11,153 --> 01:13:14,048
+お前達に残された道は一つしかない
 
 692
 01:13:14,790 --> 01:13:16,349
-Revive the giant warrior.
+巨神兵を復活させ
 
 693
-01:13:16,525 --> 01:13:18,459
-Use it to repel the invading kingdoms
+01:13:16,825 --> 01:13:18,459
+列強の干渉を排し
 
 694
 01:13:18,728 --> 01:13:20,822
-and learn to live with the monster.
+やつと共に生きる事だ
 
 695
 01:13:20,997 --> 01:13:21,964
-Look.
+見ろ
 
 696
-01:13:24,166 --> 01:13:25,497
-(GASPING)
+01:13:26,969 --> 01:13:28,261
+虫にか
 
 697
-01:13:25,735 --> 01:13:26,793
-Hmm.
+01:13:28,871 --> 01:13:30,533
+我が夫となる者は
 
 698
-01:13:26,969 --> 01:13:28,061
-An insect did that?
+01:13:30,633 --> 01:13:32,633
+更に悍ましき物を見るだろ
 
 699
-01:13:28,871 --> 01:13:31,033
-That's right, and whatever
-lucky man becomes my husband
+01:13:33,242 --> 01:13:35,335
+腐海を焼き、虫を殺し
 
 700
-01:13:31,407 --> 01:13:32,875
-will see worse than that.
+01:13:35,610 --> 01:13:37,905
+人間の世界を取り戻すに何を躊躇う！
 
 701
-01:13:33,042 --> 01:13:34,635
-The insects must be stopped.
+01:13:39,515 --> 01:13:41,643
+我が軍がペジテから奪った様に
 
 702
-01:13:34,810 --> 01:13:37,905
-You must revive the warrior and use it
-to destroy them and their jungle.
+01:13:41,817 --> 01:13:43,751
+やつを奪うがいい
 
 703
-01:13:39,515 --> 01:13:41,643
-Steal it from us
-as we stole it from Pejite.
+01:13:46,388 --> 01:13:49,385
+巨神兵は復活させぬ
 
 704
-01:13:41,817 --> 01:13:43,751
-That's what I'd do if I were you.
+01:13:51,961 --> 01:13:53,986
+- 大変だ！
+- おい！合言葉を言え
 
 705
-01:13:46,188 --> 01:13:49,385
-No, we will keep the warrior dormant
-as it was meant to be.
+01:13:54,163 --> 01:13:55,961
+- 急いでんのに！
+- 風…
 
 706
-01:13:49,892 --> 01:13:51,382
-(GASPING) Lord Yupa!
+01:13:56,132 --> 01:13:57,793
+- 谷ぃ！
+- よし
 
 707
-01:13:51,961 --> 01:13:53,986
-- Emergency!
--You gotta give us the password.
+01:13:57,967 --> 01:13:59,534
+胞子が残っていたんだ！
 
 708
-01:13:54,163 --> 01:13:55,961
--I'mina humy!
--Wind?
+01:14:00,034 --> 01:14:00,934
+何だと！
 
 709
-01:13:56,132 --> 01:13:57,793
--Valley!
-- Okay.
+01:14:01,003 --> 01:14:04,166
+すごい瘴気を出して
+谷中お騒ぎになってる！
 
 710
-01:13:57,967 --> 01:14:00,834
-- Some of the spores survived!
--What? In the valley?
+01:14:16,620 --> 01:14:19,090
+早くしないと谷が
+全滅しちまうぞ！
 
 711
-01:14:01,003 --> 01:14:04,166
-They're spreading poison everywhere.
-The whole valley's in a panic.
+01:14:22,258 --> 01:14:24,590
+胞子を焼く道具が
+武器にもなります
 
 712
-01:14:04,540 --> 01:14:06,474
-(PANICKED MURMURING)
+01:14:24,690 --> 01:14:25,790
+渡すのが…
 
 713
-01:14:08,210 --> 01:14:09,905
-WOMAN: It's poison! See them?
+01:14:25,962 --> 01:14:27,329
+仕方あるまい
 
 714
-01:14:10,079 --> 01:14:11,808
-(CLAMORING)
+01:14:27,429 --> 01:14:28,929
+銃以外は戻してやれ
 
 715
-01:14:12,515 --> 01:14:14,449
-MAN 1: Please, don't be foolish!
-MAN 2: We need to do something.
+01:14:29,866 --> 01:14:31,233
+コルベット出発します
 
 716
-01:14:14,617 --> 01:14:16,107
-- MAN 3: Hurry!
-- MAN 1: Before it's too late!
+01:14:31,333 --> 01:14:32,833
+今度は抜かるな？
 
 717
-01:14:17,820 --> 01:14:20,790
-If we don't do something fast,
-the whole valley will be destroyed.
+01:14:33,002 --> 01:14:36,634
+ペジテに残る兵力を全て
+この谷に集結させろ
 
 718
-01:14:20,957 --> 01:14:21,890
-Hurry, the spores are spreading fast.
+01:14:37,540 --> 01:14:38,564
+やれやれ
 
 719
-01:14:22,058 --> 01:14:25,790
-If we give them tools to burn the spores,
-they could use them against us instead.
+01:14:38,741 --> 01:14:40,900
+面倒な事になってきやがったぜ
 
 720
-01:14:25,962 --> 01:14:28,829
-We have no choice.
-Hand over everything but their guns.
-
-721
-01:14:28,998 --> 01:14:29,897
-Yes, sir.
-
-722
-01:14:30,066 --> 01:14:32,933
-- Sir, the ship is ready.
--Try not to fail this time.
-
-723
-01:14:33,102 --> 01:14:35,434
-Assemble all the Tolmekian soldiers
-left in Pejite
-
-724
-01:14:35,604 --> 01:14:36,901
-- and bring them to the valley.
--Yes, sir.
-
-725
-01:14:37,540 --> 01:14:38,564
-What a mess.
-
-726
-01:14:38,841 --> 01:14:40,900
-This is starting to look bad already.
-
-727
 01:14:41,077 --> 01:14:43,068
 (ALL SHOUTING) Come on! Hurry!
 
-728
+721
 01:14:43,245 --> 01:14:44,440
 Let's go! Let's go!
 
-729
+722
 01:14:46,816 --> 01:14:48,181
 Good luck finding the Princess.
 
-730
+723
 01:14:48,551 --> 01:14:51,179
 Take care of the valley, and don't do
 anything rash while we're gone.
 
-731
+724
 01:14:51,554 --> 01:14:52,487
 ALL: Yes, sir.
 
-732
+725
 01:14:57,159 --> 01:14:59,787
 Come on. Let's get back to the valley.
 
-733
+726
 01:15:00,997 --> 01:15:02,863
 (ALL SHOUTING)
 
-734
+727
 01:15:07,870 --> 01:15:09,099
 (GRUNTING)
 
-735
+728
 01:15:10,239 --> 01:15:11,172
 Check it!
 
-736
+729
 01:15:11,540 --> 01:15:12,837
 MAN: Oh, no!
 
-737
+730
 01:15:13,976 --> 01:15:14,909
 We're too late.
 
-738
+731
 01:15:15,077 --> 01:15:17,045
 The spores have infested
 the entire tree.
 
-739
+732
 01:15:17,513 --> 01:15:18,981
 This one's infected, too!
 
-740
+733
 01:15:19,582 --> 01:15:21,243
 -WOMAN: This way!
 - Get out of the way!
 
-741
+734
 01:15:21,617 --> 01:15:22,948
 MAN: Hey, what do you think
 you're doing?
 
-742
+735
 01:15:23,119 --> 01:15:24,177
 (GRUNTING)
 
-743
+736
 01:15:24,553 --> 01:15:26,521
 Oh, no. It's everywhere.
 
-744
+737
 01:15:28,124 --> 01:15:29,489
 MAN: Obaba.
 
-745
+738
 01:15:30,526 --> 01:15:32,756
 OBABA: This forest is doomed.
 
-746
+739
 01:15:32,928 --> 01:15:34,487
 We must burn it down.
 
-747
+740
 01:15:34,663 --> 01:15:39,533
 If we hesitate, the toxic jungle
 will engulf the entire valley.
 
-748
+741
 01:15:40,603 --> 01:15:42,128
 Isn't there some other way?
 
-749
+742
 01:15:42,304 --> 01:15:46,241
 This forest has protected the valley
 from the jungle's poisons for 300 years.
 
-750
+743
 01:15:46,609 --> 01:15:49,510
 If only the Tolmekians had never come.
 
-751
+744
 01:15:57,086 --> 01:15:59,578
 It looks like
 things are getting out of control.
 
-752
+745
 01:15:59,855 --> 01:16:02,187
 We better get back there fast.
 
-753
+746
 01:16:15,071 --> 01:16:18,097
 ASBEL: You think so?
 Everything looks the same to me.
 
-754
+747
 01:16:20,943 --> 01:16:22,934
 NAUSICAA: The insects
 have left the jungle.
 
-755
+748
 01:16:26,082 --> 01:16:29,848
 What's going on?
 My heart's pounding like crazy.
 
-756
+749
 01:16:30,019 --> 01:16:33,649
 ASBEL: Hey, we're almost there!
 Pejite's just over that mountain.
 
-757
+750
 01:16:54,176 --> 01:16:55,610
 Something strange is going on.
 
-758
+751
 01:16:55,778 --> 01:16:57,246
 What's that haze over there?
 
-759
+752
 01:17:02,051 --> 01:17:03,280
 Asbel, put your mask on!
 
-760
+753
 01:17:06,355 --> 01:17:08,983
 ASBEL: The insects. They're all dead.
 
-761
+754
 01:17:09,291 --> 01:17:11,282
 -We've got to get to Pejite.
 - Be careful.
 
-762
+755
 01:17:11,660 --> 01:17:13,992
 The Tolmekian army
 could still be there.
 
-763
+756
 01:17:19,101 --> 01:17:21,092
 (FIRE CRACKLING)
 
-764
+757
 01:17:54,336 --> 01:17:55,303
 (GASPS)
 
-765
+758
 01:18:06,081 --> 01:18:07,674
 NAUSICAA: A dead Ohm.
 
-766
+759
 01:18:07,850 --> 01:18:10,342
 ASBEL: And the capital's
 been destroyed.
 
-767
+760
 01:18:21,297 --> 01:18:22,423
 Pejite is finished.
 
-768
+761
 01:18:22,798 --> 01:18:26,098
 It was far too much to pay, even if it
 did get the Tolmekians out of our city.
 
-769
+762
 01:18:26,268 --> 01:18:27,167
 "Too much to pay"?
 
-770
+763
 01:18:27,336 --> 01:18:29,327
 Asbel, what are you talking about?
 
-771
+764
 01:18:33,108 --> 01:18:34,041
 An airship.
 
-772
+765
 01:18:34,210 --> 01:18:36,372
 ASBEL: It's one of ours!
 They're landing. Let's go.
 
-773
+766
 01:18:48,824 --> 01:18:51,088
 MAN: Asbel, you're still alive.
 
-774
+767
 01:18:51,460 --> 01:18:54,430
 What have you done to our city?
 It's completely destroyed!
 
-775
+768
 01:18:55,130 --> 01:18:56,962
 Don't worry. We can rebuild it.
 
-776
+769
 01:18:57,132 --> 01:18:59,362
 And if the jungle starts to spread here,
 we'll burn it off.
 
-777
+770
 01:18:59,735 --> 01:19:02,170
 With what? The giant warrior isn't here.
 
-778
+771
 01:19:02,338 --> 01:19:04,329
 We know. It's in the Valley of the Wind.
 
-779
+772
 01:19:04,506 --> 01:19:05,405
 How do you know that?
 
-780
+773
 01:19:05,774 --> 01:19:09,074
 (CHUCKLES) We've already
 made plans to get it back.
 
-781
+774
 01:19:09,245 --> 01:19:11,270
 Our plan is being executed
 as we speak.
 
-782
+775
 01:19:12,448 --> 01:19:14,439
 All Tolmekians in the valley
 will be dead...
 
-783
+776
 01:19:14,817 --> 01:19:15,750
 ASBEL:What?
 
-784
+777
 01:19:16,318 --> 01:19:18,377
 What are you planning to do
 to my valley?
 
-785
+778
 01:19:18,754 --> 01:19:20,279
 Asbel, who is this?
 
-786
+779
 01:19:21,857 --> 01:19:24,121
 She's the princess
 of the Valley of the Wind,
 
-787
+780
 01:19:24,293 --> 01:19:25,454
 and she saved my life.
 
-788
+781
 01:19:26,128 --> 01:19:27,391
 - (MEN GASP)
 -The Valley of the Wind?
 
-789
+782
 01:19:27,763 --> 01:19:29,424
 Tell me! What is gonna happen?
 
-790
+783
 01:19:33,469 --> 01:19:36,461
 Asbel, you know what the plan is.
 You have to tell me.
 
-791
+784
 01:19:38,240 --> 01:19:39,503
 We're going to bait insects
 into the valley.
 
-792
+785
 01:19:39,875 --> 01:19:40,774
 (GASPS)
 
-793
+786
 01:19:41,243 --> 01:19:44,304
 So you lured the insects
 here into Pejite?
 
-794
+787
 01:19:47,483 --> 01:19:48,450
 (SOBBING)
 
-795
+788
 01:19:48,817 --> 01:19:51,479
 What a monstrous thing to do.
 
-796
+789
 01:19:52,288 --> 01:19:55,223
 We have to get the giant warrior
 out of the hands of the Tolmekians,
 
-797
+790
 01:19:55,391 --> 01:19:56,756
 no matter what it takes.
 
-798
+791
 01:19:56,925 --> 01:19:59,485
 We're doing this for the good
 of the planet. You've got to understand.
 
-799
+792
 01:19:59,862 --> 01:20:02,524
 The good of the planet?
 You're killing my people!
 
-800
+793
 01:20:03,265 --> 01:20:06,064
 Don't do this, I beg you!
 Please, please, stop this now!
 
-801
+794
 01:20:06,235 --> 01:20:07,259
 It's too late.
 
-802
+795
 01:20:07,436 --> 01:20:10,235
 Once the insects start stampeding,
 they can't be stopped.
 
-803
+796
 01:20:13,342 --> 01:20:15,504
 The Tolmekians nearly
 killed off all our people.
 
-804
+797
 01:20:15,878 --> 01:20:17,107
 They must be stopped.
 
-805
+798
 01:20:17,946 --> 01:20:19,880
 We have no other choice.
 
-806
+799
 01:20:21,917 --> 01:20:23,078
 - Stop her!
 - MAN 1: Stop her!
 
-807
+800
 01:20:23,252 --> 01:20:24,242
 MAN 2: Grab her!
 
-808
+801
 01:20:26,855 --> 01:20:28,220
 Let me go!
 
-809
+802
 01:20:28,490 --> 01:20:30,788
 Ah! Let me go!
 
-810
+803
 01:20:33,829 --> 01:20:36,389
 Things may seem
 bad to you now, Princess,
 
-811
+804
 01:20:36,565 --> 01:20:39,330
 but once we have the warrior, we'll burn
 the jungle, and take back the Earth.
 
-812
+805
 01:20:39,501 --> 01:20:42,334
 You savages!
 You're just as bad as the Tolmekians!
 
-813
+806
 01:20:42,504 --> 01:20:45,405
 You're wrong. The Tolmekians
 want to take over the world.
 
-814
+807
 01:20:45,574 --> 01:20:48,407
 Listen, every one of us
 relies on water from the wells,
 
-815
+808
 01:20:48,577 --> 01:20:51,478
 because mankind has polluted
 all the lakes and rivers.
 
-816
+809
 01:20:51,847 --> 01:20:53,440
 But do you know why
 the well water is pure?
 
-817
+810
 01:20:53,615 --> 01:20:55,811
 The trees of the wasteland purify it.
 
-818
+811
 01:20:55,984 --> 01:20:57,509
 And you plan to burn the trees down?
 
-819
+812
 01:20:57,886 --> 01:21:00,150
 You must not burn down
 the toxic jungle!
 
-820
+813
 01:21:00,322 --> 01:21:02,552
 You should have left the giant warrior
 beneath the Earth!
 
-821
+814
 01:21:03,325 --> 01:21:04,554
 So what should we do?
 
-822
+815
 01:21:04,927 --> 01:21:06,952
 Surrender and become
 the slaves of the Tolmekians?
 
-823
+816
 01:21:07,196 --> 01:21:08,425
 Don't you understand?
 
-824
+817
 01:21:08,597 --> 01:21:10,429
 Asbel, tell them how the jungle evolved,
 
-825
+818
 01:21:10,599 --> 01:21:13,933
 and how the insects are guarding it
 so we won't pollute the world again.
 
-826
+819
 01:21:15,304 --> 01:21:17,170
 Asbel, please?
 
-827
+820
 01:21:18,440 --> 01:21:21,137
 - (GRUNTS) What are you doing?
 - Stay right there.
 
-828
+821
 01:21:21,310 --> 01:21:22,505
 Let go of the Princess, now!
 
-829
+822
 01:21:23,212 --> 01:21:24,475
 Calm down, Ashel.
 
-830
+823
 01:21:25,414 --> 01:21:26,404
 ASBEL: Let her go!
 
-831
+824
 01:21:26,949 --> 01:21:28,383
 I mean it!
 
-832
+825
 01:21:28,550 --> 01:21:30,382
 Nausicai, go back
 and warn your people.
 
-833
+826
 01:21:30,619 --> 01:21:32,417
 - (ASBEL GRUNTS)
 - (NAUSICAA GASPS)
 
-834
+827
 01:21:36,258 --> 01:21:38,226
 Asbel! Let me go!
 
-835
+828
 01:22:03,519 --> 01:22:05,487
 (DISTANT SHOUTING)
 
-836
+829
 01:22:10,592 --> 01:22:12,321
 What a bunch of fools.
 
-837
+830
 01:22:16,298 --> 01:22:18,596
 I can't wait to beat the tar
 out of those Tolmekians.
 
-838
+831
 01:22:18,967 --> 01:22:20,526
 I thought we said
 we wouldn't do anything rash.
 
-839
+832
 01:22:20,702 --> 01:22:21,669
 Don't panic.
 
-840
+833
 01:22:22,037 --> 01:22:23,527
 Just rescue the soldiers with the tanks.
 
-841
+834
 01:22:23,705 --> 01:22:24,570
 -Yes, sir.
 - Let's go.
 
-842
+835
 01:22:24,940 --> 01:22:26,533
 Sir, the villagers just killed
 our last soldier on the field.
 
-843
+836
 01:22:26,708 --> 01:22:29,507
 - Are they heading for the castle?
 - Not yet.
 
-844
+837
 01:22:29,678 --> 01:22:31,544
 But more of them keep gathering.
 
-845
+838
 01:22:31,713 --> 01:22:35,547
 All this over a little forest.
 They're as annoying as the Pejites.
 
-846
+839
 01:22:35,717 --> 01:22:37,242
 If they just calmed down...
 
-847
+840
 01:22:41,423 --> 01:22:42,652
 Look out!
 
-848
+841
 01:22:43,025 --> 01:22:43,958
 Huh?
 
-849
+842
 01:22:44,326 --> 01:22:45,953
 (SCREAMING)
 
-850
+843
 01:22:48,063 --> 01:22:49,394
 They hijacked our tank.
 
-851
+844
 01:22:51,300 --> 01:22:53,564
 - Get this thing moving!
 - I'm going. Don't rush me.
 
-852
+845
 01:22:53,735 --> 01:22:56,568
 - MAN: Fire!
 - Here they come!
 
-853
+846
 01:22:56,738 --> 01:22:58,263
 Forward!
 
-854
+847
 01:23:00,476 --> 01:23:01,705
 Come on, come on. Let's go.
 
-855
+848
 01:23:02,077 --> 01:23:03,567
 Maybe it's this one.
 
-856
+849
 01:23:05,481 --> 01:23:06,573
 Hey, it's doing something.
 
-857
+850
 01:23:06,748 --> 01:23:08,682
 Niga, where are you going?
 
-858
+851
 01:23:09,418 --> 01:23:11,250
 (ALL GASPING, SHOUTING)
 
-859
+852
 01:23:14,523 --> 01:23:15,684
 What do you think you're doing?
 
-860
+853
 01:23:16,058 --> 01:23:18,322
 - Go forward!
 - I know. I know.
 
-861
+854
 01:23:23,398 --> 01:23:25,389
 MAN 1:The tank!
 MAN 2: Let's stop it!
 
-862
+855
 01:23:26,635 --> 01:23:27,602
 MAN 3: Stop them!
 
-863
+856
 01:23:28,403 --> 01:23:31,031
 They're getting away!
 Send out all the tanks! (GASPS)
 
-864
+857
 01:23:32,007 --> 01:23:33,600
 MAN 1: Your Highness.
 MAN 2: Attention!
 
-865
+858
 01:23:34,776 --> 01:23:36,540
 She's alive.
 
-866
+859
 01:23:36,712 --> 01:23:38,737
 That dream didn't last long.
 
-867
+860
 01:23:39,648 --> 01:23:40,615
 Your Highness!
 
-868
+861
 01:23:45,420 --> 01:23:46,979
 We'll hold off the troops.
 
-869
+862
 01:23:47,155 --> 01:23:50,284
 You round up the villagers
 and seek shelter by the Acid Lake.
 
-870
+863
 01:23:50,459 --> 01:23:52,587
 - Right. Let's go!
 - Come on!
 
-871
+864
 01:23:52,761 --> 01:23:56,629
 We just have to lie low until
 the Princess returns in the gunship.
 
-872
+865
 01:23:59,701 --> 01:24:02,261
 MAN 1: Don't slow down!
 MAN 2:You can make it!
 
-873
+866
 01:24:02,437 --> 01:24:03,302
 Keep moving!
 
-874
+867
 01:24:03,472 --> 01:24:05,133
 Don't just stand there. Give me a hand.
 
-875
+868
 01:24:05,374 --> 01:24:06,603
 But I have a bad back.
 
-876
+869
 01:24:07,576 --> 01:24:10,637
 NIGA: Oh, get us out of here!
 The tanks are coming!
 
-877
+870
 01:24:13,749 --> 01:24:15,478
 You're turning in circles.
 
-878
+871
 01:24:15,651 --> 01:24:16,777
 MAN: I know, I know.
 NIGA: Go forward!
 
-879
+872
 01:24:19,388 --> 01:24:20,321
 (SCREAMING)
 
-880
+873
 01:24:20,489 --> 01:24:21,547
 MAN: We're hit!
 
-881
+874
 01:24:30,132 --> 01:24:31,725
 - (ALARM BLARING)
 - (GRUNTING)
 
-882
+875
 01:24:32,768 --> 01:24:34,133
 What do you got, soldier?
 
-883
+876
 01:24:34,369 --> 01:24:35,530
 It's a ship from Pejite.
 
-884
+877
 01:24:35,704 --> 01:24:36,671
 I caught a glimpse
 just beyond the clouds.
 
-885
+878
 01:24:36,838 --> 01:24:37,771
 Good work.
 
-886
+879
 01:24:52,487 --> 01:24:54,683
 MAN: Careful. She's a wild one.
 
-887
+880
 01:25:01,697 --> 01:25:03,131
 Quicldy now.
 
-888
+881
 01:25:05,500 --> 01:25:07,730
 Nausicaa, we're going
 to get you out of here
 
-889
+882
 01:25:08,103 --> 01:25:09,730
 $0 you can
 warn the people of the valley.
 
-890
+883
 01:25:10,105 --> 01:25:12,506
 There may still be enough time
 if you take your glider.
 
-891
+884
 01:25:12,674 --> 01:25:14,836
 It's ready and waiting for you.
 
-892
+885
 01:25:15,777 --> 01:25:18,075
 Asbel told me everything
 that has happened.
 
-893
+886
 01:25:18,246 --> 01:25:20,408
 I'm going to be
 taking your place, Princess.
 
-894
+887
 01:25:20,582 --> 01:25:21,811
 - Put this on.
 - But who are you?
 
-895
+888
 01:25:22,184 --> 01:25:24,551
 I'm Asbel and Lastelle's mother.
 
-896
+889
 01:25:24,786 --> 01:25:26,083
 (GASPS)
 
-897
+890
 01:25:26,655 --> 01:25:28,384
 You're their mother.
 
-898
+891
 01:25:28,657 --> 01:25:31,388
 (SIGHS) Please, forgive us.
 
-899
+892
 01:25:31,560 --> 01:25:34,188
 What our people did
 was horribly wrong.
 
-900
+893
 01:25:34,463 --> 01:25:35,430
 Hurry.
 
-901
+894
 01:25:42,671 --> 01:25:43,797
 NAUSICAA: What will happen to her?
 
-902
+895
 01:25:44,172 --> 01:25:46,163
 WOMAN: Don't worry. She'll be fine.
 
-903
+896
 01:25:48,243 --> 01:25:50,769
 WOMAN 1: There she is.
 WOMAN 2: Yes, the Princess.
 
-904
+897
 01:25:51,747 --> 01:25:53,237
 Please be careful.
 
-905
+898
 01:25:53,482 --> 01:25:55,610
 And forgive us
 for the way you've been treated.
 
-906
+899
 01:25:55,784 --> 01:25:57,809
 - ASBEL: Nausicaa, this way.
 - Here.
 
-907
+900
 01:25:58,553 --> 01:25:59,748
 - Hurry.
 -WOMAN 1: Be careful.
 
-908
+901
 01:25:59,921 --> 01:26:01,116
 WOMAN 2: Good luck.
 
-909
+902
 01:26:01,289 --> 01:26:03,485
 Thank you, everyone.
 
-910
+903
 01:26:03,659 --> 01:26:04,683
 WOMAN 3: Take care.
 
-911
+904
 01:26:04,860 --> 01:26:07,124
 I'm sory it took me so long.
 
-912
+905
 01:26:09,164 --> 01:26:10,689
 Can you launch from here?
 
-913
+906
 01:26:10,866 --> 01:26:12,163
 I'll try.
 
-914
+907
 01:26:19,841 --> 01:26:20,808
 The Tolmekians!
 
-915
+908
 01:26:23,912 --> 01:26:26,813
 Get us out of here! Head for the clouds!
 
-916
+909
 01:26:32,754 --> 01:26:33,721
 MAN: Cease fire!
 
-917
+910
 01:26:38,326 --> 01:26:39,487
 They'll never survive.
 
-918
+911
 01:26:39,661 --> 01:26:41,254
 It's a pilot's worst nightmare
 in those clouds.
 
-919
+912
 01:26:46,868 --> 01:26:49,838
 MAN: This is suicide! I can't steer!
 
-920
+913
 01:26:50,205 --> 01:26:51,866
 (ALL SCREAMING)
 
-921
+914
 01:26:57,646 --> 01:26:59,444
 The storm is tearing the ship apart!
 
-922
+915
 01:26:59,614 --> 01:27:00,479
 It's no use!
 
-923
+916
 01:27:00,649 --> 01:27:02,811
 Our only hope is to
 get out of these clouds and fight back!
 
-924
+917
 01:27:08,724 --> 01:27:10,556
 - Oh!
 -They expected this.
 
-925
+918
 01:27:19,568 --> 01:27:21,468
 Look. What are they doing?
 
-926
+919
 01:27:21,636 --> 01:27:25,266
 Oh, no. They're trying to pin us against
 the clouds so they can board our ship.
 
-927
+920
 01:27:33,982 --> 01:27:35,746
 (GRUNTING)
 
-928
+921
 01:27:37,619 --> 01:27:38,609
 Open it up!
 
-929
+922
 01:27:39,755 --> 01:27:42,747
 They're coming in.
 You got to get out of here now!
 
-930
+923
 01:27:42,924 --> 01:27:44,585
 I can't just leave you like this.
 
-931
+924
 01:27:44,760 --> 01:27:47,491
 Or your mother, or the girl
 who took my place in the cell.
 
-932
+925
 01:27:47,662 --> 01:27:48,925
 You need all the help you can get!
 
-933
+926
 01:27:49,297 --> 01:27:51,789
 You have to save the people
 of the valley. Please.
 
-934
+927
 01:27:51,967 --> 01:27:53,867
 Go, or my people
 will never forgive themselves.
 
-935
+928
 01:27:54,035 --> 01:27:55,696
 - (GUNSHOT)
 - (BOTH GASP)
 
-936
+929
 01:27:58,640 --> 01:27:59,698
 MAN: Go, go, go!
 
-937
+930
 01:28:05,313 --> 01:28:08,874
 Take the ship.
 I want every Pejite dead. Now.
 
-938
+931
 01:28:09,384 --> 01:28:11,352
 - (GROWLS)
 - (GASPS)
 
-939
+932
 01:28:14,756 --> 01:28:16,554
 Go, Nausicai, go!
 
-940
+933
 01:28:16,725 --> 01:28:17,954
 Asbell
 
-941
+934
 01:29:15,951 --> 01:29:17,919
 There's the Princess!
 
-942
+935
 01:29:18,854 --> 01:29:20,322
 Mito!
 
-943
+936
 01:29:22,824 --> 01:29:24,053
 (SHRIEKS)
 
-944
+937
 01:29:27,796 --> 01:29:28,888
 Ha-hal
 
-945
+938
 01:29:34,803 --> 01:29:37,363
 NAUSICAA: Mito, Lord Yupa,
 the valley's in danger.
 
-946
+939
 01:29:37,539 --> 01:29:40,839
 - MITO: Princess!
 - Hurry! Hurry! Please!
 
-947
+940
 01:29:41,376 --> 01:29:43,708
 I'll send out the docking hook now.
 
-948
+941
 01:29:43,879 --> 01:29:45,847
 LordYupa, pull the red lever
 on your right.
 
-949
+942
 01:29:51,853 --> 01:29:54,788
 Why is this taking so long?
 Knock it down.
 
-950
+943
 01:29:54,956 --> 01:29:57,357
 - (PANICKED MURMURS)
 - (BABY CRYING)
 
-951
+944
 01:29:59,995 --> 01:30:01,759
 This door's gonna bust
 any second now.
 
-952
+945
 01:30:01,930 --> 01:30:03,830
 Fine. Let them break it down.
 
-953
+946
 01:30:03,999 --> 01:30:06,024
 We must fight them
 with honor and with dignity.
 
-954
+947
 01:30:08,103 --> 01:30:09,070
 What's behind us?
 
-955
+948
 01:30:09,971 --> 01:30:11,063
 A bird?
 
-956
+949
 01:30:12,073 --> 01:30:13,632
 Look! A gunship
 from the Valley of the Wind!
 
-957
+950
 01:30:13,808 --> 01:30:14,741
 What?
 
-958
+951
 01:30:18,413 --> 01:30:20,381
 - (GROANS)
 - (ALL GRUNT)
 
-959
+952
 01:30:23,818 --> 01:30:25,411
 Get him!
 (GRUNTS)
 
-960
+953
 01:30:28,189 --> 01:30:30,021
 (MEN SCREAM)
 
-961
+954
 01:30:32,761 --> 01:30:35,856
 It's Lord Yupa.
 Kill him, and you'll be famous.
 
-962
+955
 01:30:43,171 --> 01:30:46,766
 I suggest you surrender.
 There's no ship coming to rescue you.
 
-963
+956
 01:30:46,942 --> 01:30:48,000
 This guy's tough.
 
-964
+957
 01:30:53,014 --> 01:30:56,075
 This is way too fast!
 The engine's gonna burn out!
 
-965
+958
 01:30:56,551 --> 01:30:59,885
 I don't care, as long as it holds out
 until we get to the valley.
 
-966
+959
 01:31:00,055 --> 01:31:01,079
 Increase speed!
 
-967
+960
 01:31:01,923 --> 01:31:03,891
 Please, dear God,
 please hear this prayer.
 
-968
+961
 01:31:04,059 --> 01:31:06,050
 You must protect
 the people of the valley.
 
-969
+962
 01:31:15,003 --> 01:31:16,994
 - (COUGHING)
 - (WHISPERING)
 
-970
+963
 01:31:22,177 --> 01:31:25,112
 MAN 1: I don't like this waiting.
 MAN 2: Check your weapons.
 
-971
+964
 01:31:25,847 --> 01:31:28,544
 Well, this is dull.
 Are they ever going to budge?
 
-972
+965
 01:31:28,817 --> 01:31:31,047
 -They're waiting for their princess.
 -The princess?
 
-973
+966
 01:31:31,219 --> 01:31:34,780
 They expect her to come back here
 and rescue them with their gunship.
 
-974
+967
 01:31:34,956 --> 01:31:36,822
 That gunship could be
 areal pain in the neck.
 
-975
+968
 01:31:36,992 --> 01:31:38,790
 Should we start a fight now
 and avoid the mess?
 
-976
+969
 01:31:39,027 --> 01:31:41,724
 Do you know anything
 about that old ship they're hiding in?
 
-977
+970
 01:31:41,896 --> 01:31:44,456
 KUROTOWA: I've heard it was built
 before the Seven Days of Fire.
 
-978
+971
 01:31:44,632 --> 01:31:45,497
 I don't know if it's true,
 
-979
+972
 01:31:45,667 --> 01:31:48,034
 but it's supposed to have traveled
 everywhere, even to the stars.
 
-980
+973
 01:31:48,203 --> 01:31:50,831
 They say guns can't
 penetrate its armor,
 
-981
+974
 01:31:51,006 --> 01:31:52,872
 but I bet if you hit it just right...
 
-982
+975
 01:31:53,041 --> 01:31:54,566
 No, we're going to wait for the Princess.
 
-983
+976
 01:31:54,843 --> 01:31:55,935
 What?
 
-984
+977
 01:31:56,111 --> 01:32:00,173
 I want to see if she can make it back
 alive from the middle of the jungle.
 
-985
+978
 01:32:00,548 --> 01:32:04,075
 If she's not dead, I'd like a chance
 to get to know her.
 
-986
+979
 01:32:07,288 --> 01:32:09,848
 So, men, have you
 made up your minds yet?
 
-987
+980
 01:32:10,025 --> 01:32:13,188
 If you advise the villagers
 to surrender, I'll let you go.
 
-988
+981
 01:32:13,928 --> 01:32:15,987
 Or would you rather end up like Pejite?
 
-989
+982
 01:32:17,298 --> 01:32:19,858
 It's strange that you're a princess, too.
 
-990
+983
 01:32:20,035 --> 01:32:22,902
 You're not anything at all
 like our princess.
 
-991
+984
 01:32:23,138 --> 01:32:24,867
 Ah, take a look at my hands.
 
-992
+985
 01:32:25,540 --> 01:32:27,770
 I have the same illness as King Jihl.
 
-993
+986
 01:32:27,942 --> 01:32:31,776
 Six months from now,
 my hands will be as hard as rocks.
 
-994
+987
 01:32:31,946 --> 01:32:36,975
 But our princess told me that she truly
 loves these beat-up old hands of mine.
 
-995
+988
 01:32:38,086 --> 01:32:39,576
 When she looks at these hands,
 
-996
+989
 01:32:39,854 --> 01:32:41,845
 she knows these
 are the hands of a hard worker.
 
-997
+990
 01:32:42,190 --> 01:32:45,057
 How can you be so foolish?
 The jungle is killing you,
 
-998
+991
 01:32:45,226 --> 01:32:46,853
 yet you want to live in harmony with it?
 
-999
+992
 01:32:47,629 --> 01:32:49,222
 You plan to burn down the jungle,
 
-1000
+993
 01:32:49,597 --> 01:32:52,225
 but we've learned to use fire
 only in small amounts.
 
-1001
+994
 01:32:52,600 --> 01:32:55,797
 That's right.
 Too much fire gives birth to nothing.
 
-1002
+995
 01:32:55,970 --> 01:32:58,996
 Fire can reduce a forest
 to ashes in a day,
 
-1003
+996
 01:32:59,174 --> 01:33:02,940
 while it takes the water and the wind
 100 years to grow one anew.
 
-1004
+997
 01:33:03,111 --> 01:33:05,808
 We prefer the ways
 of the water and the wind.
 
-1005
+998
 01:33:05,980 --> 01:33:10,144
 The Princess will be devastated
 when she sees that our forest is gone.
 
-1006
+999
 01:33:11,886 --> 01:33:14,014
 Sir. Do we have any orders yet, sir?
 
-1007
+1000
 01:33:14,189 --> 01:33:16,157
 - Just shut up.
 -Yes, sir.
 
-1008
+1001
 01:33:20,261 --> 01:33:21,626
 Something must have happened,
 
-1009
+1002
 01:33:21,896 --> 01:33:23,625
 because she's starting to look
 kind of cute to me.
 
-1010
+1003
 01:33:24,132 --> 01:33:26,658
 Kurotowa, prepare the troops to attack.
 
-1011
+1004
 01:33:27,202 --> 01:33:29,170
 What? We're not going to wait?
 
-1012
+1005
 01:33:29,604 --> 01:33:33,939
 We'll begin the attack in one hour,
 so get the troops fed and ready to go.
 
-1013
+1006
 01:33:36,744 --> 01:33:39,714
 Ah, yes, food.
 Plenty of time for a leisurely meal.
 
-1014
+1007
 01:33:40,348 --> 01:33:41,713
 Someone's coming.
 
-1015
+1008
 01:33:46,221 --> 01:33:47,279
 (GASPS)
 
-1016
+1009
 01:33:49,023 --> 01:33:50,582
 Gol, what's wrong?
 
-1017
+1010
 01:33:51,292 --> 01:33:54,159
 -The wind has died.
 -There's no wind?
 
-1018
+1011
 01:33:55,263 --> 01:33:58,096
 1 don't believe it.
 It's never stopped before.
 
-1019
+1012
 01:33:58,399 --> 01:34:01,198
 - Ahhh!
 - Obaba, what's the matter?
 
-1020
+1013
 01:34:01,369 --> 01:34:02,598
 WOMAN: Are you okay?
 
-1021
+1014
 01:34:02,770 --> 01:34:05,330
 Someone... Someone, take me outside.
 
-1022
+1015
 01:34:05,707 --> 01:34:07,197
 Something is very wrong.
 
-1023
+1016
 01:34:12,647 --> 01:34:14,081
 (ALL GASP)
 
-1024
+1017
 01:34:14,249 --> 01:34:15,683
 The wind has stopped blowing.
 
-1025
+1018
 01:34:21,022 --> 01:34:22,922
 (RINGING)
 
-1026
+1019
 01:34:30,298 --> 01:34:34,201
 - Obaba, what's making my ears hurt?
 -It's in the air.
 
-1027
+1020
 01:34:34,369 --> 01:34:37,634
 The atmosphere
 is saturated with anger.
 
-1028
+1021
 01:34:53,154 --> 01:34:54,053
 We're close.
 
-1029
+1022
 01:34:54,222 --> 01:34:57,192
 We've cleared the jungle.
 Three minutes to the Acid Lake.
 
-1030
+1023
 01:34:57,358 --> 01:35:00,259
 Idle the engines.
 Drop beneath the clouds.
 
-1031
+1024
 01:35:09,337 --> 01:35:11,237
 Princess, what's that red glow?
 
-1032
+1025
 01:35:13,308 --> 01:35:14,275
 Ohm!
 
-1033
+1026
 01:35:24,052 --> 01:35:26,077
 - (RUMBLING)
 - (OHM SQUEAKING)
 
-1034
+1027
 01:35:32,093 --> 01:35:33,083
 Look at them all.
 
-1035
+1028
 01:35:33,261 --> 01:35:35,787
 Every Ohm in the jungle
 is headed straight for the valley.
 
-1036
+1029
 01:35:36,231 --> 01:35:39,064
 What's making them
 stampede like that? (GASPS)
 
-1037
+1030
 01:35:43,104 --> 01:35:44,469
 (DISTANT SQUEALING)
 
-1038
+1031
 01:35:44,839 --> 01:35:46,807
 Something out there
 is calling to the herd.
 
-1039
+1032
 01:35:47,041 --> 01:35:50,807
 - Mito, pull the ship up to the left.
 - MITO: Roger.
 
-1040
+1033
 01:36:18,873 --> 01:36:21,274
 What's that? Mito, send out a flare.
 
-1041
+1034
 01:36:22,243 --> 01:36:23,768
 NAUSICAA: Ready?
 
-1042
+1035
 01:36:24,479 --> 01:36:25,844
 Fire!
 
-1043
+1036
 01:36:27,815 --> 01:36:29,180
 (EXPLOSION)
 
-1044
+1037
 01:36:31,252 --> 01:36:33,243
 What the heck is that?
 
-1045
+1038
 01:36:35,323 --> 01:36:36,518
 (GASPS)
 
-1046
+1039
 01:36:44,299 --> 01:36:45,858
 No, they've got a baby Ohm.
 
-1047
+1040
 01:36:46,134 --> 01:36:48,865
 They're using the baby
 to lure the herd into the valley.
 
-1048
+1041
 01:36:49,370 --> 01:36:52,203
 - I'll blast them out of the sky.
 - No!
 
-1049
+1042
 01:36:54,275 --> 01:36:56,369
 Don't shoot, Mito! Don't shoot!
 
-1050
+1043
 01:37:01,249 --> 01:37:02,774
 What do you mean, don't shoot?
 
-1051
+1044
 01:37:02,950 --> 01:37:05,783
 NAUSICAA: If we kill the baby Ohm,
 there'll be no way to stop the stampede.
 
-1052
+1045
 01:37:06,187 --> 01:37:07,120
 What are we supposed to do?
 
-1053
+1046
 01:37:07,288 --> 01:37:09,518
 I can't just sit here
 and watch our valley be destroyed.
 
-1054
+1047
 01:37:09,891 --> 01:37:11,256
 Don't worry, Mito.
 
-1055
+1048
 01:37:11,426 --> 01:37:13,520
 I'll get the baby Ohm back to the herd.
 Just trust me.
 
-1056
+1049
 01:37:21,903 --> 01:37:23,064
 Hey, what are you doing?
 
-1057
+1050
 01:37:23,237 --> 01:37:25,262
 Go warn the valley!
 
-1058
+1051
 01:37:26,407 --> 01:37:29,377
 But, Princess,
 you don't even have a weapon.
 
-1059
+1052
 01:37:37,452 --> 01:37:39,352
 MAN 1: Standby those engines.
 MAN 2: That's right.
 
-1060
+1053
 01:37:41,222 --> 01:37:43,156
 That flare is not one of ours,
 Your Highness.
 
-1061
+1054
 01:37:43,324 --> 01:37:45,349
 -What's the range?
 - Approximately 20 leagues.
 
-1062
+1055
 01:37:45,526 --> 01:37:46,584
 Just the other side of the lake.
 
-1063
+1056
 01:37:47,261 --> 01:37:50,196
 - Is it the Princess' gunship?
 - Most likely.
 
-1064
+1057
 01:37:50,365 --> 01:37:51,332
 (WHISTLING)
 
-1065
+1058
 01:37:51,499 --> 01:37:52,933
 (EXPLOSION)
 
-1066
+1059
 01:37:53,167 --> 01:37:54,828
 MAN: It's a flare.
 
-1067
+1060
 01:37:57,939 --> 01:38:01,569
 Yes, that's their distress signal.
 It's the gunship, all right.
 
-1068
+1061
 01:38:01,943 --> 01:38:03,570
 Hour's up, Kurotowa. Let's go.
 
-1069
+1062
 01:38:03,945 --> 01:38:07,347
 - Sure you don't want to wait?
 - No, I have chosen the bloody path.
 
-1070
+1063
 01:38:14,288 --> 01:38:16,313
 MAN: Infantry, move out!
 
-1071
+1064
 01:38:21,262 --> 01:38:23,594
 -Won't you go in?
 - I'm staying right here.
 
-1072
+1065
 01:38:31,472 --> 01:38:32,871
 The gunship!
 
-1073
+1066
 01:38:35,543 --> 01:38:36,601
 Fire!
 
-1074
+1067
 01:38:45,219 --> 01:38:49,520
 (GASPS) Hold your fire!
 You idiot, stop it!
 
-1075
+1068
 01:38:51,626 --> 01:38:54,357
 - It's the Princess' gunship!
 - Princess!
 
-1076
+1069
 01:38:54,529 --> 01:38:57,555
 Wait for my orders. Hold your fire!
 
-1077
+1070
 01:38:57,932 --> 01:38:59,366
 Your Highness!
 
-1078
+1071
 01:38:59,534 --> 01:39:01,263
 (GUNSHOTS CONTINUE)
 
-1079
+1072
 01:39:03,404 --> 01:39:05,304
 -What happened to the Princess?
 -Yeah, where is she?
 
-1080
+1073
 01:39:05,473 --> 01:39:07,032
 Shouldn't she be in the backseat?
 
-1081
+1074
 01:39:07,275 --> 01:39:09,403
 Listen up.
 A herd of Ohm is coming this way.
 
-1082
+1075
 01:39:09,577 --> 01:39:11,409
 -They're what?
 - ALL: The Ohm?
 
-1083
+1076
 01:39:11,579 --> 01:39:12,944
 The Princess stayed behind
 
-1084
+1077
 01:39:13,114 --> 01:39:15,242
 to try to stop the stampede
 from reaching the valley.
 
-1085
+1078
 01:39:15,983 --> 01:39:17,610
 This is no time for a battle.
 
-1086
+1079
 01:39:18,352 --> 01:39:20,684
 Everybody, get to high ground. Hurry!
 
-1087
+1080
 01:39:21,055 --> 01:39:22,921
 -The Ohm!
 - Come on!
 
-1088
+1081
 01:39:25,059 --> 01:39:27,494
 Obaba, I see a red glow in the distance.
 
-1089
+1082
 01:39:30,431 --> 01:39:33,492
 - It keeps getting bigger.
 - CHILD: It's coming this way.
 
-1090
+1083
 01:39:34,268 --> 01:39:37,294
 Just hold on tight to Obaba, children.
 
-1091
+1084
 01:39:37,472 --> 01:39:41,033
 The Ohm will come.
 There's nothing we can do about it.
 
-1092
+1085
 01:39:41,342 --> 01:39:42,639
 - MAN: Quickly!
 - (ALL CLAMORING)
 
-1093
+1086
 01:39:43,478 --> 01:39:45,412
 Don't panic. Just keep moving forward.
 
-1094
+1087
 01:39:45,580 --> 01:39:46,513
 - Hurry!
 -There's still time.
 
-1095
+1088
 01:39:47,114 --> 01:39:49,481
 But, Mito, we're going to die anyway.
 
-1096
+1089
 01:39:49,650 --> 01:39:52,051
 -We should die in the valley.
 - No.
 
-1097
+1090
 01:39:52,286 --> 01:39:54,983
 As long as the Princess
 hasn't given up, we can't, either.
 
-1098
+1091
 01:39:55,756 --> 01:39:57,690
 Hold the Ohm off
 for as long as possible.
 
-1099
+1092
 01:39:58,059 --> 01:39:59,424
 I'll be back with help.
 
-1100
+1093
 01:39:59,594 --> 01:40:02,620
 Your Highness, don't do it!
 It's not ready yet.
 
-1101
+1094
 01:40:03,464 --> 01:40:06,627
 If not now, Kurotowa, then when?
 Move out!
 
-1102
+1095
 01:40:11,772 --> 01:40:14,469
 Don't shoot! Listen to me, please!
 
-1103
+1096
 01:40:28,389 --> 01:40:30,380
 She flies like the wind!
 
-1104
+1097
 01:40:30,558 --> 01:40:33,391
 I think she's trying to tell us something.
 Maybe we shouldn't shoot her.
 
-1105
+1098
 01:40:33,561 --> 01:40:36,258
 Anyone who interferes
 with the plan is an enemy.
 
-1106
+1099
 01:40:36,430 --> 01:40:39,263
 Besides, if we don't release
 this baby Ohm in the valley soon,
 
-1107
+1100
 01:40:39,433 --> 01:40:41,094
 we'll be the ones in trouble.
 
-1108
+1101
 01:40:43,404 --> 01:40:46,339
 Here she comes.
 Wait till she gets close, and then fire.
 
-1109
+1102
 01:40:50,545 --> 01:40:51,535
 (GASPS)
 
-1110
+1103
 01:40:59,120 --> 01:41:01,555
 - She's in range. Shoot her!
 -l can't.
 
-1111
+1104
 01:41:02,123 --> 01:41:04,091
 - It's Lastelle.
 - Move it!
 
-1112
+1105
 01:41:09,397 --> 01:41:10,489
 (ALL GRUNT)
 
-1113
+1106
 01:41:38,726 --> 01:41:39,818
 (SQUEAKS)
 
-1114
+1107
 01:41:40,728 --> 01:41:42,127
 (GASPING)
 
-1115
+1108
 01:41:51,672 --> 01:41:53,436
 Ohm... (GROANS)
 
-1116
+1109
 01:42:04,452 --> 01:42:07,183
 (GRUNTING)
 
-1117
+1110
 01:42:19,767 --> 01:42:22,668
 I'm not gonna hurt you.
 Don't be frightened.
 
-1118
+1111
 01:42:22,837 --> 01:42:24,566
 I'm not your enemy.
 
-1119
+1112
 01:42:26,607 --> 01:42:29,736
 (SOBBING)
 I'm so sorry.
 
-1120
+1113
 01:42:30,578 --> 01:42:35,482
 Is there any way you can forgive us?
 We've treated you so badly.
 
-1121
+1114
 01:42:44,158 --> 01:42:46,889
 No, no, ho, no, don't move.
 You'll bleed to death.
 
-1122
+1115
 01:42:47,695 --> 01:42:51,427
 Come on. Be a good boy. Hold still.
 
-1123
+1116
 01:42:52,633 --> 01:42:54,226
 - (RUMBLING)
 - (GASPS)
 
-1124
+1117
 01:43:00,174 --> 01:43:01,903
 Oh, no! They've found us!
 
-1125
+1118
 01:43:02,276 --> 01:43:03,243
 They're coming this way!
 
-1126
+1119
 01:43:04,745 --> 01:43:07,737
 No, you can't go in this lake
 with wounds like that!
 
-1127
+1120
 01:43:07,915 --> 01:43:10,646
 This water's bad! It's filled with acid!
 
-1128
+1121
 01:43:11,786 --> 01:43:13,481
 (SCREAMS)
 
-1129
+1122
 01:43:22,897 --> 01:43:24,865
 (GRUNTS, CRIES IN PAIN)
 
-1130
+1123
 01:43:33,207 --> 01:43:34,732
 (BUZZING)
 
-1131
+1124
 01:43:44,518 --> 01:43:45,576
 Ohm?
 
-1132
+1125
 01:43:52,660 --> 01:43:54,219
 (SOBBING)
 
-1133
+1126
 01:44:14,615 --> 01:44:17,243
 You're so kind. It's gonna be all right.
 
-1134
+1127
 01:44:17,418 --> 01:44:19,887
 Soon they'll be here to take you home.
 
-1135
+1128
 01:44:25,860 --> 01:44:28,557
 Where are they going?
 How can they be turning away?
 
-1136
+1129
 01:44:29,363 --> 01:44:33,596
 Ohm, not that way!
 You're headed straight for the valley!
 
-1137
+1130
 01:44:36,971 --> 01:44:40,771
 They must be blind with rage.
 If 1 can't find a way to calm them...
 
-1138
+1131
 01:44:40,941 --> 01:44:42,272
 (CRASHING)
 
-1139
+1132
 01:44:53,654 --> 01:44:54,985
 (LAUGHING)
 
-1140
+1133
 01:44:55,356 --> 01:44:58,382
 Those idiots! They're drawing
 the Ohm with their fire.
 
-1141
+1134
 01:44:58,626 --> 01:45:00,822
 -We're gonna live.
 - Come on. Let's get out of here.
 
-1142
+1135
 01:45:00,995 --> 01:45:02,656
 Help me tip this over.
 
-1143
+1136
 01:45:03,731 --> 01:45:04,630
 Wait!
 
-1144
+1137
 01:45:04,799 --> 01:45:07,700
 No, no, don't shoot! Don't shoot!
 
-1145
+1138
 01:45:07,868 --> 01:45:09,734
 You're gonna fly me back to the herd,
 
-1146
+1139
 01:45:09,904 --> 01:45:11,668
 and we're gonna give
 their baby back to them.
 
-1147
+1140
 01:45:11,839 --> 01:45:14,035
 There's no reason
 to try to pull a stunt like that.
 
-1148
+1141
 01:45:14,408 --> 01:45:17,275
 It's too late. The herd won't stop.
 (SHRIEKING)
 
-1149
+1142
 01:45:18,679 --> 01:45:21,740
 You'll take us there and you'll set us
 down in front of the herd.
 
-1150
+1143
 01:45:21,916 --> 01:45:25,011
 - Now, let's get going.
 - But there's no way you'll survive.
 
-1151
+1144
 01:45:25,386 --> 01:45:28,617
 MAN: Fire! Fire! Fire!
 
-1152
+1145
 01:45:29,390 --> 01:45:30,983
 (MURMURING)
 
-1153
+1146
 01:45:34,061 --> 01:45:36,894
 Obaba, are we all going to die?
 
-1154
+1147
 01:45:37,064 --> 01:45:40,762
 If that is to be our fate,
 we can only wait and see.
 
-1155
+1148
 01:45:41,068 --> 01:45:43,662
 -They don't even flinch.
 -I think we should retreat, sir.
 
-1156
+1149
 01:45:43,838 --> 01:45:46,773
 Don't be stupid, soldier.
 There's nowhere to retreat to.
 
-1157
+1150
 01:45:50,678 --> 01:45:51,975
 Hey, hold your position!
 
-1158
+1151
 01:45:52,346 --> 01:45:53,313
 Wait! Hold it!
 
-1159
+1152
 01:45:53,480 --> 01:45:55,778
 Stand your ground
 until Her Highness returns.
 
-1160
+1153
 01:45:55,950 --> 01:45:58,749
 Where is she? (GASPS) Your Highness!
 
-1161
+1154
 01:46:07,828 --> 01:46:10,763
 (DEEP ROARING GROWL)
 
-1162
+1155
 01:46:20,941 --> 01:46:22,932
 - (ALL MURMURING)
 - MAN 1: The giant warrior!
 
-1163
+1156
 01:46:23,110 --> 01:46:24,339
 MAN 2: It's him!
 
-1164
+1157
 01:46:25,145 --> 01:46:26,806
 MAN 3: It's the warrior!
 
-1165
+1158
 01:46:28,482 --> 01:46:29,950
 (ALL CHEERING)
 
-1166
+1159
 01:46:30,117 --> 01:46:31,084
 Now we got ‘em!
 
-1167
+1160
 01:46:31,452 --> 01:46:33,113
 -WOMAN: It's the giant warrior!
 - MAN: The warrior!
 
-1168
+1161
 01:46:45,866 --> 01:46:48,096
 It's falling apart. I knew it was too soon.
 
-1169
+1162
 01:46:55,943 --> 01:46:58,844
 Incinerate them!
 What are you waiting for?
 
-1170
+1163
 01:46:59,013 --> 01:47:03,382
 Were you not designed to be the most
 evil creature on the face of the Earth?
 
-1171
+1164
 01:47:09,490 --> 01:47:11,481
 - (WHIMPERING)
 - (SCREAMING)
 
-1172
+1165
 01:47:19,133 --> 01:47:22,865
 Amazing. No wonder
 the world was incinerated.
 
-1173
+1166
 01:47:23,837 --> 01:47:25,498
 MAN: Hail to Kushana!
 
-1174
+1167
 01:47:37,017 --> 01:47:38,507
 Hit them again!
 
-1175
+1168
 01:47:38,986 --> 01:47:41,853
 Listen to me, warrior.
 Fire on my command!
 
-1176
+1169
 01:47:42,122 --> 01:47:43,783
 (GROWLS)
 
-1177
+1170
 01:48:02,209 --> 01:48:03,973
 (SHOUTING)
 
-1178
+1171
 01:48:04,812 --> 01:48:05,779
 Run!
 
-1179
+1172
 01:48:09,516 --> 01:48:12,144
 MAN 1: It's dead!
 MAN 2: No!
 
-1180
+1173
 01:48:13,053 --> 01:48:14,145
 MAN 3: We're doomed!
 
-1181
+1174
 01:48:14,521 --> 01:48:15,920
 MAN 2: No!
 MAN 3: Run!
 
-1182
+1175
 01:48:20,227 --> 01:48:22,025
 The giant warrior died.
 
-1183
+1176
 01:48:22,196 --> 01:48:24,187
 That's the way it should be.
 
-1184
+1177
 01:48:24,565 --> 01:48:27,796
 The anger of the Ohm
 reflects the anger of the Earth.
 
-1185
+1178
 01:48:29,003 --> 01:48:32,735
 The Earth knows it's wrong
 for us to survive
 
-1186
+1179
 01:48:32,906 --> 01:48:35,841
 if we have to depend
 on a monster like that.
 
-1187
+1180
 01:48:36,010 --> 01:48:38,945
 - It's the Princess!
 -The Princess is back!
 
-1188
+1181
 01:48:48,856 --> 01:48:50,620
 WOMAN 1: Princess!
 WOMAN 2: What is she doing?
 
-1189
+1182
 01:48:50,858 --> 01:48:52,087
 MAN: She'll be killed!
 
-1190
+1183
 01:48:52,593 --> 01:48:54,083
 ((CHITTERING, SQUEALING)
 
-1191
+1184
 01:49:09,143 --> 01:49:11,077
 - (ALL GASP)
 - (SCREAMING)
 
-1192
+1185
 01:49:25,659 --> 01:49:27,855
 (PEOPLE SCREAMING)
 
-1193
+1186
 01:50:03,163 --> 01:50:06,224
 Look, the color's changing.
 Their rage is subsiding.
 
-1194
+1187
 01:50:27,988 --> 01:50:30,650
 The rage. It's left the atmosphere.
 
-1195
+1188
 01:50:31,992 --> 01:50:34,654
 We're okay.
 The Ohm have stopped running.
 
-1196
+1189
 01:50:52,179 --> 01:50:54,648
 -There's the Princess!
 - (CROWD GASPING)
 
-1197
+1190
 01:51:01,388 --> 01:51:04,722
 She's dead, Obaba. She's dead.
 
-1198
+1191
 01:51:04,958 --> 01:51:09,327
 The Princess has quieted
 the rage of the Ohm.
 
-1199
+1192
 01:51:09,696 --> 01:51:12,927
 She gave her life to save the valley.
 
-1200
+1193
 01:51:13,100 --> 01:51:14,659
 (CROWD SOBBING)
 
-1201
+1194
 01:52:13,126 --> 01:52:15,060
 MAN: Look! Over there!
 
-1202
+1195
 01:52:19,733 --> 01:52:22,327
 What is this? What are these lights?
 
-1203
+1196
 01:52:22,502 --> 01:52:24,368
 (CHILD SINGING)
 
-1204
+1197
 01:52:48,328 --> 01:52:49,727
 Teto.
 
-1205
+1198
 01:53:05,479 --> 01:53:07,106
 I'm glad you're okay.
 
-1206
+1199
 01:53:07,414 --> 01:53:10,111
 Ohm, thank you.
 
-1207
+1200
 01:53:10,284 --> 01:53:11,752
 Thank you!
 
-1208
+1201
 01:53:31,872 --> 01:53:32,839
 It's a miracle!
 
-1209
+1202
 01:53:33,106 --> 01:53:35,234
 What beautiful creatures!
 
-1210
+1203
 01:53:35,876 --> 01:53:40,507
 Who knew how wonderful
 and caring the Ohm could be?
 
-1211
+1204
 01:53:41,915 --> 01:53:43,144
 Children!
 
-1212
+1205
 01:53:43,317 --> 01:53:47,254
 Look carefully and tell me
 what these blind eyes cannot see.
 
-1213
+1206
 01:53:47,421 --> 01:53:50,914
 The Princess is wearing a blue dress
 that I've never seen before.
 
-1214
+1207
 01:53:52,326 --> 01:53:55,455
 CHILD: It looks like she's walking
 through a golden field.
 
-1215
+1208
 01:53:56,196 --> 01:53:57,254
 (GASPS)
 
-1216
+1209
 01:54:04,304 --> 01:54:06,534
 After 1,000 years of darkness,
 
-1217
+1210
 01:54:06,907 --> 01:54:11,401
 he will come, clad in blue and
 surrounded by fields of gold!
 
-1218
+1211
 01:54:11,578 --> 01:54:12,511
 (SOBBING)
 
-1219
+1212
 01:54:13,180 --> 01:54:14,443
 What's the matter?
 
-1220
+1213
 01:54:14,614 --> 01:54:17,345
 The legend has come true!
 
-1221
+1214
 01:54:19,486 --> 01:54:21,511
 - Look there!
 - (GASPS)
 
-1222
+1215
 01:54:22,289 --> 01:54:23,347
 The glider!
 
-1223
+1216
 01:54:23,523 --> 01:54:26,515
 MAN: There's wind!
 WOMAN: The wind has come back!
 
-1224
+1217
 01:54:31,898 --> 01:54:33,593
 (ALL CHEERING)
 
-1225
+1218
 01:54:52,986 --> 01:54:54,511
 (LAUGHING)
 
-1226
+1219
 01:56:45,499 --> 01:56:50,733
 THE END
 
