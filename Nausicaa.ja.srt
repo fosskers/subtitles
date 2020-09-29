@@ -4429,545 +4429,521 @@ He's hit the rear guard!
 くそぉ　鳥みたいな奴だ
 
 1069
-01:40:30,558 --> 01:40:33,391
-I think she's trying to tell us something.
-Maybe we shouldn't shoot her.
+01:40:30,558 --> 01:40:32,191
+あの人は敵じゃないよ
 
 1070
-01:40:33,561 --> 01:40:36,258
-Anyone who interferes
-with the plan is an enemy.
+01:40:32,291 --> 01:40:33,591
+何か叫んでいた
 
 1071
-01:40:36,430 --> 01:40:39,263
-Besides, if we don't release
-this baby Ohm in the valley soon,
+01:40:33,861 --> 01:40:36,258
+作戦を邪魔する奴は
+みんな敵だ
 
 1072
-01:40:39,433 --> 01:40:41,094
-we'll be the ones in trouble.
+01:40:36,430 --> 01:40:38,863
+早く囮を谷に放り込まないと
 
 1073
-01:40:43,404 --> 01:40:46,339
-Here she comes.
-Wait till she gets close, and then fire.
+01:40:38,900 --> 01:40:40,063
+俺達が危ないんだ
 
 1074
-01:40:50,545 --> 01:40:51,535
-(GASPS)
+01:40:43,404 --> 01:40:46,339
+来るぞ
+よく・から撃て
 
 1075
-01:40:59,120 --> 01:41:01,555
-- She's in range. Shoot her!
--l can't.
+01:40:59,320 --> 01:41:01,055
+今だ　撃て！
 
 1076
-01:41:02,123 --> 01:41:04,091
-- It's Lastelle.
-- Move it!
+01:41:01,155 --> 01:41:02,655
+嫌だ！
 
 1077
-01:41:09,397 --> 01:41:10,489
-(ALL GRUNT)
+01:41:02,423 --> 01:41:03,491
+ラステルさん
 
 1078
-01:41:38,726 --> 01:41:39,818
-(SQUEAKS)
+01:41:03,691 --> 01:41:04,291
+退け！
 
 1079
-01:41:40,728 --> 01:41:42,127
-(GASPING)
+01:41:51,772 --> 01:41:52,836
+オーム…
 
 1080
-01:41:51,672 --> 01:41:53,436
-Ohm... (GROANS)
+01:42:19,767 --> 01:42:22,668
+怒らないで
+怖がらなくていいよ
 
 1081
-01:42:04,452 --> 01:42:07,183
-(GRUNTING)
+01:42:23,137 --> 01:42:24,566
+私は敵じゃないわ
 
 1082
-01:42:19,767 --> 01:42:22,668
-I'm not gonna hurt you.
-Don't be frightened.
+01:42:26,907 --> 01:42:29,736
+ごめん　ごめんね
 
 1083
-01:42:22,837 --> 01:42:24,566
-I'm not your enemy.
+01:42:30,178 --> 01:42:31,882
+許してなんて言えないよね
 
 1084
-01:42:26,607 --> 01:42:29,736
-(SOBBING)
-I'm so sorry.
+01:42:33,182 --> 01:42:34,482
+酷すぎるよね
 
 1085
-01:42:30,578 --> 01:42:35,482
-Is there any way you can forgive us?
-We've treated you so badly.
+01:42:45,058 --> 01:42:46,189
+動いちゃ駄目！
 
 1086
-01:42:44,158 --> 01:42:46,889
-No, no, ho, no, don't move.
-You'll bleed to death.
+01:42:46,589 --> 01:42:47,789
+体液が出ちゃう
 
 1087
-01:42:47,695 --> 01:42:51,427
-Come on. Be a good boy. Hold still.
+01:42:48,389 --> 01:42:49,989
+いい子だから動かないで
 
 1088
-01:42:52,633 --> 01:42:54,226
-- (RUMBLING)
-- (GASPS)
+01:43:00,374 --> 01:43:01,903
+大変だ　見つけられた！
 
 1089
-01:43:00,174 --> 01:43:01,903
-Oh, no! They've found us!
+01:43:02,476 --> 01:43:03,443
+こっちへ来る！
 
 1090
-01:43:02,276 --> 01:43:03,243
-They're coming this way!
+01:43:04,745 --> 01:43:07,337
+駄目よ　そんな怪我で入ったら
 
 1091
-01:43:04,745 --> 01:43:07,737
-No, you can't go in this lake
-with wounds like that!
+01:43:07,815 --> 01:43:10,646
+この湖の水は駄目だってば！
 
 1092
-01:43:07,915 --> 01:43:10,646
-This water's bad! It's filled with acid!
+01:43:44,718 --> 01:43:45,876
+お前…
 
 1093
-01:43:11,786 --> 01:43:13,481
-(SCREAMS)
+01:44:14,315 --> 01:44:17,243
+優しい子
+私は大丈夫
 
 1094
-01:43:22,897 --> 01:43:24,865
-(GRUNTS, CRIES IN PAIN)
+01:44:17,418 --> 01:44:19,687
+今みんなが迎えに来るからね
 
 1095
-01:43:33,207 --> 01:43:34,732
-(BUZZING)
+01:44:26,260 --> 01:44:27,457
+逸れて行く…
 
 1096
-01:43:44,518 --> 01:43:45,576
-Ohm?
+01:44:27,557 --> 01:44:29,057
+こっちへ来ない？
 
 1097
-01:43:52,660 --> 01:43:54,219
-(SOBBING)
-
-1098
-01:44:14,615 --> 01:44:17,243
-You're so kind. It's gonna be all right.
-
-1099
-01:44:17,418 --> 01:44:19,887
-Soon they'll be here to take you home.
-
-1100
-01:44:25,860 --> 01:44:28,557
-Where are they going?
-How can they be turning away?
-
-1101
 01:44:29,363 --> 01:44:33,596
 Ohm, not that way!
 You're headed straight for the valley!
 
-1102
+1098
 01:44:36,971 --> 01:44:40,771
 They must be blind with rage.
 If 1 can't find a way to calm them...
 
-1103
+1099
 01:44:40,941 --> 01:44:42,272
 (CRASHING)
 
-1104
+1100
 01:44:53,654 --> 01:44:54,985
 (LAUGHING)
 
-1105
+1101
 01:44:55,356 --> 01:44:58,382
 Those idiots! They're drawing
 the Ohm with their fire.
 
-1106
+1102
 01:44:58,626 --> 01:45:00,822
 -We're gonna live.
 - Come on. Let's get out of here.
 
-1107
+1103
 01:45:00,995 --> 01:45:02,656
 Help me tip this over.
 
-1108
+1104
 01:45:03,731 --> 01:45:04,630
 Wait!
 
-1109
+1105
 01:45:04,799 --> 01:45:07,700
 No, no, don't shoot! Don't shoot!
 
-1110
+1106
 01:45:07,868 --> 01:45:09,734
 You're gonna fly me back to the herd,
 
-1111
+1107
 01:45:09,904 --> 01:45:11,668
 and we're gonna give
 their baby back to them.
 
-1112
+1108
 01:45:11,839 --> 01:45:14,035
 There's no reason
 to try to pull a stunt like that.
 
-1113
+1109
 01:45:14,408 --> 01:45:17,275
 It's too late. The herd won't stop.
 (SHRIEKING)
 
-1114
+1110
 01:45:18,679 --> 01:45:21,740
 You'll take us there and you'll set us
 down in front of the herd.
 
-1115
+1111
 01:45:21,916 --> 01:45:25,011
 - Now, let's get going.
 - But there's no way you'll survive.
 
-1116
+1112
 01:45:25,386 --> 01:45:28,617
 MAN: Fire! Fire! Fire!
 
-1117
+1113
 01:45:29,390 --> 01:45:30,983
 (MURMURING)
 
-1118
+1114
 01:45:34,061 --> 01:45:36,894
 Obaba, are we all going to die?
 
-1119
+1115
 01:45:37,064 --> 01:45:40,762
 If that is to be our fate,
 we can only wait and see.
 
-1120
+1116
 01:45:41,068 --> 01:45:43,662
 -They don't even flinch.
 -I think we should retreat, sir.
 
-1121
+1117
 01:45:43,838 --> 01:45:46,773
 Don't be stupid, soldier.
 There's nowhere to retreat to.
 
-1122
+1118
 01:45:50,678 --> 01:45:51,975
 Hey, hold your position!
 
-1123
+1119
 01:45:52,346 --> 01:45:53,313
 Wait! Hold it!
 
-1124
+1120
 01:45:53,480 --> 01:45:55,778
 Stand your ground
 until Her Highness returns.
 
-1125
+1121
 01:45:55,950 --> 01:45:58,749
 Where is she? (GASPS) Your Highness!
 
-1126
+1122
 01:46:07,828 --> 01:46:10,763
 (DEEP ROARING GROWL)
 
-1127
+1123
 01:46:20,941 --> 01:46:22,932
 - (ALL MURMURING)
 - MAN 1: The giant warrior!
 
-1128
+1124
 01:46:23,110 --> 01:46:24,339
 MAN 2: It's him!
 
-1129
+1125
 01:46:25,145 --> 01:46:26,806
 MAN 3: It's the warrior!
 
-1130
+1126
 01:46:28,482 --> 01:46:29,950
 (ALL CHEERING)
 
-1131
+1127
 01:46:30,117 --> 01:46:31,084
 Now we got ‘em!
 
-1132
+1128
 01:46:31,452 --> 01:46:33,113
 -WOMAN: It's the giant warrior!
 - MAN: The warrior!
 
-1133
+1129
 01:46:45,866 --> 01:46:48,096
 It's falling apart. I knew it was too soon.
 
-1134
+1130
 01:46:55,943 --> 01:46:58,844
 Incinerate them!
 What are you waiting for?
 
-1135
+1131
 01:46:59,013 --> 01:47:03,382
 Were you not designed to be the most
 evil creature on the face of the Earth?
 
-1136
+1132
 01:47:09,490 --> 01:47:11,481
 - (WHIMPERING)
 - (SCREAMING)
 
-1137
+1133
 01:47:19,133 --> 01:47:22,865
 Amazing. No wonder
 the world was incinerated.
 
-1138
+1134
 01:47:23,837 --> 01:47:25,498
 MAN: Hail to Kushana!
 
-1139
+1135
 01:47:37,017 --> 01:47:38,507
 Hit them again!
 
-1140
+1136
 01:47:38,986 --> 01:47:41,853
 Listen to me, warrior.
 Fire on my command!
 
-1141
+1137
 01:47:42,122 --> 01:47:43,783
 (GROWLS)
 
-1142
+1138
 01:48:02,209 --> 01:48:03,973
 (SHOUTING)
 
-1143
+1139
 01:48:04,812 --> 01:48:05,779
 Run!
 
-1144
+1140
 01:48:09,516 --> 01:48:12,144
 MAN 1: It's dead!
 MAN 2: No!
 
-1145
+1141
 01:48:13,053 --> 01:48:14,145
 MAN 3: We're doomed!
 
-1146
+1142
 01:48:14,521 --> 01:48:15,920
 MAN 2: No!
 MAN 3: Run!
 
-1147
+1143
 01:48:20,227 --> 01:48:22,025
 The giant warrior died.
 
-1148
+1144
 01:48:22,196 --> 01:48:24,187
 That's the way it should be.
 
-1149
+1145
 01:48:24,565 --> 01:48:27,796
 The anger of the Ohm
 reflects the anger of the Earth.
 
-1150
+1146
 01:48:29,003 --> 01:48:32,735
 The Earth knows it's wrong
 for us to survive
 
-1151
+1147
 01:48:32,906 --> 01:48:35,841
 if we have to depend
 on a monster like that.
 
-1152
+1148
 01:48:36,010 --> 01:48:38,945
 - It's the Princess!
 -The Princess is back!
 
-1153
+1149
 01:48:48,856 --> 01:48:50,620
 WOMAN 1: Princess!
 WOMAN 2: What is she doing?
 
-1154
+1150
 01:48:50,858 --> 01:48:52,087
 MAN: She'll be killed!
 
-1155
+1151
 01:48:52,593 --> 01:48:54,083
 ((CHITTERING, SQUEALING)
 
-1156
+1152
 01:49:09,143 --> 01:49:11,077
 - (ALL GASP)
 - (SCREAMING)
 
-1157
+1153
 01:49:25,659 --> 01:49:27,855
 (PEOPLE SCREAMING)
 
-1158
+1154
 01:50:03,163 --> 01:50:06,224
 Look, the color's changing.
 Their rage is subsiding.
 
-1159
+1155
 01:50:27,988 --> 01:50:30,650
 The rage. It's left the atmosphere.
 
-1160
+1156
 01:50:31,992 --> 01:50:34,654
 We're okay.
 The Ohm have stopped running.
 
-1161
+1157
 01:50:52,179 --> 01:50:54,648
 -There's the Princess!
 - (CROWD GASPING)
 
-1162
+1158
 01:51:01,388 --> 01:51:04,722
 She's dead, Obaba. She's dead.
 
-1163
+1159
 01:51:04,958 --> 01:51:09,327
 The Princess has quieted
 the rage of the Ohm.
 
-1164
+1160
 01:51:09,696 --> 01:51:12,927
 She gave her life to save the valley.
 
-1165
+1161
 01:51:13,100 --> 01:51:14,659
 (CROWD SOBBING)
 
-1166
+1162
 01:52:13,126 --> 01:52:15,060
 MAN: Look! Over there!
 
-1167
+1163
 01:52:19,733 --> 01:52:22,327
 What is this? What are these lights?
 
-1168
+1164
 01:52:22,502 --> 01:52:24,368
 (CHILD SINGING)
 
-1169
+1165
 01:52:48,328 --> 01:52:49,727
 Teto.
 
-1170
+1166
 01:53:05,479 --> 01:53:07,106
 I'm glad you're okay.
 
-1171
+1167
 01:53:07,414 --> 01:53:10,111
 Ohm, thank you.
 
-1172
+1168
 01:53:10,284 --> 01:53:11,752
 Thank you!
 
-1173
+1169
 01:53:31,872 --> 01:53:32,839
 It's a miracle!
 
-1174
+1170
 01:53:33,106 --> 01:53:35,234
 What beautiful creatures!
 
-1175
+1171
 01:53:35,876 --> 01:53:40,507
 Who knew how wonderful
 and caring the Ohm could be?
 
-1176
+1172
 01:53:41,915 --> 01:53:43,144
 Children!
 
-1177
+1173
 01:53:43,317 --> 01:53:47,254
 Look carefully and tell me
 what these blind eyes cannot see.
 
-1178
+1174
 01:53:47,421 --> 01:53:50,914
 The Princess is wearing a blue dress
 that I've never seen before.
 
-1179
+1175
 01:53:52,326 --> 01:53:55,455
 CHILD: It looks like she's walking
 through a golden field.
 
-1180
+1176
 01:53:56,196 --> 01:53:57,254
 (GASPS)
 
-1181
+1177
 01:54:04,304 --> 01:54:06,534
 After 1,000 years of darkness,
 
-1182
+1178
 01:54:06,907 --> 01:54:11,401
 he will come, clad in blue and
 surrounded by fields of gold!
 
-1183
+1179
 01:54:11,578 --> 01:54:12,511
 (SOBBING)
 
-1184
+1180
 01:54:13,180 --> 01:54:14,443
 What's the matter?
 
-1185
+1181
 01:54:14,614 --> 01:54:17,345
 The legend has come true!
 
-1186
+1182
 01:54:19,486 --> 01:54:21,511
 - Look there!
 - (GASPS)
 
-1187
+1183
 01:54:22,289 --> 01:54:23,347
 The glider!
 
-1188
+1184
 01:54:23,523 --> 01:54:26,515
 MAN: There's wind!
 WOMAN: The wind has come back!
 
-1189
+1185
 01:54:31,898 --> 01:54:33,593
 (ALL CHEERING)
 
-1190
+1186
 01:54:52,986 --> 01:54:54,511
 (LAUGHING)
 
-1191
+1187
 01:56:45,499 --> 01:56:50,733
 THE END
+
