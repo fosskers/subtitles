@@ -1,5 +1,5 @@
 ﻿1
-00:01:28,732 --> 00:01:28,832
+00:00:16,421 --> 00:00:18,492
 Chihiro... Chihiro!
 
 2
@@ -28,11 +28,11 @@ Chihiro, that's your new school.
 
 8
 00:00:37,771 --> 00:00:39,967
-What a charming little place.
+What a nice little place.
 
 9
 00:00:47,881 --> 00:00:49,542
-I wanna go back to my old school...
+I wanna go back to my old school.
 
 10
 00:00:54,488 --> 00:00:56,820
@@ -86,11 +86,11 @@ we've got a lot to do.
 22
 00:01:39,784 --> 00:01:45,035
 SPIRITED AWAY
-For my Sisters. Happy birthday!
+For my Sisters. Happy birthday, 2025!
 Translation by Colin W
 
 23
-00:01:57,351 --> 00:01:59,820
+00:01:57,351 --> 00:02:00,429
 Huh? Did I miss the turnoff?
 
 24
@@ -164,7 +164,7 @@ Where are we?
 
 41
 00:03:18,865 --> 00:03:20,629
-Looks like a gate or something.
+It's an entrance to something.
 
 42
 00:03:21,568 --> 00:03:24,299
@@ -372,7 +372,7 @@ Chihiro, hurry up.
 
 92
 00:07:15,235 --> 00:07:16,862
-Wait!
+Wait for me!
 
 93
 00:07:50,170 --> 00:07:51,069
@@ -384,11 +384,11 @@ How disappointing...
 it's all just restaurants.
 
 95
-00:07:59,479 --> 00:08:00,913
+00:08:04,429 --> 00:08:00,913
 I don't see anybody...
 
 96
-00:08:02,849 --> 00:08:05,216
+00:08:03,998 --> 00:08:05,037
 There!
 
 97
@@ -418,7 +418,7 @@ Let's just start.
 
 103
 00:08:42,322 --> 00:08:44,620
-They'll be by soon;
+They'll be by soon,
 we can pay them then.
 
 104
@@ -457,8 +457,7 @@ your dad'll handle it.
 
 112
 00:09:02,609 --> 00:09:04,475
-I've got cash on me,
-what could they be mad about?
+And I've got plenty of cash on me.
 
 113
 00:09:08,681 --> 00:09:10,979
@@ -505,7 +504,7 @@ Get back across the river!
 
 123
 00:11:49,209 --> 00:11:50,802
-What's with him?
+Who was that?
 
 124
 00:11:59,819 --> 00:12:00,911
@@ -676,7 +675,7 @@ Now stand!
 
 165
 00:17:12,231 --> 00:17:14,962
-You can't breathe while we're crossing the bridge.
+You'll have to hold your breath as we cross the bridge.
 
 166
 00:17:16,135 --> 00:17:18,263
@@ -732,7 +731,7 @@ Just a bit further.
 
 179
 00:18:08,888 --> 00:18:10,322
-Lord Haku!
+Haku-sama!
 
 180
 00:18:11,157 --> 00:18:12,522
@@ -747,4249 +746,4237 @@ A human?
 Run!
 
 183
-00:18:35,147 --> 00:18:36,774
-Haku! Lord Haku!
-
-184
 00:18:37,049 --> 00:18:39,711
 Smell that? There's a human sneaking about!
 
-185
+184
 00:18:40,019 --> 00:18:41,885
 What a stench.
 
-186
+185
 00:18:42,121 --> 00:18:42,883
 They know you're close.
 
-187
+186
 00:18:43,122 --> 00:18:44,783
 I'm sorry... He surprised me...
 
-188
+187
 00:18:45,057 --> 00:18:47,082
 You did well, Chihiro.
 
-189
+188
 00:18:47,526 --> 00:18:49,858
 Listen to me carefully now.
 
-190
+189
 00:18:50,096 --> 00:18:51,586
 If you stay here, they'll find you.
 
-191
+190
 00:18:52,331 --> 00:18:53,560
 I'm going to head inside and
 lead them away from you.
 
-192
+191
 00:18:53,833 --> 00:18:55,392
 You have to escape while I have them confused.
 
-193
+192
 00:18:55,668 --> 00:18:56,533
 No! Don't leave me!
 
-194
+193
 00:18:56,769 --> 00:18:58,100
 Stay here with me, please!
 
-195
+194
 00:18:58,537 --> 00:19:00,164
 You don't understand.
 
-196
+195
 00:19:00,373 --> 00:19:01,636
 There's no other way for you to survive in this place.
 
-197
+196
 00:19:01,941 --> 00:19:03,602
 Don't you want to rescue your parents?
 
-198
+197
 00:19:04,844 --> 00:19:07,313
 So... they really did turn into pigs...
 
-199
+198
 00:19:07,580 --> 00:19:08,547
 Stay still.
 
-200
+199
 00:19:09,915 --> 00:19:11,246
 When things calm down,
 
-201
+200
 00:19:11,484 --> 00:19:13,213
 head out the little door in the back.
 
-202
+201
 00:19:13,452 --> 00:19:16,080
 Take the stairs all the way to the bottom.
 
-203
+202
 00:19:16,555 --> 00:19:18,546
 That's where the boiler room is.
 
-204
+203
 00:19:18,791 --> 00:19:20,088
 It's where they heat water for the baths.
 
-205
+204
 00:19:20,359 --> 00:19:22,157
-You'll find Old Kama inside.
+You'll find Kamajī inside.
 
-206
+205
 00:19:22,428 --> 00:19:23,918
 You must reach him.
 
-207
+206
 00:19:24,296 --> 00:19:25,092
-Old Kama?
+Kamajī?
 
-208
+207
 00:19:26,098 --> 00:19:28,567
 You're going to ask him for a job.
 
-209
+208
 00:19:28,801 --> 00:19:30,360
 He'll turn you down, but don't give up.
 
-210
+209
 00:19:31,037 --> 00:19:32,436
 It's the rule of this place;
 
-211
+210
 00:19:32,705 --> 00:19:34,366
 Yubaba turns those who won't work into animals.
 
-212
+211
 00:19:34,974 --> 00:19:35,941
 Yubaba?
 
-213
+212
 00:19:36,242 --> 00:19:37,266
 You'll know her when you see her.
 
-214
+213
 00:19:37,576 --> 00:19:38,873
 She's the witch who runs this place.
 
-215
+214
 00:19:39,178 --> 00:19:40,509
 But you must not complain.
 
-216
+215
 00:19:40,713 --> 00:19:42,408
 She'll make you want to quit,
 
-217
+216
 00:19:42,648 --> 00:19:44,116
 but don't give in to her.
 
-218
+217
 00:19:44,483 --> 00:19:46,781
 You'll get your chance for freedom,
 just be patient.
 
-219
+218
 00:19:47,053 --> 00:19:48,953
 Do that, and there's nothing she can do to you.
 
-220
+219
 00:19:49,188 --> 00:19:49,950
 Okay...
 
-221
-00:19:50,556 --> 00:19:52,957
-Haku! Lord Haku!
-
-222
+220
 00:19:53,492 --> 00:19:54,459
 It's time.
 
-223
+221
 00:19:54,727 --> 00:19:57,219
 Remember, Chihiro. I'll always be on your side.
 
-224
+222
 00:19:57,430 --> 00:19:58,898
 How do you know my name?
 
-225
+223
 00:19:59,432 --> 00:20:01,298
 I've known you for a long time.
 
-226
+224
 00:20:01,867 --> 00:20:03,699
 My name is Haku.
 
-227
+225
 00:20:06,539 --> 00:20:08,200
 I'm here!
 
-228
+226
 00:20:10,309 --> 00:20:12,471
 Sir, the Mistress is calling for you!
 
-229
+227
 00:20:12,712 --> 00:20:15,738
 I'm aware. What do you think I've been doing?
 
-230
+228
 00:24:23,963 --> 00:24:25,453
 Um...
 
-231
+229
 00:24:26,598 --> 00:24:27,895
 Excuse me...
 
-232
+230
 00:24:34,840 --> 00:24:36,308
 I, uh...
 
-233
+231
 00:24:42,948 --> 00:24:44,973
-Are you Old Kama?
+Are you Kamajī?
 
-234
+232
 00:24:52,691 --> 00:24:54,819
 I... Haku told me to come here
 
-235
+233
 00:24:55,027 --> 00:24:56,620
 and ask you for a job!
 
-236
+234
 00:25:01,100 --> 00:25:04,092
 This many?
 
-237
+235
 00:25:05,170 --> 00:25:07,400
 Break's over, people!
 
-238
+236
 00:25:09,008 --> 00:25:10,942
-Yeah I'm Ol' Kama...
+Yeah I'm old Kamajī...
 
-239
+237
 00:25:11,210 --> 00:25:13,872
 Just an old bag o' bones that boils the water.
 
-240
+238
 00:25:14,079 --> 00:25:16,070
 You little runts, get out here already!
 
-241
+239
 00:25:17,149 --> 00:25:19,277
 Um, well, please let me work here!
 
-242
+240
 00:25:19,485 --> 00:25:21,180
 I've got all the help I need.
 
-243
+241
 00:25:21,387 --> 00:25:23,685
 There's soot all over this place.
 
-244
+242
 00:25:23,956 --> 00:25:26,687
 Lots of backup if I need it!
 
-245
+243
 00:25:41,373 --> 00:25:42,932
 Ah, sorry...
 
-246
+244
 00:25:47,079 --> 00:25:48,638
-Give me a second.
+Hold on.
 
-247
+245
 00:26:00,893 --> 00:26:02,156
 Out of the way.
 
-248
+246
 00:26:55,547 --> 00:26:57,379
 Now what?
 
-249
+247
 00:27:04,423 --> 00:27:05,891
 Can I just leave it here?
 
-250
+248
 00:27:06,458 --> 00:27:08,552
-If you're going to help, then help, dammit!
+Finish what you started or stay out of the way!
 
-251
+249
 00:28:08,320 --> 00:28:09,913
 You little slackers!
 
-252
+250
 00:28:10,122 --> 00:28:12,022
 Want me to turn you back into dust?
 
-253
+251
 00:28:12,291 --> 00:28:13,986
 And you! Butting in where you don't belong
 
-254
+252
 00:28:14,193 --> 00:28:15,854
 and stealing people's work!
 
-255
+253
 00:28:16,061 --> 00:28:17,222
 Listen, kid. If these little motes don't work,
 
-256
+254
 00:28:17,429 --> 00:28:19,454
 the magic binding them wears off
 and they fall apart.
 
-257
+255
 00:28:19,665 --> 00:28:21,360
 There's no work here for you.
 
-258
+256
 00:28:21,567 --> 00:28:22,762
 Go beg somewhere else!
 
-259
+257
 00:28:31,843 --> 00:28:34,141
 Ingrates! You got a problem?
 
-260
+258
 00:28:34,413 --> 00:28:35,812
 Get back to work this instant!
 
-261
+259
 00:28:37,149 --> 00:28:38,639
-Grub's up!
+Breakfast time!
 
-262
+260
 00:28:38,984 --> 00:28:41,282
 At it again, I see.
 
-263
+261
 00:28:43,255 --> 00:28:45,952
 And where's yesterday's bowl?
 
-264
+262
 00:28:47,059 --> 00:28:48,993
 You know I told you to leave it by the door!
 
-265
+263
 00:28:49,461 --> 00:28:51,725
 Meal break! Come and get it!
 
-266
+264
 00:29:07,346 --> 00:29:09,508
 Holy crap, a human!
 
-267
+265
 00:29:09,781 --> 00:29:12,079
 They're freaking out upstairs over her!
 
-268
+266
 00:29:13,318 --> 00:29:14,843
 She's my grand-daughter.
 
-269
+267
 00:29:15,087 --> 00:29:16,248
 You have a...?
 
-270
+268
 00:29:17,456 --> 00:29:19,083
 Says she wants a job
 
-271
+269
 00:29:19,358 --> 00:29:21,019
 but there's no room for her down here.
 
-272
+270
 00:29:21,260 --> 00:29:22,022
 Do me a favour.
 
-273
+271
 00:29:22,294 --> 00:29:24,695
 Take her to Yubaba and get her sorted out.
 
-274
+272
 00:29:24,997 --> 00:29:26,556
 It's up to her after that.
 
-275
+273
 00:29:26,765 --> 00:29:29,166
 Like hell I will! Yubaba will take my head off!
 
-276
+274
 00:29:29,401 --> 00:29:30,493
 I'll sweeten the deal.
 
-277
+275
 00:29:30,736 --> 00:29:34,104
 Charred Imori... a delicacy.
 
-278
+276
 00:29:36,341 --> 00:29:37,831
 Either way, if she wants a job
 
-279
+277
 00:29:38,076 --> 00:29:40,170
 she has to sign a contract with Yubaba.
 
-280
+278
 00:29:40,412 --> 00:29:42,437
 It's up to fate now, kiddo.
 
-281
+279
 00:29:43,815 --> 00:29:46,580
 Alright brat, let's go.
 
-282
+280
 00:29:52,758 --> 00:29:53,452
 Hold it.
 
-283
+281
 00:29:53,659 --> 00:29:55,647
 Aren't you going to thank him?
 
-284
+282
 00:29:55,727 --> 00:29:56,785
 Oh, right.
 
-285
+283
 00:29:57,062 --> 00:29:58,461
 You're a slacker, I can already tell. Let's go!
 
-286
+284
 00:29:58,664 --> 00:29:59,563
 Okay!
 
-287
+285
 00:30:02,234 --> 00:30:04,202
 The hell you need shoes for?
 
-288
+286
 00:30:04,436 --> 00:30:05,232
 Leave the socks too!
 
-289
+287
 00:30:05,470 --> 00:30:06,403
 Okay!
 
-290
+288
 00:30:12,010 --> 00:30:14,035
-You forgot to thank Old Kama!
+Well, did you thank him?
 
-291
+289
 00:30:14,279 --> 00:30:15,872
-He's really sticking his neck out for you!
+He's sticking his neck out for you!
 
-292
+290
 00:30:18,283 --> 00:30:19,910
 Thank you very much.
 
-293
+291
 00:30:21,653 --> 00:30:22,916
 Good luck.
 
-294
+292
 00:30:32,716 --> 00:30:35,347
-Yubaba's office is at the back of the top floor.
+Yubaba's offices are on the top floor.
 
-295
+293
 00:30:49,981 --> 00:30:51,449
 Come on!
 
-296
+294
 00:30:56,688 --> 00:30:58,122
 You lose your nose doing that.
 
-297
+295
 00:31:23,148 --> 00:31:24,445
 There's another elevator after this.
 
-298
+296
 00:31:24,683 --> 00:31:25,479
 Okay.
 
-299
+297
 00:31:30,222 --> 00:31:31,212
 We're there.
 
-300
+298
 00:31:34,726 --> 00:31:36,091
 Welcome, sir!
 
-301
+299
 00:31:42,167 --> 00:31:43,328
 My apologies, sir.
 
-302
+300
 00:31:43,568 --> 00:31:44,501
 This elevator doesn't go any higher.
 
-303
+301
 00:31:44,770 --> 00:31:46,499
 There should be another nearby.
 
-304
+302
 00:32:08,960 --> 00:32:09,859
 He's following us...
 
-305
+303
 00:32:10,128 --> 00:32:11,687
 Keep your eyes to yourself.
 
-306
+304
 00:32:26,945 --> 00:32:29,039
 And we've arrived!
 
-307
+305
 00:32:34,152 --> 00:32:36,553
 Yours is the first parlor on the right.
 
-308
+306
 00:32:39,389 --> 00:32:40,066
 Rin!
 
-309
+307
 00:32:40,292 --> 00:32:41,521
 Yes sir!
 
-310
+308
 00:32:43,161 --> 00:32:44,788
 Don't you smell that?
 
-311
+309
 00:32:45,564 --> 00:32:47,692
 Human! You reek like a human!
 
-312
+310
 00:32:47,933 --> 00:32:48,764
 How could that be?
 
-313
+311
 00:32:49,601 --> 00:32:52,536
 Oh no, I smell it. Something tasty...
 
-314
+312
 00:32:53,371 --> 00:32:55,567
 What are you hiding?
 
-315
+313
 00:32:56,408 --> 00:32:57,898
 Fess up! What've you got?
 
-316
+314
 00:32:58,276 --> 00:32:59,402
 You got me... it's this.
 
-317
+315
 00:33:00,045 --> 00:33:01,240
 A blackchar...
 
-318
+316
 00:33:01,480 --> 00:33:02,140
 Give it!
 
-319
+317
 00:33:02,581 --> 00:33:03,412
 No way!
 
-320
+318
 00:33:03,682 --> 00:33:05,673
 The sisters had me pick this up special.
 
-321
+319
 00:33:05,984 --> 00:33:08,919
 I'm begging you, just a little bite!
 
-322
+320
 00:33:10,088 --> 00:33:11,419
 Sir, just pull the lever
 
-323
+321
 00:33:11,656 --> 00:33:12,919
 to reach the higher floors!
 
-324
+322
 00:34:58,430 --> 00:35:00,296
 Ever heard of knocking?
 
-325
+323
 00:35:01,066 --> 00:35:04,036
-No manners at all, what have you parents been doing?
+No manners at all. Were you raised in a barn?
 
-326
+324
 00:35:14,245 --> 00:35:16,213
 Well, come in.
 
-327
+325
 00:35:19,751 --> 00:35:21,549
 Now, kid!
 
-328
+326
 00:35:36,301 --> 00:35:38,497
 Oww...
 
-329
+327
 00:35:48,780 --> 00:35:51,613
 Pipe down, I'm writing.
 
-330
+328
 00:36:10,702 --> 00:36:11,601
 Um...
 
-331
+329
 00:36:12,270 --> 00:36:14,102
 Please let me work here.
 
-332
+330
 00:36:22,847 --> 00:36:25,748
 That's the dumbest thing I've heard all week.
 
-333
+331
 00:36:25,984 --> 00:36:29,113
 What use would you be? You're all skin and bones.
 
-334
+332
 00:36:29,654 --> 00:36:33,750
 This is nowhere for a human to be.
 
-335
+333
 00:36:35,060 --> 00:36:37,188
-Every God and spirit in the land comes here
+Every god and spirit in the land comes here
 
-336
+334
 00:36:37,462 --> 00:36:41,126
 to rest their weary soul.
 
-337
+335
 00:36:42,100 --> 00:36:45,297
 And don't get me started about your parents!
 
-338
+336
 00:36:45,570 --> 00:36:46,799
 Gorging themselves on food for my customers.
 
-339
+337
 00:36:47,038 --> 00:36:48,972
 No better than pigs!
 
-340
+338
 00:36:49,207 --> 00:36:51,107
 They got what they deserved.
 
-341
+339
 00:36:51,910 --> 00:36:54,470
 And you.
 
-342
+340
 00:36:55,013 --> 00:36:56,947
 You're never going home.
 
-343
+341
 00:37:00,885 --> 00:37:03,718
 Might as well turn you into a piglet.
 
-344
+342
 00:37:04,055 --> 00:37:06,786
 Or perhaps a lump of coal?
 
-345
+343
 00:37:14,699 --> 00:37:16,167
 You're trembling.
 
-346
+344
 00:37:16,468 --> 00:37:19,904
 I should congratulate you for making it this far.
 
-347
+345
 00:37:20,171 --> 00:37:23,436
 You must have had some help...
 
-348
+346
 00:37:23,808 --> 00:37:25,674
 ...and that person deserves a reward, don't you think?
 
-349
+347
 00:37:25,977 --> 00:37:30,414
 Tell me who it was.
 
-350
+348
 00:37:33,651 --> 00:37:35,016
 I want to work here!
 
-351
+349
 00:37:35,353 --> 00:37:36,684
 I said no!
 
-352
+350
 00:37:36,988 --> 00:37:38,319
 Please give me a job!
 
-353
+351
 00:37:38,656 --> 00:37:43,355
 Never...!
 
-354
+352
 00:37:47,332 --> 00:37:48,493
 Why on earth
 
-355
+353
 00:37:48,733 --> 00:37:50,997
 do I have to give you of all people a job?
 
-356
+354
 00:37:51,236 --> 00:37:55,332
 Look at you! A spoiled, lazy, cry-baby!
 
-357
+355
 00:37:55,573 --> 00:37:57,769
 You think there's work around here
 
-358
+356
 00:37:58,042 --> 00:38:00,534
 for a stupid little brat like you?
 
-359
+357
 00:38:00,779 --> 00:38:02,713
 No means no!
 
-360
+358
 00:38:02,947 --> 00:38:04,540
 One more slacker under this roof
 
-361
+359
 00:38:04,849 --> 00:38:06,578
 and I'll go out of business!
 
-362
+360
 00:38:07,485 --> 00:38:08,714
 Or maybe...
 
-363
+361
 00:38:08,987 --> 00:38:13,549
-...maybe I'll stick you in the worst place I can find
+...maybe I'll stick you in the worst position I can find
 
-364
+362
 00:38:13,858 --> 00:38:18,955
 and watch you work yourself to death?
 
-365
+363
 00:38:31,576 --> 00:38:34,477
 Oh no, oh my...
 
-366
+364
 00:38:35,747 --> 00:38:38,079
 Be good sweetie, I'll be right there...
 
-367
+365
 00:38:38,783 --> 00:38:41,275
-What are you still doing there? Leave already!
+What are you still doing there? Get out of here!
 
-368
+366
 00:38:41,686 --> 00:38:43,245
 I said I want a job!
 
-369
+367
 00:38:43,822 --> 00:38:46,382
 Keep your voice down!
 
-370
+368
 00:38:47,192 --> 00:38:50,719
 Oh sweetums, don't be like that...
 
-371
+369
 00:38:51,796 --> 00:38:54,356
 What a perfect little baby...
 
-372
+370
 00:38:54,732 --> 00:38:56,598
-Give! Me! A! Job!
+I'm not leaving until you say yes!
 
-373
+371
 00:38:57,068 --> 00:38:59,230
 Fine! Fine! Just be quiet!
 
-374
+372
 00:39:00,104 --> 00:39:04,439
 Ahh there there...
 
-375
+373
 00:39:24,662 --> 00:39:26,130
 Your contract.
 
-376
+374
 00:39:27,332 --> 00:39:29,130
 Sign the dotted line.
 
-377
+375
 00:39:30,068 --> 00:39:31,433
 You're hired.
 
-378
+376
 00:39:32,170 --> 00:39:33,638
 But if I hear even one complaint
 
-379
+377
 00:39:33,938 --> 00:39:34,962
 one whimper out of you
 
-380
+378
 00:39:35,240 --> 00:39:37,538
 you'll be eating slop out of a bucket like your parents!
 
-381
+379
 00:39:38,509 --> 00:39:40,477
 I sign it here?
 
-382
+380
 00:39:40,712 --> 00:39:42,407
 Yes, and hurry it up!
 
-383
+381
 00:39:42,614 --> 00:39:44,048
 I don't have all night.
 
-384
+382
 00:39:48,753 --> 00:39:49,948
 I was a fool.
 
-385
+383
 00:39:51,456 --> 00:39:54,050
 I never should have sworn that oath...
 
-386
+384
 00:39:55,660 --> 00:39:58,994
 ...to hand out a job to any passerby who wants one!
 
-387
+385
 00:40:01,266 --> 00:40:02,233
 Done yet?
 
-388
+386
 00:40:02,433 --> 00:40:04,162
 Yes...
 
-389
+387
 00:40:07,205 --> 00:40:09,572
 Your name is Chihiro?
 
-390
+388
 00:40:09,774 --> 00:40:10,434
 Yes, ma'am.
 
-391
+389
 00:40:10,775 --> 00:40:13,005
 That's too good a name for you.
 
-392
+390
 00:40:22,987 --> 00:40:25,615
 From this moment forward your name is Sen.
 
-393
+391
 00:40:26,224 --> 00:40:27,692
 Got it, Sen?
 
-394
+392
 00:40:28,126 --> 00:40:29,924
-Answer me when I call your name!
+Answer me when I call your name, Sen!
 
-395
+393
 00:40:30,194 --> 00:40:31,684
 Yes, ma'am!
 
-396
+394
 00:40:32,397 --> 00:40:33,523
 You summoned me?
 
-397
+395
 00:40:36,801 --> 00:40:39,998
 This kid's our newest hire. Get her fixed up with the girls.
 
-398
+396
 00:40:40,238 --> 00:40:41,000
 Understood.
 
-399
+397
 00:40:41,940 --> 00:40:42,873
 What is your name?
 
-400
+398
 00:40:45,743 --> 00:40:46,642
 My name is Sen.
 
-401
+399
 00:40:47,078 --> 00:40:49,046
 This way, Sen.
 
-402
+400
 00:40:57,722 --> 00:40:58,917
 Haku... I...
 
-403
+401
 00:40:59,424 --> 00:41:00,892
 Who said you could speak?
 
-404
+402
 00:41:01,192 --> 00:41:03,217
-And you will refer to me as Lord Haku.
+And you will refer to me as Haku-sama.
 
-405
+403
 00:41:18,977 --> 00:41:20,604
 The mistress's order it may be...
 
-406
+404
 00:41:20,812 --> 00:41:22,302
 ...but a human, here?
 
-407
+405
 00:41:22,513 --> 00:41:24,072
 Out of the question.
 
-408
+406
 00:41:24,749 --> 00:41:25,978
 She has signed a contract.
 
-409
+407
 00:41:26,184 --> 00:41:26,878
 You're kidding.
 
-410
+408
 00:41:27,085 --> 00:41:28,450
 I promise to do my best.
 
-411
+409
 00:41:28,786 --> 00:41:30,720
-I hope they don't send her our way...
+They better not send her our way...
 
-412
+410
 00:41:30,955 --> 00:41:32,218
 She reeks that human stench!
 
-413
+411
 00:41:32,924 --> 00:41:34,255
-Give her three days with our food
+Three days with our food
 
-414
+412
 00:41:34,525 --> 00:41:35,754
 and her smell will clear.
 
-415
+413
 00:41:35,960 --> 00:41:37,587
 If she's still of no use to you
 
-416
+414
 00:41:37,795 --> 00:41:40,264
 then fry her or boil her, it's up to you.
 
-417
+415
 00:41:41,933 --> 00:41:44,231
 Now back to work!
 Where is Rin?
 
-418
+416
 00:41:44,435 --> 00:41:46,733
 What? You're sticking her with me?
 
-419
+417
 00:41:47,005 --> 00:41:48,439
 You wanted an understudy.
 
-420
+418
 00:41:48,673 --> 00:41:51,005
 Oh, Rin is just perfect for this.
 
-421
+419
 00:41:52,210 --> 00:41:53,075
 Go, Sen.
 
-422
+420
 00:41:53,311 --> 00:41:54,244
-Okay!
+Yes, sir!
 
-423
+421
 00:41:55,113 --> 00:41:56,444
 I don't believe this!
 
-424
+422
 00:41:56,748 --> 00:41:58,307
 You guys owe me one.
 
-425
+423
 00:41:58,883 --> 00:41:59,941
 Get going.
 
-426
+424
 00:42:02,954 --> 00:42:03,944
 Come on!
 
-427
+425
 00:42:13,131 --> 00:42:14,292
 Kid, you did it!
 
-428
+426
 00:42:15,366 --> 00:42:17,232
 You're a bit of a wimp, so I was worried.
 
-429
+427
 00:42:17,702 --> 00:42:18,635
 Stay sharp around here.
 
-430
+428
 00:42:18,870 --> 00:42:20,770
 You come to me if you've got a problem, okay?
 
-431
+429
 00:42:23,374 --> 00:42:24,739
 What's wrong?
 
-432
+430
 00:42:25,843 --> 00:42:27,607
 My legs won't stop shaking.
 
-433
+431
 00:42:32,250 --> 00:42:34,218
 This is where we sleep.
 
-434
+432
 00:42:35,453 --> 00:42:37,444
 Dinner and a good night's sleep and you'll feel better.
 
-435
+433
 00:42:40,691 --> 00:42:42,785
 Here's your smock. Gotta wash it yourself.
 
-436
+434
 00:42:42,994 --> 00:42:43,825
 Leggings.
 
-437
+435
 00:42:44,829 --> 00:42:46,490
 Is any of this going to fit you...?
 
-438
+436
 00:42:47,765 --> 00:42:48,789
 Too big.
 
-439
+437
 00:42:51,235 --> 00:42:52,498
 Rin-san?
 
-440
+438
 00:42:52,804 --> 00:42:53,669
 Yeah?
 
-441
+439
 00:42:53,971 --> 00:42:55,962
 Are there... two people named Haku here?
 
-442
+440
 00:42:56,240 --> 00:42:57,298
 Two of 'em?
 
-443
+441
 00:42:57,542 --> 00:42:59,670
 One is quite enough, thank you very much.
 
-444
+442
 00:43:00,445 --> 00:43:01,173
 Still too big.
 
-445
+443
 00:43:01,446 --> 00:43:02,675
 He's Yubaba's right-hand-man, can't trust the guy.
 
-446
+444
 00:43:02,980 --> 00:43:03,913
 Watch yourself around him.
 
-447
+445
 00:43:07,485 --> 00:43:08,509
 There's gotta be one in here...
 
-448
+446
 00:43:10,521 --> 00:43:12,353
 Finally found one!
 
-449
+447
 00:43:13,124 --> 00:43:15,855
 Hey, what's the matter now?
 
-450
+448
 00:43:16,194 --> 00:43:17,821
 Hang in there, kid.
 
-451
+449
 00:43:18,830 --> 00:43:21,197
 Will you two keep it down?
 
-452
+450
 00:43:21,466 --> 00:43:23,935
 The new girl's not feeling good.
 
-453
+451
 00:44:55,860 --> 00:44:57,453
 Meet me at the bridge.
 
-454
+452
 00:44:57,695 --> 00:45:00,528
 I'll take you to your parents.
 
-455
+453
 00:45:44,442 --> 00:45:45,432
 Where are my shoes?
 
-456
+454
 00:45:59,824 --> 00:46:01,019
 Thanks.
 
-457
+455
 00:47:10,027 --> 00:47:10,823
 This way.
 
-458
+456
 00:47:54,405 --> 00:47:56,430
 Dad! Mom! It's me!
 
-459
+457
 00:47:56,674 --> 00:47:58,733
 It's me, Sen!
 
-460
+458
 00:47:59,577 --> 00:48:01,705
 Mom! Dad!
 
-461
+459
 00:48:05,082 --> 00:48:06,948
 Are they okay? Are they sick?
 
-462
+460
 00:48:07,184 --> 00:48:09,744
 They're fine, just sleeping off all the food.
 
-463
+461
 00:48:10,588 --> 00:48:13,319
 Right now they don't even know they were human.
 
-464
+462
 00:48:18,929 --> 00:48:20,192
 Dad, Mom,
 
-465
+463
 00:48:20,398 --> 00:48:21,490
 I'm going to get you out of here!
 
-466
+464
 00:48:21,732 --> 00:48:22,893
 Don't eat too much
 
-467
+465
 00:48:23,100 --> 00:48:24,727
 or they're going to eat you!
 
-468
+466
 00:48:33,077 --> 00:48:34,670
 Hide these somewhere safe.
 
-469
+467
 00:48:37,281 --> 00:48:38,874
 I thought they threw them out.
 
-470
+468
 00:48:39,517 --> 00:48:41,007
 You'll need them when you leave this place.
 
-471
+469
 00:48:47,525 --> 00:48:49,516
 The card I got at my farewell party...
 
-472
+470
 00:48:53,130 --> 00:48:55,929
 Chihiro... that's my name!
 
-473
+471
 00:48:57,268 --> 00:48:59,635
 Yubaba controls others by seizing their true names.
 
-474
+472
 00:49:00,438 --> 00:49:01,530
 You'll be Sen on the surface
 
-475
+473
 00:49:01,839 --> 00:49:04,467
 with your true name spirited away within your heart.
 
-476
+474
 00:49:04,842 --> 00:49:06,367
 She almost had me.
 
-477
+475
 00:49:06,577 --> 00:49:07,874
 I was almost Sen for real.
 
-478
+476
 00:49:08,579 --> 00:49:09,705
 If you lose your name
 
-479
+477
 00:49:09,947 --> 00:49:12,245
 you'll never find your way back home.
 
-480
+478
 00:49:13,083 --> 00:49:15,381
 I have forgotten mine.
 
-481
+479
 00:49:15,786 --> 00:49:17,379
 Your real name?
 
-482
+480
 00:49:17,822 --> 00:49:20,917
 But it's strange, I remember you so clearly.
 
-483
+481
 00:49:23,260 --> 00:49:25,957
 Here. You haven't eaten yet, right?
 
-484
+482
 00:49:26,297 --> 00:49:27,458
 I'm not hungry.
 
-485
+483
 00:49:28,032 --> 00:49:29,056
 I made these just for you.
 
-486
+484
 00:49:29,300 --> 00:49:32,031
 There's a charm on them to cheer you up.
 
-487
+485
 00:50:08,706 --> 00:50:10,736
 I know. Here, finish the rest.
 
-488
+486
 00:50:26,123 --> 00:50:27,284
-You know the way back by now.
+Know the way back by now?
+
+487
+00:50:27,525 --> 00:50:29,960
+Yup. Thanks Haku, I feel much better.
+
+488
+00:52:04,822 --> 00:52:07,621
+Where the heck were you?
+Nearly gave me a heart attack.
 
 489
-00:50:27,525 --> 00:50:29,960
-Yup. Thanks Haku, I feel much better now.
-
-490
-00:52:04,822 --> 00:52:07,621
-What the hell were you? Nearly gave me a heart attack.
-
-491
 00:52:07,825 --> 00:52:08,849
 Sorry!
 
-492
+490
 00:52:18,202 --> 00:52:19,567
 Out of the way.
 
-493
+491
 00:52:32,883 --> 00:52:35,045
-Squeeze that thing like you mean it, Sen!
+Sen, squeeze that thing like you mean it!
 
-494
+492
 00:52:35,653 --> 00:52:38,179
 Rin, Sen, you're up for the Big Tub.
 
-495
+493
 00:52:38,455 --> 00:52:40,423
 What! That's frog's work!
 
-496
+494
 00:52:40,691 --> 00:52:43,683
 Orders from the Foreman.
 And no cutting corners!
 
-497
+495
 00:53:03,947 --> 00:53:05,711
 Aren't you getting wet?
 
-498
+496
 00:53:09,953 --> 00:53:11,284
 Sen, hurry it up!
 
-499
+497
 00:53:11,588 --> 00:53:12,612
 Be right there!
 
-500
+498
 00:53:12,956 --> 00:53:14,754
 I'll leave this open for you.
 
-501
+499
 00:53:42,753 --> 00:53:43,720
 Rin, you got the Big Tub?
 
-502
+500
 00:53:43,921 --> 00:53:44,615
 Screw off.
 
-503
+501
 00:53:48,092 --> 00:53:50,823
 When was the last time they cleaned this?
 
-504
+502
 00:54:06,009 --> 00:54:09,070
 They give this tub to the dirtiest customers.
 
-505
+503
 00:54:09,279 --> 00:54:10,940
-Man, this is caked on...
+Man, is this ever caked on...
 
-506
+504
 00:54:11,348 --> 00:54:13,680
 Rin, Sen, you've got customers waiting.
 
-507
+505
 00:54:14,017 --> 00:54:15,485
 Yes sir, almost ready.
 
-508
+506
 00:54:15,719 --> 00:54:17,687
 I knew they'd pull something like this.
 
-509
+507
 00:54:17,955 --> 00:54:19,013
 We need to rinse this down with Herb Water.
 
-510
+508
 00:54:19,289 --> 00:54:21,018
 Sen, run to the concierge and grab a tag.
 
-511
+509
 00:54:21,291 --> 00:54:22,281
 A tag?
 
-512
+510
 00:54:25,295 --> 00:54:26,854
-We need a tag for Herb Water, got it?
+It needs to be for Herb Water, got it?
 
-513
+511
 00:54:27,197 --> 00:54:28,164
 Got it...
 
-514
+512
 00:54:29,733 --> 00:54:31,292
 Rin-san, what's a concierge?
 
-515
+513
 00:54:35,672 --> 00:54:38,073
-Now what's that? Something's coming.
+What's that? Something's coming.
 
-516
+514
 00:54:47,117 --> 00:54:48,084
 Thought you could fool me?
 
-517
+515
 00:54:48,352 --> 00:54:51,219
 I feel you slinking around in the rain, whatever you are.
 
-518
+516
 00:55:15,445 --> 00:55:17,937
 What? Not a chance!
 
-519
+517
 00:55:18,182 --> 00:55:19,741
 Good morning, ma'am!
 
-520
+518
 00:55:20,417 --> 00:55:22,215
 I hope your sleep was a pleasant one.
 
-521
+519
 00:55:22,853 --> 00:55:23,752
-For Lord Kasuga.
+For Kasuga-sama.
 
-522
+520
 00:55:24,021 --> 00:55:25,887
 Yes, ma'am! One top-line sulfur bath.
 
-523
+521
 00:55:26,590 --> 00:55:28,922
 Look kid, no means no. Get back to work!
 
-524
+522
 00:55:29,393 --> 00:55:30,827
 Scrape it down yourself, the old fashioned way!
 
-525
+523
 00:55:31,094 --> 00:55:32,721
 Good morning!
 
-526
+524
 00:55:33,096 --> 00:55:33,927
 You hear me? By hand!
 
-527
+525
 00:55:34,198 --> 00:55:35,256
 Yeah but...
 
-528
+526
 00:55:35,532 --> 00:55:37,261
 She told me it has to be Herb Water...
 
-529
+527
 00:55:37,501 --> 00:55:39,094
 I'm not going to tell you again.
 
-530
+528
 00:55:39,369 --> 00:55:41,269
 A mugwort bath? But of course!
 
-531
+529
 00:55:41,572 --> 00:55:43,267
 Enjoy the water.
 
-532
+530
 00:55:52,482 --> 00:55:53,574
 Concierge speaking.
 
-533
+531
 00:55:53,784 --> 00:55:55,843
 Ah, yes ma'am!
 
-534
+532
 00:55:56,053 --> 00:55:58,351
 Thank you very much!
 
-535
+533
 00:55:58,555 --> 00:55:59,579
 Wait a minute!
 
-536
+534
 00:55:59,823 --> 00:56:01,120
 Get back here!
 
-537
+535
 00:56:01,358 --> 00:56:02,120
 What's the matter?
 
-538
+536
 00:56:02,392 --> 00:56:03,621
 Ah... nothing to worry about, Mistress.
 
-539
+537
 00:56:04,294 --> 00:56:05,625
 Something is up, keep an eye out.
 
-540
+538
 00:56:05,829 --> 00:56:06,591
 More humans?
 
-541
+539
 00:56:06,797 --> 00:56:08,128
 You're going to find out.
 
-542
+540
 00:56:08,398 --> 00:56:09,763
 Haku is off on other duties.
 
-543
+541
 00:56:10,133 --> 00:56:12,295
 Whoa, how you convince him to give you this?
 
-544
+542
 00:56:12,536 --> 00:56:14,971
 These go straight to Kamajī.
 
-545
+543
 00:56:16,707 --> 00:56:18,436
 We're not busy yet so we should get it pretty quick.
 
-546
+544
 00:56:24,615 --> 00:56:27,312
 Pull the rope and voilà. Give it a shot.
 
-547
+545
 00:56:36,293 --> 00:56:38,318
 You're seriously a klutz.
 
-548
+546
 00:56:38,595 --> 00:56:40,563
 Why's it that colour?
 
-549
+547
 00:56:40,797 --> 00:56:43,095
 This one's enriched with dried worm extract.
 
-550
+548
 00:56:43,767 --> 00:56:44,632
-With the water this cloudy
+With the water this murky
 
-551
+549
 00:56:44,868 --> 00:56:46,632
 they'll never know we didn't scrub it.
 
-552
-00:56:48,338 --> 00:56:50,170
+550
+00:56:48,338 --> 00:56:51,153
 Once the tub fills, pull the rope again
-
-553
-00:56:50,374 --> 00:56:51,500
 to stop the water.
 
-554
+551
 00:56:52,175 --> 00:56:53,506
 You don't have to hold onto it.
 
-555
+552
 00:56:53,810 --> 00:56:55,335
 I'll go grab us breakfast.
 
-556
+553
 00:56:55,579 --> 00:56:56,671
 Okay.
 
-557
+554
 00:57:25,275 --> 00:57:27,767
 The tub's not ready yet...
 
-558
+555
 00:57:33,617 --> 00:57:34,880
 Where'd you get all these?
 
-559
+556
 00:57:37,788 --> 00:57:39,517
 They're for me?
 
-560
+557
 00:57:42,726 --> 00:57:45,161
 Sorry, I don't need any more.
 
-561
+558
 00:57:48,031 --> 00:57:49,658
 No, I only needed one!
 
-562
+559
 00:58:04,681 --> 00:58:05,375
 Mistress!
 
-563
+560
 00:58:05,615 --> 00:58:06,912
 A Rot Demon?
 
-564
+561
 00:58:07,184 --> 00:58:09,152
 Yes, and a massive one!
 
-565
+562
 00:58:09,419 --> 00:58:10,909
 I'm almost to the bridge!
 
-566
+563
 00:58:11,154 --> 00:58:13,418
 Please turn back! Please sir, no further!
 
-567
+564
 00:58:13,657 --> 00:58:16,251
 Please turn back!
 
-568
+565
 00:58:18,028 --> 00:58:19,928
 Please, sir!
 
-569
+566
 00:58:20,597 --> 00:58:21,996
 The stench...
 
-570
+567
 00:58:23,400 --> 00:58:24,595
 That's odd.
 
-571
+568
 00:58:24,901 --> 00:58:27,233
 I could have sworn it wasn't a Rot Demon I felt.
 
-572
+569
 00:58:27,471 --> 00:58:29,872
 No matter, he's here now. Let him in!
 
-573
+570
 00:58:30,741 --> 00:58:32,072
 All we can do now
 
-574
+571
 00:58:32,309 --> 00:58:34,004
 is bathe him and get him out of here as soon as possible.
 
-575
+572
 00:58:35,245 --> 00:58:38,374
 Please everyone, this way! The Rot Demon approaches!
 
-576
+573
 00:58:40,517 --> 00:58:42,281
 Rin, Sen, get out here! The Mistress wants you.
 
-577
+574
 00:58:42,586 --> 00:58:43,382
 Right away!
 
-578
+575
 00:58:43,720 --> 00:58:46,121
 Alright kid, it's time to test your mettle.
 
-579
+576
 00:58:46,423 --> 00:58:49,120
 We're sending this customer to you in the Big Tub, got it?
 
-580
+577
 00:58:49,326 --> 00:58:50,020
 But...
 
-581
+578
 00:58:50,227 --> 00:58:52,127
 Want to be turned into coal? No back-talk!
 
-582
+579
 00:58:52,496 --> 00:58:53,122
 Do you understand me?
 
-583
+580
 00:58:53,363 --> 00:58:55,092
 He's here...!
 
-584
+581
 00:59:05,709 --> 00:59:07,677
 Stop that, you'll offend the customer!
 
-585
+582
 00:59:15,819 --> 00:59:19,221
 Welcome... to our... fine establishment...
 
-586
+583
 00:59:22,559 --> 00:59:24,459
 Ah, payment?
 
-587
+584
 00:59:24,694 --> 00:59:27,129
 Sen... Sen! Take the nice customer's money.
 
-588
+585
 00:59:27,364 --> 00:59:28,490
 Yes, ma'am!
 
-589
+586
 00:59:36,873 --> 00:59:38,671
 What are you doing?
 
-590
+587
 00:59:38,909 --> 00:59:41,401
 Show this fine sir to his bath!
 
-591
+588
 00:59:41,678 --> 00:59:43,077
 This way, sir...
 
-592
+589
 01:00:11,475 --> 01:00:12,408
 The food!
 
-593
+590
 01:00:12,609 --> 01:00:14,543
 Open the windows! All of them!
 
-594
-01:00:57,821 --> 01:01:00,483
-One sec!
+591
+01:00:59,302 --> 01:01:00,483
+Just a second!
 
-595
+592
 01:01:04,895 --> 01:01:07,091
 Look at all that muck.
 
-596
+593
 01:01:07,397 --> 01:01:08,922
 This is no laughing matter.
 
-597
+594
 01:01:09,166 --> 01:01:10,600
 What's she going to do?
 
-598
+595
 01:01:15,405 --> 01:01:17,499
 Ah, she wants to refill the tub.
 
-599
+596
 01:01:17,741 --> 01:01:21,336
 She's getting her muddy handprints all over the wall...
 
-600
+597
 01:01:33,223 --> 01:01:35,692
 What? Who gave her more tags?
 
-601
+598
 01:01:35,959 --> 01:01:38,291
 Don't look at me!
 
-602
+599
 01:02:19,836 --> 01:02:22,362
 Ah... such expensive Herb Water...
 
-603
+600
 01:02:48,498 --> 01:02:50,364
 Sen! Sen, where are you?
 
-604
+601
 01:02:50,934 --> 01:02:51,696
 Rin-san!
 
-605
+602
 01:02:51,968 --> 01:02:53,026
 You okay?
 
-606
+603
 01:02:53,270 --> 01:02:54,829
-I just talked to Old Kama.
+I just talked to Kamajī.
 
-607
+604
 01:02:55,071 --> 01:02:55,867
 He's going to give us all the water he's got!
 
-608
+605
 01:02:56,539 --> 01:02:58,507
-He's going to give us his best herbs!
+He's going to use his best herbs!
 
-609
+606
 01:02:59,009 --> 01:02:59,703
 Thanks!
 
-610
+607
 01:03:00,010 --> 01:03:02,035
 There's something stuck in his side!
 
-611
+608
 01:03:02,345 --> 01:03:03,210
 What?
 
-612
+609
 01:03:03,480 --> 01:03:04,879
 It's too deep, I can't pull it out.
 
-613
+610
 01:03:05,348 --> 01:03:07,510
 Something stuck?
 
-614
+611
 01:03:07,751 --> 01:03:10,379
 Get everyone to the main floor.
 
-615
+612
 01:03:10,587 --> 01:03:11,247
 Ma'am?
 
-616
+613
 01:03:11,454 --> 01:03:12,387
 Hurry!
 
-617
+614
 01:03:15,659 --> 01:03:17,058
 Sen, Rin!
 
-618
+615
 01:03:17,294 --> 01:03:19,524
 That's no Rot Demon!
 
-619
+616
 01:03:21,898 --> 01:03:23,059
 Use this rope!
 
-620
+617
 01:03:23,466 --> 01:03:24,399
 Got it!
 
-621
+618
 01:03:33,443 --> 01:03:34,569
 Hold on tight!
 
-622
+619
 01:03:34,844 --> 01:03:35,743
 Okay!
 
-623
+620
 01:03:36,446 --> 01:03:37,914
 Hurry it up, you slackers.
 
-624
+621
 01:03:38,148 --> 01:03:39,741
 The women too, grab the rope!
 
-625
+622
 01:03:40,450 --> 01:03:41,747
 We're ready!
 
-626
+623
 01:03:42,352 --> 01:03:46,255
 Alright everybody, all together!
 
-627
+624
 01:04:04,507 --> 01:04:05,406
 A bike?
 
-628
+625
 01:04:06,276 --> 01:04:07,038
 I knew it.
 
-629
+626
 01:04:07,377 --> 01:04:09,277
 Almost there! Keep pulling!
 
-630
+627
 01:04:43,880 --> 01:04:46,349
 Sen! You okay?
 
-631
+628
 01:04:56,626 --> 01:04:59,357
 Well done.
 
-632
+629
 01:05:28,892 --> 01:05:30,018
 Gold!
 
-633
+630
 01:05:31,027 --> 01:05:33,519
 That's property of the Bath House! Hands off!
 
-634
+631
 01:05:33,730 --> 01:05:34,788
 Quiet, all of you!
 
-635
+632
 01:05:34,998 --> 01:05:37,023
 The customer's still here!
 
-636
+633
 01:05:43,173 --> 01:05:46,040
-Sen, you're in the customer's way. Come down.
+Sen, you're in his way. Come down.
 
-637
+634
 01:05:46,309 --> 01:05:48,744
 Open the gate! He's leaving!
 
-638
+635
 01:06:15,605 --> 01:06:19,405
 You wonderful girl, we're rich!
 
-639
+636
 01:06:20,477 --> 01:06:22,741
 That was a river god of some repute.
 
-640
+637
 01:06:23,112 --> 01:06:24,705
 Follow Sen's example, everyone!
 
-641
+638
 01:06:25,482 --> 01:06:27,246
 You're all getting a bonus for this.
 
-642
+639
 01:06:27,917 --> 01:06:30,318
 Now cough up all that gold you picked up!
 
-643
+640
 01:06:44,200 --> 01:06:45,929
 Hungry? I swiped these from the kitchens.
 
-644
+641
 01:06:46,769 --> 01:06:47,930
 Sure!
 
-645
+642
 01:06:48,204 --> 01:06:50,400
 What a night...
 
-646
+643
 01:06:52,876 --> 01:06:54,173
 I wonder where Haku is.
 
-647
+644
 01:06:54,444 --> 01:06:56,105
 That guy, again?
 
-648
+645
 01:06:57,280 --> 01:06:59,408
-He's just gone from time to time.
+He's gone from time to time.
 
-649
+646
 01:07:00,083 --> 01:07:01,346
 Apparently Yubaba sends him off
 
-650
+647
 01:07:01,618 --> 01:07:03,609
-to do all her dirty work.
+to do her dirty work.
 
-651
+648
 01:07:03,953 --> 01:07:04,613
 Really?
 
-652
+649
 01:07:04,921 --> 01:07:06,116
 Lights out, Rin!
 
-653
+650
 01:07:32,749 --> 01:07:35,150
 Where did an ocean come from?
 
-654
+651
 01:07:35,418 --> 01:07:36,317
 You're surprised?
 
-655
+652
 01:07:36,586 --> 01:07:38,418
 It rains, you get an ocean. That's that.
 
-656
+653
 01:07:40,456 --> 01:07:42,049
 I'm going to reach that town over there one day.
 
-657
+654
 01:07:42,325 --> 01:07:44,293
 I can't wait to quit this place.
 
-658
+655
 01:08:07,884 --> 01:08:09,852
 What's wrong?
 
-659
+656
 01:08:39,616 --> 01:08:41,050
 Gold!
 
-660
+657
 01:08:44,087 --> 01:08:46,920
 You're no customer. What are you doing in there?
 
-661
+658
 01:08:47,156 --> 01:08:48,851
-You get out of there right this minute!
+Get out of there right this minute!
 
-662
+659
 01:08:55,365 --> 01:08:56,730
 More gold!
 
-663
+660
 01:08:57,066 --> 01:08:58,556
 I can have this?
 
-664
+661
 01:09:04,073 --> 01:09:06,132
 You can... make gold?
 
-665
+662
 01:09:11,547 --> 01:09:12,639
 Gimme!
 
-666
+663
 01:09:21,090 --> 01:09:22,717
 I can hear you back there, whoever you are.
 
-667
+664
 01:09:23,826 --> 01:09:26,056
 What are you messing around back here for after dark?
 
-668
+665
 01:09:29,799 --> 01:09:32,769
 Right on schedule - I'm starving.
 
-669
+666
 01:09:33,036 --> 01:09:33,935
 I said I'm hungry!
 
-670
+667
 01:09:34,203 --> 01:09:35,261
 That voice...
 
-671
+668
 01:09:35,505 --> 01:09:37,098
 I'll even pay upfront.
 
-672
+669
 01:09:38,074 --> 01:09:40,600
-Was I not clear? I'm famished and I want a bath!
+Wasn't I clear? I'm famished and I want a bath!
 
-673
+670
 01:09:40,877 --> 01:09:42,276
 Wake everyone up!
 
-674
+671
 01:09:47,984 --> 01:09:49,008
 Dad, Mom.
 
-675
+672
 01:09:49,285 --> 01:09:51,253
 I got some special medicine from a river god!
 
-676
+673
 01:09:51,487 --> 01:09:54,013
 You'll turn back into a human if you eat this!
 
-677
+674
 01:09:58,394 --> 01:10:00,123
 Dad, Mom, where are you?
 
-678
+675
 01:10:00,797 --> 01:10:01,787
 Dad!
 
-679
+676
 01:10:13,342 --> 01:10:14,241
 Just a bad dream.
 
-680
+677
 01:10:21,250 --> 01:10:22,547
 Where is everybody?
 
-681
+678
 01:10:29,392 --> 01:10:31,827
 Wow, it really is an ocean.
 
-682
+679
 01:10:37,400 --> 01:10:40,062
 I can even see the barns from here.
 
-683
+680
 01:10:44,073 --> 01:10:45,837
-Old Kama's already boiling water?
+Kamajī's already boiling water?
 
-684
+681
 01:10:46,142 --> 01:10:48,167
 I must have really overslept.
 
-685
+682
 01:10:51,748 --> 01:10:52,840
 The customer is waiting!
 
-686
+683
 01:10:53,116 --> 01:10:54,675
 Hurry it up! As fast as you can!
 
-687
+684
 01:10:54,984 --> 01:10:56,850
 Haul out all the leftovers, I don't care!
 
-688
+685
 01:10:57,153 --> 01:10:58,678
 Whatever you've got back there!
 
-689
+686
 01:11:03,126 --> 01:11:05,686
 I was just coming to wake you up. Look at this!
 
-690
+687
 01:11:06,195 --> 01:11:08,289
 Gold. Real gold!
 
-691
+688
 01:11:08,731 --> 01:11:10,790
 There's a high-roller here giving massive tips.
 
-692
+689
 01:11:22,044 --> 01:11:24,877
 Bring me all you got, I'm still starving!
 
-693
+690
 01:11:29,986 --> 01:11:31,181
 Where did he come from?
 
-694
+691
 01:11:31,487 --> 01:11:32,215
 Who cares? Follow me!
 
-695
+692
 01:11:32,455 --> 01:11:34,981
 We gotta grab what we can while Yubaba's still asleep!
 
-696
+693
 01:11:35,391 --> 01:11:37,189
-But I have to go see Old Kama...
+But I have to go see Kamajī...
 
-697
+694
 01:11:37,894 --> 01:11:39,885
 I wouldn't if I were you.
 
-698
+695
 01:11:40,096 --> 01:11:42,224
-He's in a wicked bad mood now 'cause of all this.
+He's in a terrible mood 'cause of all this.
 
-699
+696
 01:11:42,465 --> 01:11:43,398
 Rin, let's go get more.
 
-700
+697
 01:12:09,392 --> 01:12:10,587
 What am I going to do
 
-701
+698
 01:12:10,893 --> 01:12:12,987
-if I can't tell Dad and Mom from the other pigs?
+if I can't tell them from the other pigs?
 
-702
+699
 01:12:13,729 --> 01:12:16,664
 I hope Dad hasn't gotten any fatter...
 
-703
+700
 01:12:44,760 --> 01:12:46,159
 It's that dragon I saw before...
 
-704
+701
 01:12:46,762 --> 01:12:47,957
 He's coming this way!
 
-705
+702
 01:12:51,033 --> 01:12:52,228
 What are those? They're not birds.
 
-706
+703
 01:13:03,679 --> 01:13:05,613
 Hang in there, Haku!
 
-707
+704
 01:13:05,848 --> 01:13:06,610
 Fly this way!
 
-708
+705
 01:13:27,670 --> 01:13:29,832
 It's just paper.
 
-709
+706
 01:13:58,334 --> 01:14:00,200
 You're Haku, aren't you?
 
-710
+707
 01:14:06,676 --> 01:14:07,700
 Are you hurt?
 
-711
+708
 01:14:07,944 --> 01:14:09,708
 Those weird paper birds are gone now.
 
-712
+709
 01:14:10,112 --> 01:14:11,204
 You're safe.
 
-713
+710
 01:14:24,460 --> 01:14:26,224
 He's heading to Yubaba's rooms...
 
-714
+711
 01:14:26,896 --> 01:14:29,263
 He's going to die if I don't help him.
 
-715
+712
 01:14:37,073 --> 01:14:37,733
 One, two!
 
-716
+713
 01:14:37,974 --> 01:14:41,239
 Gracing us with his magnificent presence
 
-717
+714
 01:14:41,978 --> 01:14:45,881
 the Great Giver! Come one and all!
 
-718
+715
 01:14:47,016 --> 01:14:48,745
 Welcome to our bath house!
 
-719
+716
 01:14:49,051 --> 01:14:53,181
 Let us bask in his generosity!
 
-720
+717
 01:14:57,593 --> 01:14:58,219
 He's almost here!
 
-721
+718
 01:14:58,427 --> 01:14:59,360
 I gotta grab some this time.
 
-722
+719
 01:14:59,562 --> 01:15:01,394
 I hear he just pours it from his hands!
 
-723
+720
 01:15:02,431 --> 01:15:05,423
 Great Giver! Please, turn this way!
 
-724
+721
 01:15:09,472 --> 01:15:10,735
 Hey, where are you going?
 
-725
+722
 01:15:10,973 --> 01:15:11,735
 I need to go up!
 
-726
+723
 01:15:11,974 --> 01:15:13,942
 Not a chance!
 
-727
+724
 01:15:14,877 --> 01:15:15,901
 Blood!
 
-728
+725
 01:15:20,016 --> 01:15:22,075
 You're in our customer's way. Move it!
 
-729
+726
 01:15:23,753 --> 01:15:25,517
 Thank you for helping me yesterday.
 
-730
+727
 01:15:25,955 --> 01:15:28,117
 I said get out of the w-
 
-731
+728
 01:15:50,379 --> 01:15:51,847
 I don't need any of that.
 
-732
+729
 01:15:54,917 --> 01:15:56,976
 I'm sorry, I have to go.
 
-733
+730
 01:16:08,831 --> 01:16:11,630
 Back! Get back, all of you!
 
-734
+731
 01:16:12,401 --> 01:16:13,732
 Out of the way!
 
-735
+732
 01:16:14,570 --> 01:16:16,334
 Sir, please forgive her rude behaviour.
 
-736
+733
 01:16:16,572 --> 01:16:19,803
 She's just a human child, she doesn't know any better.
 
-737
+734
 01:16:22,044 --> 01:16:23,512
 You laughing at me?
 
-738
+735
 01:16:24,613 --> 01:16:25,512
 You laughed.
 
-739
+736
 01:16:25,714 --> 01:16:27,273
 I would never!
 
-740
-01:18:01,177 --> 01:18:02,269
-Yubaba's back!
-
-741
+737
 01:19:15,050 --> 01:19:17,678
 I'm out for one morning and look what I come back to!
 
-742
+738
 01:19:18,621 --> 01:19:20,521
-He's a No-Face.
+It's a No-Face.
 
-743
+739
 01:19:20,756 --> 01:19:22,690
 You heard me, a No-Face!
 
-744
+740
 01:19:23,058 --> 01:19:24,355
-Look at you. He throws some money at you
+Look at you. It throws some money at you
 
-745
+741
 01:19:24,627 --> 01:19:25,890
-and you fall at his feet like dogs!
+and you fall at its feet like dogs!
 
-746
+742
 01:19:26,195 --> 01:19:27,026
 I'm on my way down.
 
-747
+743
 01:19:27,296 --> 01:19:29,424
 Don't do anything until I get there.
 
-748
+744
 01:19:30,466 --> 01:19:32,696
 Look at this, you've ruined my rug.
 
-749
+745
 01:19:32,935 --> 01:19:33,993
 Get him out of my sight.
 
-750
+746
 01:19:35,304 --> 01:19:37,898
 We have no further use for him.
 
-751
+747
 01:19:59,695 --> 01:20:02,392
 Why aren't you sleeping in your bed, my baby boy?
 
-752
+748
 01:20:06,635 --> 01:20:08,194
 Sorry sweetie.
 
-753
+749
 01:20:08,437 --> 01:20:10,565
 I woke you from your nappy-wappy, didn't I.
 
-754
+750
 01:20:10,873 --> 01:20:13,399
 I still have some things to take care of.
 
-755
+751
 01:20:16,812 --> 01:20:19,076
 You just go back to sleep.
 
-756
+752
 01:20:47,376 --> 01:20:49,435
 Let me go, that hurts!
 
-757
+753
 01:20:49,912 --> 01:20:51,676
 Thanks for not ratting me out.
 
-758
+754
 01:20:51,980 --> 01:20:53,675
 But I really need to go.
 
-759
+755
 01:20:53,949 --> 01:20:55,110
 Can you let me go?
 
-760
+756
 01:20:55,351 --> 01:20:57,115
 You're here to get me sick.
 
-761
+757
 01:20:58,187 --> 01:21:00,656
 I can't go outside, there's germs everywhere.
 
-762
+758
 01:21:01,623 --> 01:21:03,352
 I'm a human.
 
-763
+759
 01:21:03,625 --> 01:21:05,423
 You've probably never seen one before, but...
 
-764
+760
 01:21:05,728 --> 01:21:07,924
 It's too dangerous outside.
 
-765
+761
 01:21:08,163 --> 01:21:10,154
 You're going to stay here and play with me forever.
 
-766
+762
 01:21:10,566 --> 01:21:11,829
 Are you sick?
 
-767
+763
 01:21:12,034 --> 01:21:12,762
 If I go outside
 
-768
+764
 01:21:12,968 --> 01:21:14,868
 I'll get sick, so I can't.
 
-769
+765
 01:21:15,137 --> 01:21:17,299
 No, you're going to get sick if you stay in here!
 
-770
+766
 01:21:17,740 --> 01:21:18,468
 Please listen.
 
-771
+767
 01:21:18,741 --> 01:21:21,301
 Someone really important to me is hurt.
 
-772
+768
 01:21:21,543 --> 01:21:22,977
 I have to go help him right now.
 
-773
+769
 01:21:23,278 --> 01:21:24,575
 Please, let go of my arm.
 
-774
+770
 01:21:24,980 --> 01:21:26,311
 If you go, I'm gonna cry!
 
-775
+771
 01:21:26,615 --> 01:21:28,140
 If I cry, my mom's gonna come
 
-776
+772
 01:21:28,384 --> 01:21:29,977
 and she'll kill you for sure!
 
-777
+773
 01:21:30,319 --> 01:21:31,718
 Don't make me break your arm.
 
-778
+774
 01:21:31,987 --> 01:21:32,977
 Ow, that's hurts!
 
-779
+775
 01:21:33,288 --> 01:21:35,689
 I promise I'll come back.
 
-780
+776
 01:21:36,058 --> 01:21:37,321
 No, we play right now!
 
-781
+777
 01:21:41,630 --> 01:21:43,462
 You see this? It's blood!
 
-782
+778
 01:21:57,246 --> 01:21:59,078
 Get away from him!
 
-783
+779
 01:21:59,348 --> 01:22:01,680
 Haku? Haku, can you hear me?
 
-784
+780
 01:22:02,484 --> 01:22:03,781
 Leave us alone!
 
-785
+781
 01:22:10,526 --> 01:22:11,322
 Get away from me!
 
-786
+782
 01:22:13,462 --> 01:22:14,930
 No, stop!
 
-787
+783
 01:22:30,546 --> 01:22:32,105
 Blood doesn't scare me.
 
-788
+784
 01:22:32,381 --> 01:22:34,042
 I'm gonna cry if you don't play with me!
 
-789
+785
 01:22:34,483 --> 01:22:36,178
 I'll play with you later, I promise!
 
-790
+786
 01:22:36,885 --> 01:22:39,718
 I'm gonna cry! I'll do it!
 
-791
+787
 01:22:41,824 --> 01:22:42,882
 Please, not now!
 
-792
+788
 01:22:43,192 --> 01:22:44,353
 What a cry-baby.
 
-793
+789
 01:22:44,593 --> 01:22:46,220
 Stop with the fake tears, kid.
 
-794
+790
 01:22:47,763 --> 01:22:50,232
 You're getting a bit too fat.
 
-795
+791
 01:22:58,006 --> 01:23:00,100
 Still a bit see-through...
 
-796
+792
 01:23:00,375 --> 01:23:01,103
 Mommy?
 
-797
+793
 01:23:01,844 --> 01:23:02,572
 Not quite.
 
-798
+794
 01:23:02,878 --> 01:23:05,643
 Can't even tell I'm not your mom?
 
-799
+795
 01:23:14,122 --> 01:23:16,750
 There, much less lard to lug around.
 
-800
+796
 01:23:17,059 --> 01:23:20,222
 Now what shall I do with you lot?
 
-801
+797
 01:23:38,347 --> 01:23:40,008
 This is our little secret.
 
-802
+798
 01:23:40,282 --> 01:23:43,115
-Tell anybody and you won't like the consequences.
+Tell someone and you won't like the consequences.
 
-803
+799
 01:23:44,820 --> 01:23:45,787
 Who are you?
 
-804
+800
 01:23:46,221 --> 01:23:48,349
-Yubaba's older twin sister.
+Yubaba's twin sister.
 
-805
+801
 01:23:48,624 --> 01:23:49,420
 Thanks to you
 
-806
+802
 01:23:49,658 --> 01:23:52,252
 I was finally able to reach this place.
 
-807
+803
 01:23:52,494 --> 01:23:54,394
 Now hand over that dragon.
 
-808
+804
 01:23:54,730 --> 01:23:56,858
 He's hurt - what are you going to do to him?
 
-809
+805
 01:23:57,432 --> 01:24:00,458
 That dragon is a slave to my sister and a thief.
 
-810
+806
 01:24:00,702 --> 01:24:03,501
 He stole an important seal of mine,
 and I'm taking it back.
 
-811
+807
 01:24:03,705 --> 01:24:05,195
 He wouldn't do that!
 
-812
+808
 01:24:05,407 --> 01:24:06,499
 He's a good person.
 
-813
+809
 01:24:07,142 --> 01:24:08,803
 All dragon's are kind.
 
-814
+810
 01:24:09,044 --> 01:24:10,637
 Kind, and foolish.
 
-815
+811
 01:24:10,913 --> 01:24:12,813
 He came crawling to my sister
 
-816
+812
 01:24:13,081 --> 01:24:15,140
 just to get his hands on stronger magicks.
 
-817
+813
 01:24:15,751 --> 01:24:19,312
 And now he's servant to her greed.
 
-818
+814
 01:24:19,588 --> 01:24:21,613
 Now move.
 
-819
+815
 01:24:21,857 --> 01:24:24,224
 He's not long for this world anyway.
 
-820
+816
 01:24:24,493 --> 01:24:27,530
 There's a curse on that seal of mine.
 
-821
+817
 01:24:27,696 --> 01:24:29,755
 It kills anyone who tries to take it.
 
-822
+818
 01:24:30,632 --> 01:24:31,690
 No, he can't die!
 
-823
+819
 01:24:39,841 --> 01:24:41,809
 Now what are you bunch up to?
 
-824
+820
 01:24:42,044 --> 01:24:44,342
 Cut that out and get back in the play room.
 
-825
+821
 01:24:52,220 --> 01:24:54,587
 Ah... he got me again...
 
-826
+822
 01:24:54,856 --> 01:24:57,188
 Haku... no... wait!
 
-827
+823
 01:25:46,775 --> 01:25:47,867
-What the hell?
+What on earth?
 
-828
+824
 01:25:48,110 --> 01:25:49,737
 Hey, hold on!
 
-829
+825
 01:25:57,719 --> 01:25:59,084
 Does it hurt?
 
-830
+826
 01:26:02,824 --> 01:26:05,088
 This is bad.
 
-831
+827
 01:26:07,095 --> 01:26:08,256
 Haku, hold on!
 
-832
+828
 01:26:08,530 --> 01:26:10,123
 What do we do? He's going to die.
 
-833
+829
 01:26:10,799 --> 01:26:13,427
 There's something gnawing away at his insides.
 
-834
+830
 01:26:13,702 --> 01:26:14,567
 Inside him?
 
-835
+831
 01:26:14,803 --> 01:26:17,932
 This is some powerful magic. Nothing I can do.
 
-836
+832
 01:26:18,473 --> 01:26:21,568
 Haku, this is special medicine from a river god.
 
-837
+833
 01:26:21,810 --> 01:26:23,778
 It might help you.
 
-838
+834
 01:26:26,348 --> 01:26:28,282
 Haku, open your mouth!
 
-839
+835
 01:26:28,817 --> 01:26:31,184
 Haku, please eat it.
 
-840
+836
 01:26:33,088 --> 01:26:34,783
 Look, it's fine.
 
-841
+837
 01:26:35,257 --> 01:26:37,157
 Is that a Bitter Ball?
 
-842
+838
 01:26:37,492 --> 01:26:40,291
 Open your mouth...
 
-843
+839
 01:26:44,466 --> 01:26:47,197
 You'll be fine. Now swallow!
 
-844
+840
 01:27:06,088 --> 01:27:07,317
 There! That's it!
 
-845
+841
 01:27:20,235 --> 01:27:21,168
 The seal!
 
-846
+842
 01:27:21,536 --> 01:27:23,265
 It's getting away!
 
-847
+843
 01:27:43,058 --> 01:27:45,527
-Sen! The curse has you now, hold out your hands!
+Sen! The curse is on you now, hold out your hands!
 
-848
+844
 01:27:49,998 --> 01:27:50,726
 Begone!
 
-849
-01:27:50,932 --> 01:27:51,694
-This seal
+845
+01:27:50,932 --> 01:27:53,619
+This seal belongs to Yubaba's older sister.
 
-850
-01:27:51,933 --> 01:27:53,662
-belongs to Yubaba's older sister.
-
-851
+846
 01:27:54,169 --> 01:27:56,661
 Zeniba? Must be her Contract Seal!
 
-852
+847
 01:27:57,205 --> 01:27:59,105
 How did he get his hands on that...
 
-853
+848
 01:28:01,910 --> 01:28:03,708
 I knew it was Haku!
 
-854
+849
 01:28:04,012 --> 01:28:04,945
 Look, it's Haku!
 
-855
+850
 01:28:12,721 --> 01:28:14,553
 He's not breathing!
 
-856
+851
 01:28:14,790 --> 01:28:15,882
 No, I think he is...
 
-857
+852
 01:28:16,191 --> 01:28:18,250
 These curses are nasty business.
 
-858
+853
 01:28:27,769 --> 01:28:30,568
 We've done all we can for now.
 
-859
+854
 01:28:33,108 --> 01:28:34,234
 You should know something.
 
-860
+855
 01:28:34,476 --> 01:28:37,878
-Haku appeared out of the blue one day, just like you did.
+Haku appeared out of the blue one day,
+just like you did.
 
-861
+856
 01:28:38,113 --> 01:28:40,878
 Said he wanted to become a sorcerer.
 
-862
+857
 01:28:41,249 --> 01:28:43,081
 I tried to convince him otherwise.
 
-863
+858
 01:28:43,318 --> 01:28:46,754
-Told him he didn't understand what it meant to be a witch's apprentice.
+Told him he didn't understand
+what it meant to be a witch's apprentice.
 
-864
+859
 01:28:47,489 --> 01:28:49,423
 But he didn't listen.
 
-865
+860
 01:28:50,158 --> 01:28:51,751
 He said he had nowhere else to go
 
-866
+861
 01:28:51,993 --> 01:28:55,258
 and in time became Yubaba's underling.
 
-867
+862
 01:28:55,897 --> 01:28:59,060
 I could tell it took a toll on him.
 
-868
+863
 01:28:59,301 --> 01:29:01,929
 You could see the burden in his eyes.
 
-869
+864
 01:29:04,105 --> 01:29:05,903
 I know what I have to do.
 
-870
+865
 01:29:06,107 --> 01:29:08,041
 I need to take this back to Yubaba's sister.
 
-871
+866
 01:29:08,343 --> 01:29:09,435
 I'll apologize for Haku
 
-872
+867
 01:29:09,711 --> 01:29:11,839
 and ask her to heal him.
 
-873
+868
 01:29:12,047 --> 01:29:13,776
 Can you tell me where she is?
 
-874
+869
 01:29:14,549 --> 01:29:16,608
 Zeniba's place?
 
-875
+870
 01:29:17,152 --> 01:29:18,950
 These witches aren't to be triffled with.
 
-876
+871
 01:29:19,187 --> 01:29:19,915
 Please!
 
-877
+872
 01:29:20,188 --> 01:29:22,282
 Haku saved me once.
 
-878
+873
 01:29:22,557 --> 01:29:24,025
 Now it's my turn.
 
-879
+874
 01:29:24,659 --> 01:29:27,185
 I'm sure you could get there, but...
 
-880
+875
 01:29:27,462 --> 01:29:30,955
 The way back is the problem.
 
-881
+876
 01:29:31,566 --> 01:29:32,863
 Wait a minute.
 
-882
+877
 01:29:35,770 --> 01:29:38,933
 I know they're around here somewhere...
 
-883
+878
 01:29:39,708 --> 01:29:42,609
 Hey guys, can you grab my clothes and shoes?
 
-884
+879
 01:29:51,119 --> 01:29:53,816
-Sen! The hell are you doing down here?
+Sen! I've been looking everywhere for you!
 
-885
+880
 01:29:57,893 --> 01:30:00,487
 What's Haku doing here? What's going on?
 
-886
+881
 01:30:01,296 --> 01:30:02,195
 And what are those little things?
 
-887
+882
 01:30:03,431 --> 01:30:05,593
 They're my new friends.
 
-888
+883
 01:30:05,867 --> 01:30:07,232
 Yubaba's going crazy up there.
 
-889
+884
 01:30:07,435 --> 01:30:09,096
 She's tearing up the place looking for you.
 
-890
+885
 01:30:09,304 --> 01:30:10,794
 Turns out that high-roller up there
 
-891
+886
 01:30:11,039 --> 01:30:12,837
 was actually one of those No-Face creatures.
 
-892
+887
 01:30:13,375 --> 01:30:16,310
 And she's convinced you're the one who let it in!
 
-893
-01:30:18,546 --> 01:30:20,241
+888
+01:30:19,294 --> 01:30:20,241
 Maybe I did.
 
-894
+889
 01:30:20,615 --> 01:30:22,515
 What! Are you serious!
 
-895
+890
 01:30:22,784 --> 01:30:24,343
 I thought he was a customer...
 
-896
+891
 01:30:24,586 --> 01:30:25,246
 Well, now what?
 
-897
+892
 01:30:25,520 --> 01:30:27,648
 That thing has eaten three of the staff!
 
-898
+893
 01:30:28,223 --> 01:30:30,692
 Found 'em! Sen, here!
 
-899
+894
 01:30:31,626 --> 01:30:33,094
-Come on gramps, not now.
+Come on Jī-san, not now.
 
-900
+895
 01:30:33,361 --> 01:30:34,851
 You can use these.
 
-901
+896
 01:30:36,398 --> 01:30:37,331
 Train tickets?
 
-902
+897
 01:30:37,565 --> 01:30:39,033
 Where'd you get your hands on those?
 
-903
+898
 01:30:39,301 --> 01:30:41,668
 They're leftovers from forty years ago.
 
-904
+899
 01:30:41,903 --> 01:30:43,837
 Listen. You're going to ride the train to the sixth stop.
 
-905
+900
 01:30:44,072 --> 01:30:45,471
 The station is "Swamp Bottom".
 
-906
+901
 01:30:45,874 --> 01:30:46,864
 Swamp Bottom?
 
-907
+902
 01:30:47,108 --> 01:30:48,872
 Right. The sixth stop, got it?
 
-908
+903
 01:30:49,110 --> 01:30:49,872
 Sixth stop.
 
-909
+904
 01:30:50,445 --> 01:30:51,708
 Don't get it wrong.
 
-910
+905
 01:30:51,980 --> 01:30:54,005
 There used to be a return train
 
-911
+906
 01:30:54,249 --> 01:30:55,876
 but these days it's out-bound only.
 
-912
+907
 01:30:56,184 --> 01:30:57,618
 Still up to it?
 
-913
+908
 01:30:57,953 --> 01:31:01,014
 I'll be okay. I'll walk the tracks on the way back.
 
-914
+909
 01:31:02,991 --> 01:31:04,516
 What about Yubaba?
 
-915
+910
 01:31:04,759 --> 01:31:06,056
 I'll deal with her then go.
 
-916
+911
 01:31:06,828 --> 01:31:08,956
 Haku, I promise I'll be back soon.
 
-917
+912
 01:31:09,164 --> 01:31:10,563
 Don't die on me.
 
-918
+913
 01:31:11,366 --> 01:31:12,891
 Seriously, what is going on?
 
-919
+914
 01:31:13,535 --> 01:31:15,902
 Don't you see? It's love.
 
-920
+915
 01:31:23,578 --> 01:31:25,512
 Oh gods, it's huge!
 
-921
+916
 01:31:25,714 --> 01:31:26,374
 Gross.
 
-922
+917
 01:31:26,581 --> 01:31:27,742
 I don't want to get eaten!
 
-923
+918
 01:31:28,016 --> 01:31:28,744
 It's her.
 
-924
+919
 01:31:36,624 --> 01:31:37,887
 Sen? Finally.
 
-925
+920
 01:31:38,093 --> 01:31:40,755
 The Mitress is doing her best,
 but the creature is at wit's end.
 
-926
+921
 01:31:43,665 --> 01:31:45,326
 My dear customer, there's no need for such tantrums.
 
-927
+922
 01:31:45,600 --> 01:31:46,931
-Sen's on her way right now.
+Sen is on her way right now.
 
-928
+923
 01:31:47,902 --> 01:31:50,234
 Then where is she? Bring her to me right now!
 
-929
+924
 01:31:50,705 --> 01:31:51,934
 In you go.
 
-930
+925
 01:31:57,779 --> 01:31:59,440
 Mitress, she's here.
 
-931
+926
 01:31:59,748 --> 01:32:00,772
 About damn time!
 
-932
+927
 01:32:01,216 --> 01:32:03,184
 Sir, wonderful news, Sen is here!
 
-933
+928
 01:32:03,451 --> 01:32:05,180
 One moment while I get her ready for you.
 
-934
+929
 01:32:06,755 --> 01:32:08,245
 Just where the hell were you!
 
-935
+930
 01:32:08,490 --> 01:32:09,616
 That thing is tearing this place apart!
 
-936
+931
 01:32:09,924 --> 01:32:10,789
 Now you're going to get in there
 
-937
+932
 01:32:11,026 --> 01:32:12,755
 and milk that monstrosity for every gram of...
 
-938
+933
 01:32:16,731 --> 01:32:18,756
 What's a rat doing in here?
 
-939
+934
 01:32:20,869 --> 01:32:22,963
 You don't recognize him?
 
-940
+935
 01:32:23,471 --> 01:32:26,099
 Why would I? Rodents, yuck.
 
-941
+936
 01:32:26,441 --> 01:32:27,465
 Now get in there!
 
-942
+937
 01:32:29,310 --> 01:32:31,210
 At your leisure, good sir.
 
-943
+938
 01:32:32,447 --> 01:32:34,711
 Is she going to be alright in there?
 
-944
+939
 01:32:34,983 --> 01:32:36,007
 Want to trade places with her?
 
-945
+940
 01:32:57,405 --> 01:33:00,340
 Want some of this? It's fantastic.
 
-946
+941
 01:33:02,477 --> 01:33:03,842
 I know, how about some gold!
 
-947
+942
 01:33:04,045 --> 01:33:04,841
 They're all begging me for it
 
-948
+943
 01:33:05,080 --> 01:33:06,775
 but I've decided it's all for you.
 
-949
+944
 01:33:10,885 --> 01:33:12,182
 Now come closer.
 
-950
+945
 01:33:12,720 --> 01:33:16,281
 Just tell me what you want and it's yours.
 
-951
+946
 01:33:16,791 --> 01:33:18,418
 Where did you come from?
 
-952
+947
 01:33:18,793 --> 01:33:21,023
 There's something I really have to do, I can't stay.
 
-953
+948
 01:33:23,565 --> 01:33:25,863
 You should go home.
 
-954
+949
 01:33:26,201 --> 01:33:27,032
 There is something I want
 
-955
+950
 01:33:27,335 --> 01:33:28,860
 but it's not something you could ever give me.
 
-956
+951
 01:33:31,106 --> 01:33:32,039
 Where is your home?
 
-957
+952
 01:33:32,307 --> 01:33:33,900
 Don't you have a dad or a mom?
 
-958
+953
 01:33:34,976 --> 01:33:37,877
 Don't... say any more...
 
-959
+954
 01:33:39,214 --> 01:33:42,775
 Alone... so alone...
 
-960
+955
 01:33:43,852 --> 01:33:45,081
 You don't know where you're from?
 
-961
+956
 01:33:45,553 --> 01:33:48,716
 I want... I want you...
 
-962
+957
 01:33:49,791 --> 01:33:50,758
 Take my gold!
 
-963
+958
 01:33:51,593 --> 01:33:52,458
 You're going to eat me?
 
-964
+959
 01:33:52,660 --> 01:33:53,525
 Take it!
 
-965
+960
 01:33:53,728 --> 01:33:54,388
 Take it!
 
-966
+961
 01:34:03,872 --> 01:34:06,364
 If you're going to eat me, then eat this first.
 
-967
+962
 01:34:07,308 --> 01:34:08,469
 I was saving it for my dad and mom
 
-968
+963
 01:34:08,743 --> 01:34:10,905
 but I think you need it more.
 
-969
+964
 01:34:35,837 --> 01:34:39,102
 What did you make me swallow...!
 
-970
+965
 01:34:54,856 --> 01:34:55,948
 Everyone out of the way!
 
-971
+966
 01:34:57,292 --> 01:34:59,021
 Customer or not, that's far enough!
 
-972
+967
 01:35:12,674 --> 01:35:13,937
 Over here!
 
-973
+968
 01:35:14,842 --> 01:35:15,809
 I'm here!
 
-974
+969
 01:36:00,855 --> 01:36:01,981
 Unforgiveable...
 
-975
+970
 01:36:20,074 --> 01:36:21,872
 Sen! Down here!
 
-976
+971
 01:36:38,526 --> 01:36:40,551
 It's him. Hey! Down here!
 
-977
+972
 01:36:40,828 --> 01:36:42,227
 You nuts? You want it to chase us?
 
-978
+973
 01:36:46,434 --> 01:36:48,300
-It was being in there that made him crazy.
+Being in there was what made him crazy.
 
-979
+974
 01:36:48,569 --> 01:36:49,866
 We have to lead him away.
 
-980
+975
 01:36:50,104 --> 01:36:52,129
 And just where are we leading it?
 
-981
+976
 01:36:52,407 --> 01:36:53,135
 I'm not sure yet...
 
-982
+977
 01:36:53,408 --> 01:36:54,637
 You never had a plan?
 
-983
+978
 01:36:55,276 --> 01:36:57,870
 Great, here it comes.
 
-984
+979
 01:37:15,530 --> 01:37:16,429
 You can walk it from here.
 
-985
+980
 01:37:17,699 --> 01:37:19,258
 He says you'll know the station when you see it.
 
-986
+981
 01:37:19,667 --> 01:37:20,725
 Thanks.
 
-987
+982
 01:37:21,636 --> 01:37:23,104
 You better come back!
 
-988
+983
 01:37:29,944 --> 01:37:31,935
 I know I called you a wimp
 
-989
+984
 01:37:32,246 --> 01:37:33,611
 but I take it back!
 
-990
+985
 01:37:42,090 --> 01:37:42,955
 Hey, No-Face!
 
-991
+986
 01:37:43,224 --> 01:37:45,955
 You lay one finger on Sen and you'll answer to me!
 
-992
+987
 01:37:49,464 --> 01:37:50,454
 That's it!
 
-993
+988
 01:38:02,243 --> 01:38:03,267
 There's the train.
 
-994
+989
 01:38:03,544 --> 01:38:04,511
 Come on.
 
-995
+990
 01:38:28,202 --> 01:38:30,170
 We're going to Swamp Bottom.
 
-996
+991
 01:38:37,011 --> 01:38:38,308
 You coming too?
 
-997
+992
 01:38:40,214 --> 01:38:42,114
 He's coming too.
 
-998
+993
 01:39:22,824 --> 01:39:23,723
 Come here.
 
-999
+994
 01:39:24,725 --> 01:39:26,215
 Be good, okay?
 
-1000
+995
 01:41:28,549 --> 01:41:29,516
-Gramps?
+Ojī-san?
 
-1001
+996
 01:41:32,520 --> 01:41:34,852
 Haku, you're awake.
 
-1002
+997
 01:41:35,089 --> 01:41:36,523
 Where has Sen gone?
 
-1003
+998
 01:41:37,124 --> 01:41:39,525
 Please tell me what happened here.
 
-1004
+999
 01:41:40,094 --> 01:41:42,529
-You... don't remember?
+You don't remember?
 
-1005
+1000
 01:41:43,364 --> 01:41:45,526
 Only bits and pieces.
 
-1006
+1001
 01:41:45,766 --> 01:41:48,360
 But I could hear Chihiro call my name.
 
-1007
+1002
 01:41:48,869 --> 01:41:51,566
 Her voice carried me back up from the darkness.
 
-1008
+1003
 01:41:51,772 --> 01:41:52,898
 When I awoke, I was here.
 
-1009
+1004
 01:41:53,374 --> 01:41:55,365
 Chihiro?
 
-1010
+1005
 01:41:55,610 --> 01:41:58,204
 So Chihiro was her real name.
 
-1011
+1006
 01:41:59,547 --> 01:42:02,312
 Ah, to be young and in love again...
 
-1012
+1007
 01:42:06,187 --> 01:42:07,052
 How the hell are we supposed to manage repairs
 
-1013
+1008
 01:42:07,355 --> 01:42:09,050
 with this measly pile of gold?
 
-1014
+1009
 01:42:09,323 --> 01:42:10,051
 This is Sen's fault!
 
-1015
+1010
 01:42:10,257 --> 01:42:11,952
 What a total wasted opportunity!
 
-1016
+1011
 01:42:12,493 --> 01:42:13,221
 But ma'am...
 
-1017
+1012
 01:42:13,527 --> 01:42:15,894
 we have Sen to thank for our very lives.
 
-1018
+1013
 01:42:16,464 --> 01:42:17,522
 Silence!
 
-1019
+1014
 01:42:17,765 --> 01:42:19,961
 You have no one but yourselves to blame!
 
-1020
+1015
 01:42:20,334 --> 01:42:22,564
 And now she's run off
 
-1021
+1016
 01:42:22,803 --> 01:42:25,329
 even abandoning her own parents!
 
-1022
+1017
 01:42:26,140 --> 01:42:27,574
 Speaking of which, I'm sure they've fattened up nicely.
 
-1023
+1018
 01:42:27,842 --> 01:42:29,833
 I want to see some bacon on my plate tonight.
 
-1024
+1019
 01:42:30,344 --> 01:42:31,641
 A moment, mistress.
 
-1025
+1020
 01:42:33,047 --> 01:42:34,071
-Lord Haku!
+Haku-sama!
 
-1026
+1021
 01:42:34,348 --> 01:42:36,442
 What are you doing still alive?
 
-1027
+1022
 01:42:39,020 --> 01:42:40,215
 You haven't noticed?
 
-1028
+1023
 01:42:40,454 --> 01:42:42,218
 Something dear to you is not as it should be.
 
-1029
+1024
 01:42:42,823 --> 01:42:45,258
 Look who thinks he's big enough to talk back to me.
 
-1030
+1025
 01:42:45,760 --> 01:42:48,092
 Just who died and made you owner of the baths?
 
-1031
+1026
 01:43:39,814 --> 01:43:41,475
 My baby...
 
-1032
+1027
 01:43:47,855 --> 01:43:49,323
 My baby boy!
 
-1033
+1028
 01:43:49,623 --> 01:43:50,317
 It's just dirt.
 
-1034
+1029
 01:43:50,858 --> 01:43:53,327
 My baby!
 
-1035
+1030
 01:43:54,028 --> 01:43:57,692
 Where are you!
 
-1036
+1031
 01:43:58,365 --> 01:44:00,333
 Come out, come out!
 
-1037
+1032
 01:44:01,602 --> 01:44:02,501
 My baby!
 
-1038
+1033
 01:44:06,207 --> 01:44:08,005
 My baby...?
 
-1039
+1034
 01:44:13,180 --> 01:44:16,810
 You...!
 
-1040
+1035
 01:44:18,886 --> 01:44:21,856
 Speak!
 
-1041
+1036
 01:44:23,557 --> 01:44:27,357
 What have you done with my child?
 
-1042
+1037
 01:44:28,262 --> 01:44:29,696
 Your sister has him.
 
-1043
+1038
 01:44:53,120 --> 01:44:56,556
 I see... What a nasty woman.
 
-1044
+1039
 01:44:56,857 --> 01:44:59,383
 I bet she thinks she's beaten me.
 
-1045
+1040
 01:45:01,328 --> 01:45:03,228
 So, what are you going to do about this?
 
-1046
+1041
 01:45:03,998 --> 01:45:05,727
 I will bring him back for you.
 
-1047
+1042
 01:45:06,167 --> 01:45:07,896
 However, in exchange you must
 
-1048
+1043
 01:45:08,202 --> 01:45:10,364
 return Sen and her parents to their own world.
 
-1049
+1044
 01:45:10,638 --> 01:45:12,902
 And then what of you?
 
-1050
+1045
 01:45:13,340 --> 01:45:16,901
-Are you prepared to be hung by the neck from the rafters?
+Are you prepared to be hung
+by the neck from the rafters?
 
-1051
+1046
 01:46:03,891 --> 01:46:05,825
 This is it, right?
 
-1052
+1047
 01:46:06,827 --> 01:46:07,794
 Let's go.
 
-1053
+1048
 01:46:34,955 --> 01:46:36,286
 You can ride on my shoulder.
 
-1054
+1049
 01:47:55,235 --> 01:47:56,566
 Come in.
 
-1055
+1050
 01:48:01,775 --> 01:48:03,072
 Forgive the intrusion.
 
-1056
+1051
 01:48:05,612 --> 01:48:07,637
 Well don't just stand there!
 
-1057
+1052
 01:48:08,582 --> 01:48:09,413
 You too.
 
-1058
+1053
 01:48:12,920 --> 01:48:14,615
 Well done making it this far.
 
-1059
+1054
 01:48:14,822 --> 01:48:15,482
 Um, I...
 
-1060
+1055
 01:48:15,689 --> 01:48:17,088
 Sit, sit.
 
-1061
+1056
 01:48:17,624 --> 01:48:19,718
 I'll put on some tea for you.
 
-1062
+1057
 01:48:25,733 --> 01:48:28,430
 Zeniba-san, this is the seal Haku took from you.
 
-1063
+1058
 01:48:28,702 --> 01:48:29,794
 I've come to bring it back.
 
-1064
+1059
 01:48:32,940 --> 01:48:35,534
 Do you even know what this is?
 
-1065
+1060
 01:48:35,909 --> 01:48:38,606
 No, but I know it's important to you.
 
-1066
+1061
 01:48:38,946 --> 01:48:41,005
 I'm here to apologize for Haku.
 
-1067
+1062
 01:48:41,281 --> 01:48:42,442
 We're very sorry.
 
-1068
+1063
 01:48:43,484 --> 01:48:46,454
 You mean you held this and nothing happened to you?
 
-1069
+1064
 01:48:47,688 --> 01:48:50,385
 Hm? The spell I wove into this is gone.
 
-1070
+1065
 01:48:51,592 --> 01:48:52,423
 Ah, sorry.
 
-1071
+1066
 01:48:52,659 --> 01:48:54,684
 There was a weird slug thing attached to it
 
-1072
+1067
 01:48:54,962 --> 01:48:56,623
 but I squished it with my foot.
 
-1073
+1068
 01:48:57,164 --> 01:49:01,123
 You did what?
 
-1074
+1069
 01:49:01,502 --> 01:49:02,970
 My sister put that slug
 
-1075
+1070
 01:49:03,237 --> 01:49:04,762
 inside of the dragon's stomach
 
-1076
+1071
 01:49:05,005 --> 01:49:07,372
 in order to control him!
 
-1077
+1072
 01:49:07,641 --> 01:49:10,611
 And you just... squished it!
 
-1078
+1073
 01:49:13,080 --> 01:49:14,639
 Come now, take a seat.
 
-1079
+1074
 01:49:14,882 --> 01:49:17,749
 You must be No-Face. You join us too.
 
-1080
+1075
 01:49:18,786 --> 01:49:19,480
 Before that...
 
-1081
+1076
 01:49:19,787 --> 01:49:22,313
 Can you turn these two back first?
 
-1082
+1077
 01:49:22,589 --> 01:49:23,488
 Oh? But the curses
 
-1083
+1078
 01:49:23,757 --> 01:49:25,486
 on you little guys wore off a while ago.
 
-1084
+1079
 01:49:25,759 --> 01:49:27,887
 You can change back any time you want.
 
-1085
+1080
 01:49:35,536 --> 01:49:37,504
 You'd think we'd be more alike
 
-1086
+1081
 01:49:37,771 --> 01:49:39,170
-but we were always at each other's throats.
+but we've always been at each other's throats.
 
-1087
+1082
 01:49:39,406 --> 01:49:41,807
-ほら あの人 ハイカラじゃないじゃない
+She's not exactly low-maintenance, know what I mean?
 
-1088
+1083
 01:49:42,042 --> 01:49:45,012
 Witches should never be born as twins, too much trouble.
 
-1089
+1084
 01:49:49,316 --> 01:49:51,182
 I'd love to help you
 
-1090
+1085
 01:49:51,418 --> 01:49:53,648
 but this is out of my hands, I'm afraid.
 
-1091
+1086
 01:49:53,887 --> 01:49:55,685
 There are certain rules in this world we cannot break.
 
-1092
+1087
 01:49:56,356 --> 01:49:57,346
 You'll just have to save all three yourself.
 
-1093
+1088
 01:49:57,591 --> 01:49:59,081
 Both your parents...
 
-1094
+1089
 01:49:59,359 --> 01:50:01,020
 ...and your boyfriend, the dragon.
 
-1095
+1090
 01:50:01,261 --> 01:50:03,855
 Can't you give me a hint or something?
 
-1096
+1091
 01:50:04,565 --> 01:50:06,363
 Haku told me that we've met somewhere before
 
-1097
+1092
 01:50:06,600 --> 01:50:08,034
 but I just can't remember.
 
-1098
+1093
 01:50:08,235 --> 01:50:09,862
 You should have said so sooner.
 
-1099
+1094
 01:50:10,437 --> 01:50:12,872
 You can never truly forget someone.
 
-1100
+1095
 01:50:13,140 --> 01:50:15,006
 The memory is just evading you.
 
-1101
+1096
 01:50:16,710 --> 01:50:19,771
-But make yourself at home. You can head back in the morning.
+Make yourself at home.
+You can head back in the morning.
 
-1102
+1097
 01:50:20,547 --> 01:50:22,777
 You three mind giving me a hand?
 
-1103
+1098
 01:50:29,490 --> 01:50:31,049
 Hey now, no slacking.
 
-1104
+1099
 01:50:34,261 --> 01:50:36,787
 You're pretty good at this.
 
-1105
+1100
 01:50:37,064 --> 01:50:38,395
 What a big help you're being.
 
-1106
+1101
 01:50:39,533 --> 01:50:42,798
 Can't just weave it with magic, that would ruin the point.
 
-1107
+1102
 01:50:44,037 --> 01:50:48,065
 Then you pass it through there, good, now twice more.
 
-1108
+1103
 01:50:48,609 --> 01:50:50,976
 Obā-chan, I have to go.
 
-1109
+1104
 01:50:51,712 --> 01:50:53,202
 If I wait here any longer
 
-1110
+1105
 01:50:53,447 --> 01:50:55,381
 Haku might be dead before I get back to him.
 
-1111
+1106
 01:50:55,582 --> 01:50:56,606
 My Dad and my Mom
 
-1112
+1107
 01:50:56,817 --> 01:50:58,911
 might have already been eaten.
 
-1113
+1108
 01:51:01,355 --> 01:51:03,585
 Something tells me you don't need to worry.
 
-1114
+1109
 01:51:03,924 --> 01:51:05,551
 Here, it's done.
 
-1115
+1110
 01:51:06,426 --> 01:51:08,224
 A hair tie, just for you.
 
-1116
-01:51:12,699 --> 01:51:14,428
+1111
+01:51:13,633 --> 01:51:14,428
 It's beautiful.
 
-1117
+1112
 01:51:14,835 --> 01:51:17,980
 We made this together for you.
 
-1118
+1113
 01:51:17,938 --> 01:51:19,565
 It will always keep you safe.
 
-1119
+1114
 01:51:20,007 --> 01:51:21,236
 Thank you.
 
-1120
+1115
 01:51:30,817 --> 01:51:32,114
 About time he showed up.
 
-1121
+1116
 01:51:32,386 --> 01:51:34,411
 We have a guest. Why don't you let him in?
 
-1122
+1117
 01:51:34,655 --> 01:51:35,622
 Okay.
 
-1123
+1118
 01:51:53,440 --> 01:51:54,805
 You're alive.
 
-1124
+1119
 01:51:55,409 --> 01:51:57,605
 Are you okay? Are you still hurt?
 
-1125
+1120
 01:51:58,078 --> 01:51:59,011
 I'm so happy.
 
-1126
-01:51:59,780 --> 01:52:02,806
+1121
+01:52:01,129 --> 01:52:02,806
 What good timing.
 
-1127
+1122
 01:52:03,951 --> 01:52:05,976
 Obā-chan, he's okay!
 
-1128
+1123
 01:52:06,954 --> 01:52:07,819
 Dragon Haku.
 
-1129
+1124
 01:52:08,055 --> 01:52:10,820
-I hold you absolved of your crime to me.
+I absolve you of your crime to me.
 
-1130
+1125
 01:52:11,191 --> 01:52:14,320
 But in exchange, you must protect this little one.
 
-1131
+1126
 01:52:14,761 --> 01:52:17,662
 Time for my sweet nephew to head home too.
 
-1132
+1127
 01:52:17,931 --> 01:52:19,160
 You come visit me whenever you want.
 
-1133
+1128
 01:52:20,734 --> 01:52:22,498
 You can stay here with me.
 
-1134
+1129
 01:52:22,736 --> 01:52:24,500
 I could use a pair of hands around the house.
 
-1135
+1130
 01:52:29,176 --> 01:52:31,144
 We have to go now. Thanks for everything.
 
-1136
+1131
 01:52:31,378 --> 01:52:34,177
 You can do it, I know you can.
 
-1137
+1132
 01:52:34,648 --> 01:52:37,674
 My real name is Chihiro.
 
-1138
+1133
 01:52:38,018 --> 01:52:40,350
 Chihiro, what a pretty name.
 
-1139
+1134
 01:52:40,587 --> 01:52:42,282
 Respect your name and keep it safe.
 
-1140
+1135
 01:52:42,489 --> 01:52:43,149
 I will.
 
-1141
+1136
 01:52:43,390 --> 01:52:44,152
 Now go.
 
-1142
+1137
 01:52:47,027 --> 01:52:49,689
 Obā-chan, thank you! I'll miss you!
 
-1143
+1138
 01:53:39,079 --> 01:53:40,478
 Haku, listen.
 
-1144
+1139
 01:53:40,847 --> 01:53:42,144
 I don't really remember it myself
 
-1145
+1140
 01:53:42,416 --> 01:53:44,407
 but my mom told me a story once of when I was little.
 
-1146
+1141
 01:53:44,918 --> 01:53:48,252
 She said I fell into a river one day.
 
-1147
+1142
 01:53:49,056 --> 01:53:50,581
 The river's not there anymore, though.
 
-1148
+1143
 01:53:50,891 --> 01:53:52,757
 They paved over it and put up apartments.
 
-1149
+1144
 01:53:53,060 --> 01:53:54,926
 But it just came to me.
 
-1150
+1145
 01:53:56,263 --> 01:53:57,890
 The name of the river.
 
-1151
+1146
 01:53:58,532 --> 01:54:01,263
 It's name was the Kohaku River.
 
-1152
+1147
 01:54:02,102 --> 01:54:03,763
-Haku, your real name is
+Haku, I think your real name is
 
-1153
+1148
 01:54:04,004 --> 01:54:05,335
 the Kohaku River.
 
-1154
+1149
 01:54:26,660 --> 01:54:29,425
-Chihiro! You've done it! My true name is
+Chihiro, you've done it! My true name is
 
-1155
+1150
 01:54:29,663 --> 01:54:31,427
 Nigi-haya-mi Ko-haku-nushi!
 
-1156
+1151
 01:54:31,932 --> 01:54:32,797
 Nigi-haya-mi?
 
-1157
+1152
 01:54:33,100 --> 01:54:35,125
 Nigi-haya-mi Ko-haku-nushi.
 
-1158
+1153
 01:54:35,369 --> 01:54:37,804
-It sounds like a god's name, that's so cool.
+It sounds like a god's name, that's amazing.
 
-1159
+1154
 01:54:38,338 --> 01:54:39,806
 I remember everything now.
 
-1160
+1155
 01:54:40,040 --> 01:54:42,532
 I remember the day you fell into me
 
-1161
+1156
 01:54:42,976 --> 01:54:44,375
 trying to fish out the shoe you dropped!
 
-1162
+1157
 01:54:44,811 --> 01:54:48,805
 And you carried me back to the shore.
 
-1163
+1158
 01:54:50,150 --> 01:54:51,049
 I'm so happy.
 
-1164
+1159
 01:55:24,151 --> 01:55:25,516
 There they are!
 
-1165
+1160
 01:55:38,899 --> 01:55:41,266
-You better have brought my baby back home!
+You better have brought back my baby boy!
 
-1166
+1161
 01:55:44,304 --> 01:55:45,032
 Mommy!
 
-1167
+1162
 01:55:45,338 --> 01:55:47,534
 My boy! Are you hurt?
 
-1168
+1163
 01:55:47,774 --> 01:55:49,674
 They put you through so much.
 
-1169
+1164
 01:55:50,744 --> 01:55:53,213
 You're standing up on your own. How?
 
-1170
+1165
 01:55:54,781 --> 01:55:56,681
-Mistress Yubaba! It's time!
+Yubaba-sama! It's time!
 
-1171
+1166
 01:55:56,950 --> 01:55:59,851
 Send Chihiro and her parents back to their world!
 
-1172
+1167
 01:56:00,353 --> 01:56:02,720
 It isn't as simple as that, and you know it!
 
-1173
+1168
 01:56:02,956 --> 01:56:05,118
 We have rules here and we're going to follow them!
 
-1174
+1169
 01:56:06,760 --> 01:56:07,727
 Shut it!
 
-1175
+1170
 01:56:07,961 --> 01:56:09,759
 Come on Mom, cut it out.
 
-1176
+1171
 01:56:10,964 --> 01:56:13,126
 I had a great time.
 
-1177
+1172
 01:56:13,934 --> 01:56:16,562
 But sweetie, the rules are the rules...
 
-1178
+1173
 01:56:16,837 --> 01:56:19,101
 Otherwise we can't lift the curse.
 
-1179
+1174
 01:56:19,439 --> 01:56:20,304
 If you make Sen cry
 
-1180
+1175
 01:56:20,574 --> 01:56:22,508
 I'm gonna hate you forever.
 
-1181
+1176
 01:56:22,943 --> 01:56:24,035
 But I...
 
-1182
+1177
 01:56:24,277 --> 01:56:25,540
 Obā-chan!
 
-1183
+1178
 01:56:25,779 --> 01:56:26,905
 Who, me?
 
-1184
+1179
 01:56:27,481 --> 01:56:29,074
 I'll do it.
 
-1185
+1180
 01:56:40,594 --> 01:56:43,029
 Haku has told me about the rules.
 
-1186
+1181
 01:56:43,230 --> 01:56:44,925
 Then let's get this over with.
 
-1187
+1182
 01:56:45,165 --> 01:56:48,260
 This is your contract. Come with me.
 
-1188
+1183
 01:56:48,568 --> 01:56:50,593
 We'll be done right away, sweetie.
 
-1189
+1184
 01:56:51,705 --> 01:56:52,763
 I'll be fine.
 
-1190
+1185
 01:56:57,511 --> 01:56:58,808
 See these pigs?
 
-1191
+1186
 01:56:59,012 --> 01:57:01,174
 Point at the ones you think are your parents.
 
-1192
+1187
 01:57:10,757 --> 01:57:12,122
 You get one chance.
 
-1193
+1188
 01:57:12,359 --> 01:57:14,885
 Guess right and you're free to go.
 
-1194
+1189
 01:57:25,205 --> 01:57:27,799
 Something's wrong.
 
-1195
+1190
 01:57:28,074 --> 01:57:30,406
 None of these pigs are my parents.
 
-1196
+1191
 01:57:30,710 --> 01:57:34,146
 You sure? Is that your final answer?
 
-1197
+1192
 01:57:39,753 --> 01:57:42,654
 Bingo!
 
-1198
+1193
 01:57:49,496 --> 01:57:50,554
 Thank you, everyone!
 
-1199
+1194
 01:57:50,830 --> 01:57:52,320
 Alright, you win.
 
-1200
+1195
 01:57:52,566 --> 01:57:54,000
 Just hurry up and go.
 
-1201
+1196
 01:57:54,534 --> 01:57:55,626
 Thank you for the job.
 
-1202
+1197
 01:57:57,037 --> 01:57:58,163
 Goodbye!
 
-1203
+1198
 01:57:59,172 --> 01:57:59,900
 Thanks!
 
-1204
+1199
 01:58:00,173 --> 01:58:01,334
 See you soon!
 
-1205
+1200
 01:58:02,609 --> 01:58:03,474
 This way!
 
-1206
+1201
 01:58:04,110 --> 01:58:05,407
 Where are my parents?
 
-1207
+1202
 01:58:05,612 --> 01:58:06,773
 They're up ahead.
 
-1208
+1203
 01:58:14,421 --> 01:58:15,479
 The water is gone...
 
-1209
+1204
 01:58:15,722 --> 01:58:17,190
 This is as far as I go.
 
-1210
-01:58:17,791 --> 01:58:20,089
-Follow the path back the same way you came.
+1205
+01:58:17,802 --> 01:58:19,962
+Follow the path back the way you came.
 
-1211
-01:58:20,293 --> 01:58:22,022
+1206
+01:58:20,293 --> 01:58:21,917
 But whatever you do, don't turn back.
 
-1212
-01:58:22,262 --> 01:58:23,320
+1207
+01:58:22,317 --> 01:58:23,491
 You'll be safe once you're through the tunnel.
 
-1213
+1208
 01:58:23,663 --> 01:58:25,427
 But what about you?
 
-1214
+1209
 01:58:26,166 --> 01:58:28,692
-I'm going to talk to Yubaba and take back from freedom.
+I'm going to talk to Yubaba
+and take back from freedom.
 
-1215
+1210
 01:58:29,002 --> 01:58:31,369
-You gave me my name back, there's nothing she can do.
+You've given me my name back,
+there's nothing she can do.
 
-1216
+1211
 01:58:32,172 --> 01:58:33,867
 I will return to my own world too.
 
-1217
+1212
 01:58:34,107 --> 01:58:35,199
 Will we ever see each other again?
 
-1218
+1213
 01:58:35,475 --> 01:58:36,203
 We will.
 
-1219
+1214
 01:58:36,409 --> 01:58:37,069
 Promise me.
 
-1220
+1215
 01:58:37,277 --> 01:58:40,372
 We will. Now go, and don't look back.
 
-1221
+1216
 01:59:05,472 --> 01:59:07,941
 Hurry up, we have to get going!
 
-1222
+1217
 01:59:11,578 --> 01:59:13,239
 Mom! Dad!
 
-1223
+1218
 01:59:13,513 --> 01:59:15,072
 Where were you? We were worried.
 
-1224
+1219
 01:59:15,348 --> 01:59:16,247
 Let's go.
 
-1225
+1220
 01:59:17,117 --> 01:59:19,085
-Mom, are you... okay?
+Mom, are you okay?
 
-1226
+1221
 01:59:20,286 --> 01:59:21,310
 The moving van
 
-1227
+1222
 01:59:21,588 --> 01:59:23,317
 has definitely reached the house by now.
 
-1228
+1223
 01:59:33,099 --> 01:59:34,931
 Chihiro, let's go!
 
-1229
+1224
 01:59:44,110 --> 01:59:45,600
 Watch your step.
 
-1230
+1225
 01:59:45,879 --> 01:59:47,608
 Chihiro, stop tugging my arm,
 
-1231
+1226
 01:59:47,881 --> 01:59:48,939
 I can't walk straight.
 
-1232
+1227
 02:00:01,494 --> 02:00:02,586
 We're out.
 
-1233
+1228
 02:00:03,229 --> 02:00:04,355
 What the...?
 
-1234
+1229
 02:00:04,931 --> 02:00:05,955
 What's wrong?
 
-1235
+1230
 02:00:06,833 --> 02:00:08,028
 Look at this.
 
-1236
+1231
 02:00:10,070 --> 02:00:12,129
 The car's filled with dust.
 
-1237
+1232
 02:00:12,706 --> 02:00:13,366
 Some kind of prank?
 
-1238
+1233
 02:00:13,640 --> 02:00:14,471
 Yeah, maybe.
 
-1239
+1234
 02:00:14,708 --> 02:00:16,870
 We never should have gone in there.
 
-1240
+1235
 02:00:22,882 --> 02:00:24,976
 Well, the car starts, I guess it's fine.
 
-1241
+1236
 02:00:26,619 --> 02:00:28,314
-Chihiro, get in the car!
+Chihiro, we're leaving!
 
-1242
+1237
 02:00:28,888 --> 02:00:31,482
-Chihiro, listen to your father!
+Chihiro, get in the car!
 
