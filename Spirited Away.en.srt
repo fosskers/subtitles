@@ -2926,7 +2926,7 @@ You're in our customer's way. Move it!
 
 726
 01:15:23,753 --> 01:15:25,517
-Thank you for helping me the other day.
+Thank you for helping me yesterday.
 
 727
 01:15:25,955 --> 01:15:28,117
@@ -4656,7 +4656,7 @@ trying to fish out the shoe you dropped!
 
 1157
 01:54:44,811 --> 01:54:48,805
-And you carried me back to the shore.
+And you carried me back to safety.
 
 1158
 01:54:50,150 --> 01:54:51,049
