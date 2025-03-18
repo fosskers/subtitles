@@ -381,7 +381,7 @@ Over here.
 94
 00:07:55,809 --> 00:07:58,904
 How disappointing...
-it's all just restaurants.
+It's all just restaurants.
 
 95
 00:07:59,499 --> 00:08:00,754
@@ -1382,7 +1382,7 @@ You're never going home.
 
 341
 00:37:00,885 --> 00:37:03,718
-Might as well turn you into a piglet.
+Might as well turn you into a piglet now.
 
 342
 00:37:04,055 --> 00:37:06,786
@@ -1430,7 +1430,7 @@ Why on earth
 
 353
 00:37:48,733 --> 00:37:50,997
-do I have to give you of all people a job?
+should I give you of all people a job?
 
 354
 00:37:51,236 --> 00:37:55,332
@@ -1450,7 +1450,7 @@ No means no!
 
 358
 00:38:02,947 --> 00:38:04,540
-One more slacker under this roof
+One more freeloader under this roof
 
 359
 00:38:04,849 --> 00:38:06,578
@@ -1478,7 +1478,7 @@ Be good sweetie, I'll be right there...
 
 365
 00:38:38,783 --> 00:38:41,275
-What are you still doing there? Get out of here!
+What are you still doing there? Leave already!
 
 366
 00:38:41,686 --> 00:38:43,245
@@ -1506,7 +1506,7 @@ Fine! Fine! Just be quiet!
 
 372
 00:39:00,104 --> 00:39:04,439
-Ahh there there...
+Ahh, there there...
 
 373
 00:39:24,662 --> 00:39:26,130
@@ -1618,7 +1618,7 @@ This way, Sen.
 
 400
 00:40:57,722 --> 00:40:58,917
-Haku... I...
+Haku, I...
 
 401
 00:40:59,424 --> 00:41:00,892
@@ -1775,7 +1775,7 @@ Yeah?
 
 439
 00:42:53,971 --> 00:42:55,962
-Are there... two people named Haku here?
+Are there two people named Haku here?
 
 440
 00:42:56,240 --> 00:42:57,298
@@ -1791,7 +1791,7 @@ Still too big.
 
 443
 00:43:01,446 --> 00:43:02,675
-He's Yubāba's right-hand-man, can't trust the guy.
+He's Yubāba's right-hand-man.
 
 444
 00:43:02,980 --> 00:43:03,913
@@ -2185,7 +2185,7 @@ Haku is off on other duties.
 
 541
 00:56:10,133 --> 00:56:12,295
-Whoa, how you convince him to give you this?
+Whoa, how'd you convince him to give you this?
 
 542
 00:56:12,536 --> 00:56:14,971
@@ -2785,7 +2785,7 @@ Bring me all you got, I'm still starving!
 Where did he come from?
 
 691
-01:11:31,487 --> 01:11:32,215
+01:11:31,487 --> 01:11:32,315
 Who cares? Follow me!
 
 692
@@ -2814,7 +2814,7 @@ What am I going to do
 
 698
 01:12:10,893 --> 01:12:12,987
-if I can't tell them from the other pigs?
+if I can't tell them apart from the other pigs?
 
 699
 01:12:13,729 --> 01:12:16,664
@@ -3198,7 +3198,7 @@ Not quite.
 
 794
 01:23:02,878 --> 01:23:05,643
-Can't even tell I'm not your mom?
+Can't even tell I'm not your mother?
 
 795
 01:23:14,122 --> 01:23:16,750
@@ -3214,7 +3214,7 @@ This is our little secret.
 
 798
 01:23:40,282 --> 01:23:43,115
-Tell someone and you won't like the consequences.
+Tell anyone and you won't like the consequences.
 
 799
 01:23:44,820 --> 01:23:45,787
@@ -4375,7 +4375,7 @@ There are certain rules in this world we cannot break.
 
 1087
 01:49:56,356 --> 01:49:57,346
-You'll just have to save all three yourself.
+You'll just have to save them all yourself.
 
 1088
 01:49:57,591 --> 01:49:59,081
@@ -4452,7 +4452,7 @@ Haku might be dead before I get back to him.
 
 1106
 01:50:55,582 --> 01:50:56,606
-My Dad and my Mom
+My dad and my mom
 
 1107
 01:50:56,817 --> 01:50:58,911
@@ -4536,7 +4536,7 @@ Time for my sweet nephew to head home too.
 
 1127
 01:52:17,931 --> 01:52:19,160
-You come visit me whenever you want.
+Come visit me whenever you want.
 
 1128
 01:52:20,734 --> 01:52:22,498
@@ -4616,7 +4616,7 @@ It's name was the Kohaku River.
 
 1147
 01:54:02,102 --> 01:54:03,763
-Haku, I think your real name is
+I think your real name is
 
 1148
 01:54:04,004 --> 01:54:05,335
@@ -4640,7 +4640,7 @@ Nigi-haya-mi Ko-haku-nushi.
 
 1153
 01:54:35,369 --> 01:54:37,804
-It sounds like a god's name, that's amazing.
+It's like a god's name, that's amazing.
 
 1154
 01:54:38,338 --> 01:54:39,806
@@ -4656,7 +4656,7 @@ trying to fish out the shoe you dropped!
 
 1157
 01:54:44,811 --> 01:54:48,805
-And you carried me back to safety.
+And you carried me back to the river bank.
 
 1158
 01:54:50,150 --> 01:54:51,049
@@ -4874,7 +4874,7 @@ there's nothing she can do.
 
 1211
 01:58:32,172 --> 01:58:33,867
-I will return to my own world too.
+I will leave this world and return home as well.
 
 1212
 01:58:34,107 --> 01:58:35,199
