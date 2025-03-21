@@ -4981,211 +4981,210 @@ Chihiro, we're leaving!
 Chihiro, get in the car!
 
 1238
-02:00:57,901 --> 02:01:01,901
+02:00:57,901 --> 02:01:02,901
 TRANSLATOR'S NOTES
 
 1239
-02:01:02,001 --> 02:01:04,001
+02:01:03,001 --> 02:01:06,001
 --- Kohaku ---
 
 1240
-02:01:04,101 --> 02:01:06,101
+02:01:06,101 --> 02:01:09,101
 After Haku tells Chihiro his real name and that he remembers the day she fell
 
 1241
-02:01:06,201 --> 02:01:08,201
+02:01:09,201 --> 02:01:12,201
 into the river, she - once and only once - calls him Kohaku.
 
 1242
-02:01:08,301 --> 02:01:10,301
+02:01:12,301 --> 02:01:15,301
 Back at the bathhouse she refers to him as Haku again.
 
 1243
-02:01:10,401 --> 02:01:12,401
+02:01:15,401 --> 02:01:18,401
 --- Choosing the Pigs ---
 
 1244
-02:01:12,501 --> 02:01:14,501
+02:01:18,501 --> 02:01:21,501
 I was careful to choose English wording that made her task ambiguous.
 
 1245
-02:01:14,601 --> 02:01:16,601
+02:01:21,601 --> 02:01:24,601
 "Point at the ones you think are your parents."
 
 1246
-02:01:16,701 --> 02:01:18,701
+02:01:24,701 --> 02:01:27,701
 Never did she say her parents were actually there!
 
 1247
-02:01:18,801 --> 02:01:20,801
+02:01:27,801 --> 02:01:30,801
 --- 元の世界 - (My?) original world ---
 
 1248
-02:01:20,901 --> 02:01:22,901
+02:01:30,901 --> 02:01:33,901
 It's not clear exactly what Haku meant by "original" here,
 
 1249
-02:01:23,001 --> 02:01:25,001
+02:01:34,001 --> 02:01:37,001
 so it's difficult to translate as "my world" or even "our world".
 
 1250
-02:01:25,101 --> 02:01:27,101
+02:01:37,101 --> 02:01:40,101
 Is he referring to a zone for nature spirits, or just the real, human world?
 
 1251
-02:01:27,201 --> 02:01:29,201
+02:01:40,201 --> 02:01:43,201
 --- Chihiro's Boyfriend ---
 
 1252
-02:01:29,301 --> 02:01:31,301
+02:01:43,301 --> 02:01:46,301
 Whoever she ended up dating later in life had a tough act to follow.
 
 1253
-02:01:31,401 --> 02:01:33,401
+02:01:46,401 --> 02:01:49,401
 "Yeah... my last boyfriend was a magical river dragon"
 
 1254
-02:01:33,501 --> 02:01:35,501
+02:01:49,501 --> 02:01:52,501
 "who I'm connected to through destiny... so..."
 
 1255
-02:01:35,601 --> 02:01:37,601
+02:01:52,601 --> 02:01:55,601
 The same thing happened to Kagome,
 
 1256
-02:01:37,701 --> 02:01:39,701
+02:01:55,701 --> 02:01:58,701
 and she ended up returning to the past to live with Inuyasha.
 
 1257
-02:01:39,801 --> 02:01:41,801
+02:01:58,801 --> 02:02:01,801
 --- Two Futures ---
 
 1258
-02:01:41,901 --> 02:01:43,901
+02:02:01,901 --> 02:02:04,901
 Do you think, as life moves on and things change, that she'd sometimes forget
 
 1259
-02:01:44,001 --> 02:01:46,001
+02:02:05,001 --> 02:02:08,001
 that that had ever happened to her?
 
 1260
-02:01:46,101 --> 02:01:48,101
+02:02:08,101 --> 02:02:11,101
 How long did she have that hair tie?
 
 1261
-02:01:48,201 --> 02:01:50,201
+02:02:11,201 --> 02:02:14,201
 Did it get forgotten in a drawer one day?
 
 1262
-02:01:50,301 --> 02:01:52,301
+02:02:14,301 --> 02:02:17,301
 Or, was she truly reborn after that, and never stopped holding Haku
 
 1263
-02:01:52,401 --> 02:01:54,401
+02:02:17,401 --> 02:02:20,401
 and the memory of those days in her heart?
 
 1264
-02:01:54,501 --> 02:01:56,501
+02:02:20,501 --> 02:02:23,501
 Did she look for Haku and one day find him?
 
 1265
-02:01:56,601 --> 02:01:58,601
+02:02:23,601 --> 02:02:26,601
 --- Woodbury In-jokes ---
 
 1266
-02:01:58,701 --> 02:02:00,701
+02:02:26,701 --> 02:02:29,701
 Did you notice them all?
 
 1267
-02:02:00,801 --> 02:02:02,801
+02:02:29,801 --> 02:02:32,801
 'Raised in a barn.'
 
 1268
-02:02:02,901 --> 02:02:04,901
+02:02:32,901 --> 02:02:35,901
 'Baby boy.'
 
 1269
-02:02:05,001 --> 02:02:07,001
+02:02:36,001 --> 02:02:39,001
 'Fake tears.'
 
 1270
-02:02:07,101 --> 02:02:09,101
+02:02:39,101 --> 02:02:42,101
 'Is that your final answer?'
 
 1271
-02:02:09,201 --> 02:02:11,201
+02:02:42,201 --> 02:02:45,201
 --- My Favourite Lines ---
 
 1272
-02:02:11,301 --> 02:02:13,301
+02:02:45,301 --> 02:02:48,301
 This movie has 1,237 translated lines. These are my favourites.
 
 1273
-02:02:13,401 --> 02:02:15,401
+02:02:48,401 --> 02:02:51,401
 "In the name of the Wind and Water within you..."
 
 1274
-02:02:15,501 --> 02:02:17,501
+02:02:51,501 --> 02:02:54,501
 Alliteration with Ws. Rhythm is also good.
 
 1275
-02:02:17,601 --> 02:02:19,601
+02:02:54,601 --> 02:02:57,601
 "You'll be Sen on the surface with your true name spirited away within your heart."
 
 1276
-02:02:19,701 --> 02:02:21,701
+02:02:57,701 --> 02:03:00,701
 Name drop.
 
 1277
-02:02:21,801 --> 02:02:23,801
+02:03:00,801 --> 02:03:03,801
 "That dragon is a slave to my sister and a thief."
 
 1278
-02:02:23,901 --> 02:02:25,901
+02:03:03,901 --> 02:03:06,901
 Biting words.
 
 1279
-02:02:26,001 --> 02:02:28,001
+02:03:07,001 --> 02:03:10,001
 "There is something I want but it's not something you could ever give me."
 
 1280
-02:02:28,101 --> 02:02:30,101
+02:03:10,101 --> 02:03:13,101
 No-Face is a fantastic archetypal figure, he represents so much at once.
 
 1281
-02:02:30,201 --> 02:02:32,201
+02:03:13,201 --> 02:03:16,201
 "Something dear to you is not as it should be."
 
 1282
-02:02:32,301 --> 02:02:34,301
+02:03:16,301 --> 02:03:19,301
 Just a good line.
 
 1283
-02:02:34,401 --> 02:02:36,401
+02:03:19,401 --> 02:03:22,401
 And finally, Chihiro's and Haku's parting words:
 
 1284
-02:02:36,501 --> 02:02:38,501
+02:03:22,501 --> 02:03:25,501
 C: "Will we ever see each other again?"
 
 1285
-02:02:38,601 --> 02:02:40,601
+02:03:25,601 --> 02:03:28,601
 H: "We will."
 
 1286
-02:02:40,701 --> 02:02:42,701
+02:03:28,701 --> 02:03:31,701
 C: "Promise me."
 
 1287
-02:02:42,801 --> 02:02:44,801
+02:03:31,801 --> 02:03:34,801
 H: "We will. Now go, and don't look back."
 
 1288
-02:02:44,901 --> 02:02:46,901
+02:03:34,901 --> 02:03:37,901
 I found it bittersweet.
 
 1289
-02:02:47,001 --> 02:02:50,001
+02:03:38,001 --> 02:03:42,001
 Thanks for watching!
 -- Colin
-
