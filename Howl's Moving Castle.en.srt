@@ -70,7 +70,7 @@ He's just hiding in the clouds
 
 18
 00:02:14,935 --> 00:02:16,232
-what with all those army planes flying about.
+what with all those army planes flying around.
 
 19
 00:02:16,370 --> 00:02:18,964
@@ -82,7 +82,7 @@ They say Howl stole her heart!
 
 21
 00:02:21,608 --> 00:02:22,439
-Don't freak me out...
+You're scaring me...
 
 22
 00:02:22,542 --> 00:02:25,068
@@ -150,7 +150,7 @@ She's with me.
 
 38
 00:05:04,971 --> 00:05:08,134
-Why don't you guys for a little stroll?
+Why don't you guys go for a little stroll?
 
 39
 00:05:15,348 --> 00:05:19,114
@@ -250,11 +250,11 @@ What's wrong?
 
 63
 00:07:30,951 --> 00:07:32,112
-They said you just dropped from the sky!
+They said you just dropped down from the sky!
 
 64
 00:07:32,218 --> 00:07:33,652
-When did you become an angel?
+Do you sprout wings all of a sudden?
 
 65
 00:07:34,254 --> 00:07:36,814
@@ -306,7 +306,7 @@ Howl only goes after the pretty ones.
 
 77
 00:08:04,451 --> 00:08:05,919
-Oh come on...
+Oh, come on...
 
 78
 00:08:06,019 --> 00:08:09,250
@@ -314,7 +314,7 @@ Listen, the world is a dark place these days!
 
 79
 00:08:09,356 --> 00:08:12,917
-They're even saying the Witch of the Wastes is wandering about.
+They're even saying the Witch of the Wastes has been seen around.
 
 80
 00:08:13,793 --> 00:08:15,261
@@ -399,7 +399,7 @@ Sophie
 
 100
 00:08:57,537 --> 00:08:59,437
-you have to decide your future for yourself!
+you have to choose your own path for yourself!
 
 101
 00:08:59,539 --> 00:09:00,267
@@ -435,7 +435,7 @@ Please be on your way.
 
 109
 00:10:37,604 --> 00:10:39,834
-You're going to tell the Witch of the Wastes what to do?
+Telling the Witch of the Wastes what to do?
 
 110
 00:10:39,939 --> 00:10:41,031
@@ -463,7 +463,7 @@ Gotta calm down...
 
 116
 00:12:05,792 --> 00:12:09,251
-Panicking won't solve anything, Sophie...
+Panicking won't fix anything, Sophie...
 
 117
 00:12:10,396 --> 00:12:13,388
@@ -495,7 +495,7 @@ It looks amazing.
 
 124
 00:12:39,259 --> 00:12:41,387
-Wait 'til they all get a look at me.
+Wait until they all get a look at me.
 
 125
 00:12:44,130 --> 00:12:45,495
@@ -551,7 +551,7 @@ Oww... getting old isn't easy, is it.
 
 138
 00:14:22,495 --> 00:14:24,862
-Shall I help you down, ma'am?
+Need a hand, ma'am?
 
 139
 00:14:24,964 --> 00:14:28,628
@@ -668,7 +668,7 @@ You don't need to return the favour.
 
 167
 00:16:47,106 --> 00:16:49,131
-You're some sort of magic thing too, right?
+You're some sort of magical thing too, right?
 
 168
 00:16:49,242 --> 00:16:52,109
@@ -692,7 +692,7 @@ I sure wouldn't mind if you found me a place for the night.
 
 173
 00:17:35,488 --> 00:17:38,253
-Looks like I got more clever with age too.
+Looks like I got more clever with age, too.
 
 174
 00:17:49,135 --> 00:17:51,103
@@ -832,7 +832,7 @@ Okay Calcifer
 
 208
 00:21:45,971 --> 00:21:48,804
-can you get rid of this curse on me?
+can you lift this curse on me?
 
 209
 00:21:49,441 --> 00:21:50,499
@@ -1072,7 +1072,7 @@ And you should stop with that silly costume.
 
 268
 00:25:47,846 --> 00:25:50,372
-This isn't a costume, it's magic!
+It's not a costume, it's magic!
 
 269
 00:25:52,518 --> 00:25:54,350
@@ -1144,7 +1144,7 @@ I'm going to make breakfast.
 
 286
 00:27:43,996 --> 00:27:46,328
-You even got some bacon and eggs sitting here!
+You even have some bacon and eggs sitting here!
 
 287
 00:27:47,266 --> 00:27:48,756
@@ -1248,7 +1248,7 @@ Calcifer
 
 312
 00:29:18,457 --> 00:29:20,084
-look at you doing what you're told.
+look at you, doing what you're told.
 
 313
 00:29:20,459 --> 00:29:22,086
@@ -1276,7 +1276,7 @@ Here, let me do it.
 
 319
 00:29:39,011 --> 00:29:42,174
-Pass me two more bacon strips and six eggs.
+Pass me two more bacon strips and then six eggs.
 
 320
 00:30:02,567 --> 00:30:03,693
@@ -1356,7 +1356,7 @@ since we had a proper breakfast like this.
 
 339
 00:31:25,250 --> 00:31:28,151
-Looks like I'm teaching manners too...
+Looks like I'll be teaching manners too...
 
 340
 00:31:29,221 --> 00:31:31,986
@@ -1384,7 +1384,7 @@ Is it from the Witch of the Wastes?
 
 346
 00:32:01,987 --> 00:32:05,753
-"Loveless one, he who swallowed a star"
+"Loveless one, star eater"
 
 347
 00:32:05,857 --> 00:32:08,224
@@ -1496,7 +1496,7 @@ I'm gonna fall!
 
 374
 00:33:58,837 --> 00:34:01,670
-I'm going to clear out the ashes. Won't take a minute.
+I'm just clearing out the ashes. Won't take a minute.
 
 375
 00:34:01,773 --> 00:34:03,707
@@ -1568,11 +1568,11 @@ No, not the second floor!
 
 392
 00:35:24,689 --> 00:35:26,157
-If I were you kiddo
+If I were you, kiddo
 
 393
 00:35:26,257 --> 00:35:27,622
-I'd hurry and put away all the things you don't want touched, eh?
+I'd go hide all the things I don't want touched, eh?
 
 394
 00:35:28,827 --> 00:35:31,091
@@ -1580,7 +1580,7 @@ Do mine later, okay?
 
 395
 00:35:33,798 --> 00:35:37,029
-A little bit of anger and I feel good as new.
+All that really got the blood flowing.
 
 396
 00:35:40,605 --> 00:35:43,438
@@ -1644,7 +1644,7 @@ A scarecrow!
 
 411
 00:37:43,962 --> 00:37:45,930
-Ah... I named him "Turnip".
+Ah... I've been calling him "Turnip".
 
 412
 00:37:46,131 --> 00:37:48,998
@@ -2128,7 +2128,7 @@ All these trinkets
 
 532
 00:50:22,486 --> 00:50:24,978
-are charms to confuse her seeking spells.
+are charms to ward off her scrying spells.
 
 533
 00:50:25,089 --> 00:50:26,784
@@ -2296,7 +2296,7 @@ The castle was further than I thought.
 
 574
 00:53:51,361 --> 00:53:53,455
-You're not Howl, are you?
+Howl...? Is that you?
 
 575
 00:53:57,434 --> 00:53:59,027
@@ -2308,7 +2308,7 @@ An old dog? Really?
 
 577
 00:54:02,339 --> 00:54:03,534
-You don't really get how hard
+You really don't get how hard
 
 578
 00:54:03,640 --> 00:54:04,630
@@ -2380,7 +2380,7 @@ I couldn't care less.
 
 595
 00:54:47,384 --> 00:54:49,614
-Just get rid of this curse you put on me!
+Just lift this stupid curse you put on me!
 
 596
 00:54:49,987 --> 00:54:53,924
@@ -2726,11 +2726,11 @@ What did they do to you?
 
 681
 01:02:17,734 --> 01:02:20,795
-I've simply returned her to her true age.
+I've simply returned her to her true age
 
 682
 01:02:20,904 --> 01:02:22,565
-Her powers have been stripped as well.
+and rendered her powerless.
 
 683
 01:02:23,039 --> 01:02:26,903
@@ -2926,7 +2926,7 @@ It's time for the final battle!
 
 731
 01:04:36,106 --> 01:04:39,098
-We're going to grind them into the dust once and for all!
+We're going to smash them into the dust once and for all!
 
 732
 01:04:42,445 --> 01:04:44,641
@@ -2966,7 +2966,7 @@ I'm here, I've kept my promise.
 
 741
 01:05:03,333 --> 01:05:05,802
-And fighting with you is the last thing I want to do.
+But fighting with you is the last thing I want to do.
 
 742
 01:05:06,002 --> 01:05:07,470
@@ -3142,7 +3142,7 @@ Get him!
 
 785
 01:09:37,240 --> 01:09:39,504
-We're almost there. That's my town down there.
+We're almost there. That's my hometown down there.
 
 786
 01:09:43,212 --> 01:09:44,737
@@ -3154,7 +3154,7 @@ I don't trust you after all that.
 
 788
 01:10:10,406 --> 01:10:12,374
-It's the castle! They came to meet us!
+It's the castle! They came to get us!
 
 789
 01:10:19,716 --> 01:10:21,377
@@ -3182,7 +3182,7 @@ I'm so glad.
 
 795
 01:10:49,412 --> 01:10:52,347
-Thanks for coming to get us.
+Thanks for coming for us.
 
 796
 01:11:21,878 --> 01:11:25,473
@@ -3274,7 +3274,7 @@ What is it? Where are you hiding it?
 
 818
 01:14:51,387 --> 01:14:52,684
-I'm really can't tell you
+I really can't tell you
 
 819
 01:14:52,788 --> 01:14:54,222
@@ -3330,7 +3330,7 @@ Seen from the inside, this "castle"
 
 832
 01:16:15,871 --> 01:16:18,465
-is just a patchwork of spare parts, isn't it?
+is quite the patch job, isn't it?
 
 833
 01:16:20,242 --> 01:16:22,574
@@ -3538,7 +3538,7 @@ Heen, this way!
 
 884
 01:20:10,472 --> 01:20:12,099
-The door colours are different now too.
+The door colours are different now, too.
 
 885
 01:20:12,207 --> 01:20:14,175
@@ -4670,7 +4670,7 @@ I'm going to try.
 
 1167
 01:51:07,995 --> 01:51:11,295
-What a gentle flutter.
+What a gentle little heartbeat.
 
 1168
 01:51:11,398 --> 01:51:13,594
@@ -4838,7 +4838,7 @@ Summon the Prime Minister and the Chief of Staff.
 
 1209
 01:54:05,172 --> 01:54:08,142
-It's time to stop this idiotic war.
+It's time to stop this moronic war.
 
 1210
 01:54:08,241 --> 01:54:09,106
